@@ -1,0 +1,1297 @@
+"date","geoRegion","altersklasse_covid19","entries","type_variant","pop","sumTotal","per100Persons","per100Persons_mean7d","per100PersonsTotal","mean7d","type","version","granularity","freq","prct"
+202052,"AI","0 - 9",0,"altersklasse_covid19",1763,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AI","0 - 9",0,"altersklasse_covid19",1763,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"AI","0 - 9",0,"altersklasse_covid19",1763,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AI","0 - 9",0,"altersklasse_covid19",1763,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AI","0 - 9",0,"altersklasse_covid19",1763,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"AI","0 - 9",0,"altersklasse_covid19",1763,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"AI","0 - 9",0,"altersklasse_covid19",1763,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"AI","0 - 9",0,"altersklasse_covid19",1763,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"AI","0 - 9",0,"altersklasse_covid19",1763,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"AI","0 - 9",0,"altersklasse_covid19",1763,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"AI","0 - 9",0,"altersklasse_covid19",1763,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"AI","0 - 9",0,"altersklasse_covid19",1763,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"AI","10 - 19",0,"altersklasse_covid19",1642,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AI","10 - 19",0,"altersklasse_covid19",1642,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"AI","10 - 19",0,"altersklasse_covid19",1642,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AI","10 - 19",0,"altersklasse_covid19",1642,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AI","10 - 19",0,"altersklasse_covid19",1642,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"AI","10 - 19",0,"altersklasse_covid19",1642,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"AI","10 - 19",0,"altersklasse_covid19",1642,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"AI","10 - 19",0,"altersklasse_covid19",1642,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"AI","10 - 19",0,"altersklasse_covid19",1642,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"AI","10 - 19",0,"altersklasse_covid19",1642,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"AI","10 - 19",0,"altersklasse_covid19",1642,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"AI","10 - 19",0,"altersklasse_covid19",1642,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"AI","20 - 29",0,"altersklasse_covid19",2104,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AI","20 - 29",0,"altersklasse_covid19",2104,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"AI","20 - 29",0,"altersklasse_covid19",2104,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AI","20 - 29",0,"altersklasse_covid19",2104,0,0,0.06,0,1.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AI","20 - 29",0,"altersklasse_covid19",2104,0,0,0.06,0,1.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"AI","20 - 29",6,"altersklasse_covid19",2104,6,0.29,0.12,0.29,2.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.065,6.5
+202105,"AI","20 - 29",2,"altersklasse_covid19",2104,8,0.1,0.12,0.38,2.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.007,0.7
+202106,"AI","20 - 29",0,"altersklasse_covid19",2104,8,0,0.12,0.38,2.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"AI","20 - 29",9,"altersklasse_covid19",2104,17,0.43,0.12,0.81,2.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.024,2.4
+202108,"AI","20 - 29",0,"altersklasse_covid19",2104,17,0,NA,0.81,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"AI","20 - 29",0,"altersklasse_covid19",2104,17,0,NA,0.81,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"AI","20 - 29",1,"altersklasse_covid19",2104,18,0.05,NA,0.86,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.011,1.1
+202052,"AI","30 - 39",0,"altersklasse_covid19",2008,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AI","30 - 39",0,"altersklasse_covid19",2008,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"AI","30 - 39",0,"altersklasse_covid19",2008,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AI","30 - 39",0,"altersklasse_covid19",2008,0,0,0.02,0,0.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AI","30 - 39",0,"altersklasse_covid19",2008,0,0,0.04,0,0.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"AI","30 - 39",2,"altersklasse_covid19",2008,2,0.1,0.08,0.1,1.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.022,2.2
+202105,"AI","30 - 39",1,"altersklasse_covid19",2008,3,0.05,0.08,0.15,1.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202106,"AI","30 - 39",3,"altersklasse_covid19",2008,6,0.15,0.08,0.3,1.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.016,1.6
+202107,"AI","30 - 39",5,"altersklasse_covid19",2008,11,0.25,0.1,0.55,2,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.013,1.3
+202108,"AI","30 - 39",0,"altersklasse_covid19",2008,11,0,NA,0.55,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"AI","30 - 39",0,"altersklasse_covid19",2008,11,0,NA,0.55,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"AI","30 - 39",3,"altersklasse_covid19",2008,14,0.15,NA,0.7,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.032,3.2
+202052,"AI","40 - 49",0,"altersklasse_covid19",2002,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AI","40 - 49",0,"altersklasse_covid19",2002,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"AI","40 - 49",0,"altersklasse_covid19",2002,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AI","40 - 49",0,"altersklasse_covid19",2002,0,0,0.09,0,1.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AI","40 - 49",0,"altersklasse_covid19",2002,0,0,0.14,0,2.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"AI","40 - 49",4,"altersklasse_covid19",2002,4,0.2,0.32,0.2,6.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.043,4.3
+202105,"AI","40 - 49",8,"altersklasse_covid19",2002,12,0.4,0.32,0.6,6.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.026,2.6
+202106,"AI","40 - 49",7,"altersklasse_covid19",2002,19,0.35,0.32,0.95,6.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.036,3.6
+202107,"AI","40 - 49",26,"altersklasse_covid19",2002,45,1.3,0.33,2.25,6.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.068,6.8
+202108,"AI","40 - 49",0,"altersklasse_covid19",2002,45,0,NA,2.25,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"AI","40 - 49",0,"altersklasse_covid19",2002,45,0,NA,2.25,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"AI","40 - 49",1,"altersklasse_covid19",2002,46,0.05,NA,2.3,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.011,1.1
+202052,"AI","50 - 59",0,"altersklasse_covid19",2441,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AI","50 - 59",0,"altersklasse_covid19",2441,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"AI","50 - 59",0,"altersklasse_covid19",2441,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AI","50 - 59",0,"altersklasse_covid19",2441,0,0,0.13,0,3.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AI","50 - 59",0,"altersklasse_covid19",2441,0,0,0.23,0,5.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"AI","50 - 59",5,"altersklasse_covid19",2441,5,0.2,0.43,0.2,10.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.054,5.4
+202105,"AI","50 - 59",18,"altersklasse_covid19",2441,23,0.74,0.43,0.94,10.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.06,6
+202106,"AI","50 - 59",17,"altersklasse_covid19",2441,40,0.7,0.43,1.64,10.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.089,8.9
+202107,"AI","50 - 59",33,"altersklasse_covid19",2441,73,1.35,0.46,2.99,11.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.086,8.6
+202108,"AI","50 - 59",1,"altersklasse_covid19",2441,74,0.04,NA,3.03,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.019,1.9
+202109,"AI","50 - 59",0,"altersklasse_covid19",2441,74,0,NA,3.03,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"AI","50 - 59",5,"altersklasse_covid19",2441,79,0.2,NA,3.24,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.053,5.3
+202052,"AI","60 - 69",0,"altersklasse_covid19",1884,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AI","60 - 69",0,"altersklasse_covid19",1884,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"AI","60 - 69",0,"altersklasse_covid19",1884,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AI","60 - 69",0,"altersklasse_covid19",1884,0,0,0.29,0,5.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AI","60 - 69",0,"altersklasse_covid19",1884,0,0,0.43,0,8,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"AI","60 - 69",7,"altersklasse_covid19",1884,7,0.37,0.9,0.37,16.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.076,7.6
+202105,"AI","60 - 69",31,"altersklasse_covid19",1884,38,1.65,0.93,2.02,17.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.103,10.3
+202106,"AI","60 - 69",18,"altersklasse_covid19",1884,56,0.96,0.93,2.97,17.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.094,9.4
+202107,"AI","60 - 69",62,"altersklasse_covid19",1884,118,3.29,1.1,6.26,20.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.162,16.2
+202108,"AI","60 - 69",4,"altersklasse_covid19",1884,122,0.21,NA,6.48,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.075,7.5
+202109,"AI","60 - 69",0,"altersklasse_covid19",1884,122,0,NA,6.48,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"AI","60 - 69",23,"altersklasse_covid19",1884,145,1.22,NA,7.7,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.242,24.2
+202052,"AI","70 - 79",0,"altersklasse_covid19",1332,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AI","70 - 79",0,"altersklasse_covid19",1332,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"AI","70 - 79",0,"altersklasse_covid19",1332,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AI","70 - 79",0,"altersklasse_covid19",1332,0,0,1.27,0,16.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AI","70 - 79",0,"altersklasse_covid19",1332,0,0,1.97,0,26.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"AI","70 - 79",16,"altersklasse_covid19",1332,16,1.2,3.4,1.2,45.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.174,17.4
+202105,"AI","70 - 79",102,"altersklasse_covid19",1332,118,7.66,3.71,8.86,49.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.338,33.8
+202106,"AI","70 - 79",66,"altersklasse_covid19",1332,184,4.95,3.72,13.81,49.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.344,34.4
+202107,"AI","70 - 79",133,"altersklasse_covid19",1332,317,9.98,4.11,23.8,54.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.348,34.8
+202108,"AI","70 - 79",29,"altersklasse_covid19",1332,346,2.18,NA,25.98,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.547,54.7
+202109,"AI","70 - 79",1,"altersklasse_covid19",1332,347,0.08,NA,26.05,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",1,100
+202110,"AI","70 - 79",36,"altersklasse_covid19",1332,383,2.7,NA,28.75,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.379,37.9
+202052,"AI","80+",0,"altersklasse_covid19",952,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AI","80+",0,"altersklasse_covid19",952,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"AI","80+",0,"altersklasse_covid19",952,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AI","80+",0,"altersklasse_covid19",952,0,0,2.88,0,27.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AI","80+",0,"altersklasse_covid19",952,0,0,4.1,0,39,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"AI","80+",52,"altersklasse_covid19",952,52,5.46,5.81,5.46,55.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.565,56.5
+202105,"AI","80+",140,"altersklasse_covid19",952,192,14.71,6.09,20.17,58,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.464,46.4
+202106,"AI","80+",81,"altersklasse_covid19",952,273,8.51,6.09,28.68,58,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.422,42.2
+202107,"AI","80+",114,"altersklasse_covid19",952,387,11.97,6.48,40.65,61.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.298,29.8
+202108,"AI","80+",19,"altersklasse_covid19",952,406,2,NA,42.65,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.358,35.8
+202109,"AI","80+",0,"altersklasse_covid19",952,406,0,NA,42.65,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"AI","80+",26,"altersklasse_covid19",952,432,2.73,NA,45.38,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.274,27.4
+202052,"AR","0 - 9",0,"altersklasse_covid19",5944,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AR","0 - 9",0,"altersklasse_covid19",5944,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"AR","0 - 9",0,"altersklasse_covid19",5944,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AR","0 - 9",0,"altersklasse_covid19",5944,0,0,0,0,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AR","0 - 9",0,"altersklasse_covid19",5944,0,0,0,0,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"AR","0 - 9",1,"altersklasse_covid19",5944,1,0.02,0,0.02,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.002,0.2
+202105,"AR","0 - 9",0,"altersklasse_covid19",5944,1,0,0,0.02,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202106,"AR","0 - 9",0,"altersklasse_covid19",5944,1,0,0,0.02,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"AR","0 - 9",0,"altersklasse_covid19",5944,1,0,0,0.02,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"AR","0 - 9",0,"altersklasse_covid19",5944,1,0,NA,0.02,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"AR","0 - 9",0,"altersklasse_covid19",5944,1,0,NA,0.02,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"AR","0 - 9",0,"altersklasse_covid19",5944,1,0,NA,0.02,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"AR","10 - 19",0,"altersklasse_covid19",5254,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AR","10 - 19",0,"altersklasse_covid19",5254,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"AR","10 - 19",0,"altersklasse_covid19",5254,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AR","10 - 19",0,"altersklasse_covid19",5254,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AR","10 - 19",0,"altersklasse_covid19",5254,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"AR","10 - 19",0,"altersklasse_covid19",5254,0,0,0.01,0,0.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"AR","10 - 19",0,"altersklasse_covid19",5254,0,0,0.01,0,0.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202106,"AR","10 - 19",0,"altersklasse_covid19",5254,0,0,0.01,0,0.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"AR","10 - 19",2,"altersklasse_covid19",5254,2,0.04,0.01,0.04,0.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.002,0.2
+202108,"AR","10 - 19",2,"altersklasse_covid19",5254,4,0.04,NA,0.08,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202109,"AR","10 - 19",0,"altersklasse_covid19",5254,4,0,NA,0.08,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"AR","10 - 19",0,"altersklasse_covid19",5254,4,0,NA,0.08,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"AR","20 - 29",0,"altersklasse_covid19",6318,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AR","20 - 29",0,"altersklasse_covid19",6318,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"AR","20 - 29",0,"altersklasse_covid19",6318,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AR","20 - 29",0,"altersklasse_covid19",6318,0,0,0.01,0,0.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AR","20 - 29",0,"altersklasse_covid19",6318,0,0,0.06,0,4.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"AR","20 - 29",6,"altersklasse_covid19",6318,6,0.09,0.08,0.09,5,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.01,1
+202105,"AR","20 - 29",0,"altersklasse_covid19",6318,6,0,0.08,0.09,5.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202106,"AR","20 - 29",23,"altersklasse_covid19",6318,29,0.36,0.11,0.46,7,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.103,10.3
+202107,"AR","20 - 29",6,"altersklasse_covid19",6318,35,0.09,0.11,0.55,7.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.006,0.6
+202108,"AR","20 - 29",2,"altersklasse_covid19",6318,37,0.03,NA,0.59,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202109,"AR","20 - 29",12,"altersklasse_covid19",6318,49,0.19,NA,0.78,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.029,2.9
+202110,"AR","20 - 29",2,"altersklasse_covid19",6318,51,0.03,NA,0.81,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.043,4.3
+202052,"AR","30 - 39",0,"altersklasse_covid19",7132,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AR","30 - 39",0,"altersklasse_covid19",7132,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"AR","30 - 39",0,"altersklasse_covid19",7132,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AR","30 - 39",0,"altersklasse_covid19",7132,0,0,0.01,0,1,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AR","30 - 39",0,"altersklasse_covid19",7132,0,0,0.08,0,5.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"AR","30 - 39",7,"altersklasse_covid19",7132,7,0.1,0.09,0.1,6.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.012,1.2
+202105,"AR","30 - 39",0,"altersklasse_covid19",7132,7,0,0.13,0.1,9.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202106,"AR","30 - 39",31,"altersklasse_covid19",7132,38,0.43,0.16,0.53,11.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.138,13.8
+202107,"AR","30 - 39",9,"altersklasse_covid19",7132,47,0.13,0.17,0.66,12,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.008,0.8
+202108,"AR","30 - 39",17,"altersklasse_covid19",7132,64,0.24,NA,0.9,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.028,2.8
+202109,"AR","30 - 39",18,"altersklasse_covid19",7132,82,0.25,NA,1.15,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.043,4.3
+202110,"AR","30 - 39",2,"altersklasse_covid19",7132,84,0.03,NA,1.18,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.043,4.3
+202052,"AR","40 - 49",0,"altersklasse_covid19",7075,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AR","40 - 49",1,"altersklasse_covid19",7075,1,0.01,NA,0.01,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",1,100
+202101,"AR","40 - 49",0,"altersklasse_covid19",7075,1,0,NA,0.01,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AR","40 - 49",0,"altersklasse_covid19",7075,1,0,0.05,0.01,3.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AR","40 - 49",1,"altersklasse_covid19",7075,2,0.01,0.13,0.03,9.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",1,100
+202104,"AR","40 - 49",22,"altersklasse_covid19",7075,24,0.31,0.18,0.34,12.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.036,3.6
+202105,"AR","40 - 49",0,"altersklasse_covid19",7075,24,0,0.26,0.34,18.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202106,"AR","40 - 49",40,"altersklasse_covid19",7075,64,0.57,0.28,0.9,20.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.179,17.9
+202107,"AR","40 - 49",25,"altersklasse_covid19",7075,89,0.35,0.3,1.26,21,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.023,2.3
+202108,"AR","40 - 49",40,"altersklasse_covid19",7075,129,0.57,NA,1.82,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.066,6.6
+202109,"AR","40 - 49",13,"altersklasse_covid19",7075,142,0.18,NA,2.01,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.031,3.1
+202110,"AR","40 - 49",7,"altersklasse_covid19",7075,149,0.1,NA,2.11,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.149,14.9
+202052,"AR","50 - 59",0,"altersklasse_covid19",8854,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AR","50 - 59",0,"altersklasse_covid19",8854,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"AR","50 - 59",0,"altersklasse_covid19",8854,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AR","50 - 59",0,"altersklasse_covid19",8854,0,0,0.08,0,7.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AR","50 - 59",0,"altersklasse_covid19",8854,0,0,0.2,0,18,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"AR","50 - 59",50,"altersklasse_covid19",8854,50,0.56,0.29,0.56,26.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.083,8.3
+202105,"AR","50 - 59",0,"altersklasse_covid19",8854,50,0,0.42,0.56,37.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202106,"AR","50 - 59",76,"altersklasse_covid19",8854,126,0.86,0.48,1.42,42.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.339,33.9
+202107,"AR","50 - 59",57,"altersklasse_covid19",8854,183,0.64,0.49,2.07,43.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.052,5.2
+202108,"AR","50 - 59",79,"altersklasse_covid19",8854,262,0.89,NA,2.96,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.13,13
+202109,"AR","50 - 59",37,"altersklasse_covid19",8854,299,0.42,NA,3.38,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.088,8.8
+202110,"AR","50 - 59",5,"altersklasse_covid19",8854,304,0.06,NA,3.43,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.106,10.6
+202052,"AR","60 - 69",0,"altersklasse_covid19",7030,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AR","60 - 69",0,"altersklasse_covid19",7030,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"AR","60 - 69",0,"altersklasse_covid19",7030,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AR","60 - 69",0,"altersklasse_covid19",7030,0,0,0.09,0,6,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AR","60 - 69",0,"altersklasse_covid19",7030,0,0,0.18,0,12.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"AR","60 - 69",42,"altersklasse_covid19",7030,42,0.6,0.37,0.6,26,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.07,7
+202105,"AR","60 - 69",0,"altersklasse_covid19",7030,42,0,0.68,0.6,47.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202106,"AR","60 - 69",44,"altersklasse_covid19",7030,86,0.63,0.82,1.22,57.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.196,19.6
+202107,"AR","60 - 69",96,"altersklasse_covid19",7030,182,1.37,0.84,2.59,58.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.088,8.8
+202108,"AR","60 - 69",152,"altersklasse_covid19",7030,334,2.16,NA,4.75,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.25,25
+202109,"AR","60 - 69",67,"altersklasse_covid19",7030,401,0.95,NA,5.7,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.16,16
+202110,"AR","60 - 69",11,"altersklasse_covid19",7030,412,0.16,NA,5.86,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.234,23.4
+202052,"AR","70 - 79",0,"altersklasse_covid19",4867,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AR","70 - 79",0,"altersklasse_covid19",4867,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"AR","70 - 79",0,"altersklasse_covid19",4867,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AR","70 - 79",0,"altersklasse_covid19",4867,0,0,0.29,0,14.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AR","70 - 79",0,"altersklasse_covid19",4867,0,0,0.32,0,15.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"AR","70 - 79",99,"altersklasse_covid19",4867,99,2.03,1.75,2.03,85.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.164,16.4
+202105,"AR","70 - 79",0,"altersklasse_covid19",4867,99,0,2.31,2.03,112.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202106,"AR","70 - 79",9,"altersklasse_covid19",4867,108,0.18,2.81,2.22,136.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.04,4
+202107,"AR","70 - 79",489,"altersklasse_covid19",4867,597,10.05,2.85,12.27,138.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.45,45
+202108,"AR","70 - 79",192,"altersklasse_covid19",4867,789,3.94,NA,16.21,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.315,31.5
+202109,"AR","70 - 79",169,"altersklasse_covid19",4867,958,3.47,NA,19.68,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.403,40.3
+202110,"AR","70 - 79",13,"altersklasse_covid19",4867,971,0.27,NA,19.95,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.277,27.7
+202052,"AR","80+",0,"altersklasse_covid19",2971,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"AR","80+",0,"altersklasse_covid19",2971,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"AR","80+",0,"altersklasse_covid19",2971,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"AR","80+",0,"altersklasse_covid19",2971,0,0,1.81,0,53.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"AR","80+",0,"altersklasse_covid19",2971,0,0,1.81,0,53.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"AR","80+",376,"altersklasse_covid19",2971,376,12.66,3.75,12.66,111.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.624,62.4
+202105,"AR","80+",0,"altersklasse_covid19",2971,376,0,4.35,12.66,129.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202106,"AR","80+",1,"altersklasse_covid19",2971,377,0.03,4.84,12.69,143.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.004,0.4
+202107,"AR","80+",402,"altersklasse_covid19",2971,779,13.53,4.88,26.22,144.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.37,37
+202108,"AR","80+",125,"altersklasse_covid19",2971,904,4.21,NA,30.43,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.205,20.5
+202109,"AR","80+",103,"altersklasse_covid19",2971,1007,3.47,NA,33.89,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.246,24.6
+202110,"AR","80+",7,"altersklasse_covid19",2971,1014,0.24,NA,34.13,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.149,14.9
+202052,"BE","0 - 9",0,"altersklasse_covid19",101287,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"BE","0 - 9",0,"altersklasse_covid19",101287,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"BE","0 - 9",0,"altersklasse_covid19",101287,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"BE","0 - 9",0,"altersklasse_covid19",101287,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"BE","0 - 9",0,"altersklasse_covid19",101287,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"BE","0 - 9",0,"altersklasse_covid19",101287,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"BE","0 - 9",0,"altersklasse_covid19",101287,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"BE","0 - 9",0,"altersklasse_covid19",101287,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"BE","0 - 9",0,"altersklasse_covid19",101287,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"BE","0 - 9",0,"altersklasse_covid19",101287,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"BE","0 - 9",0,"altersklasse_covid19",101287,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"BE","0 - 9",0,"altersklasse_covid19",101287,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"BE","10 - 19",0,"altersklasse_covid19",96454,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"BE","10 - 19",0,"altersklasse_covid19",96454,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"BE","10 - 19",0,"altersklasse_covid19",96454,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"BE","10 - 19",0,"altersklasse_covid19",96454,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"BE","10 - 19",0,"altersklasse_covid19",96454,0,0,0,0,3.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"BE","10 - 19",0,"altersklasse_covid19",96454,0,0,0.01,0,9.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"BE","10 - 19",0,"altersklasse_covid19",96454,0,0,0.01,0,10,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"BE","10 - 19",25,"altersklasse_covid19",96454,25,0.03,0.01,0.03,10.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.005,0.5
+202107,"BE","10 - 19",40,"altersklasse_covid19",96454,65,0.04,0.02,0.07,14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.004,0.4
+202108,"BE","10 - 19",5,"altersklasse_covid19",96454,70,0.01,NA,0.07,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"BE","10 - 19",5,"altersklasse_covid19",96454,75,0.01,NA,0.08,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"BE","10 - 19",23,"altersklasse_covid19",96454,98,0.02,NA,0.1,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.002,0.2
+202052,"BE","20 - 29",0,"altersklasse_covid19",119810,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"BE","20 - 29",0,"altersklasse_covid19",119810,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"BE","20 - 29",0,"altersklasse_covid19",119810,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"BE","20 - 29",0,"altersklasse_covid19",119810,0,0,0,0,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"BE","20 - 29",0,"altersklasse_covid19",119810,0,0,0.01,0,9,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"BE","20 - 29",0,"altersklasse_covid19",119810,0,0,0.03,0,32.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"BE","20 - 29",1,"altersklasse_covid19",119810,1,0,0.04,0,45.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.091,9.1
+202106,"BE","20 - 29",62,"altersklasse_covid19",119810,63,0.05,0.04,0.05,53.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.014,1.4
+202107,"BE","20 - 29",166,"altersklasse_covid19",119810,229,0.14,0.06,0.19,73.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.017,1.7
+202108,"BE","20 - 29",91,"altersklasse_covid19",119810,320,0.08,NA,0.27,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.009,0.9
+202109,"BE","20 - 29",52,"altersklasse_covid19",119810,372,0.04,NA,0.31,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.005,0.5
+202110,"BE","20 - 29",140,"altersklasse_covid19",119810,512,0.12,NA,0.43,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.014,1.4
+202052,"BE","30 - 39",0,"altersklasse_covid19",141448,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"BE","30 - 39",0,"altersklasse_covid19",141448,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"BE","30 - 39",0,"altersklasse_covid19",141448,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"BE","30 - 39",0,"altersklasse_covid19",141448,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"BE","30 - 39",0,"altersklasse_covid19",141448,0,0,0.01,0,13.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"BE","30 - 39",0,"altersklasse_covid19",141448,0,0,0.03,0,45.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"BE","30 - 39",0,"altersklasse_covid19",141448,0,0,0.05,0,63.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"BE","30 - 39",94,"altersklasse_covid19",141448,94,0.07,0.06,0.07,82.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.021,2.1
+202107,"BE","30 - 39",222,"altersklasse_covid19",141448,316,0.16,0.08,0.22,116.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.023,2.3
+202108,"BE","30 - 39",128,"altersklasse_covid19",141448,444,0.09,NA,0.31,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.012,1.2
+202109,"BE","30 - 39",133,"altersklasse_covid19",141448,577,0.09,NA,0.41,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.012,1.2
+202110,"BE","30 - 39",240,"altersklasse_covid19",141448,817,0.17,NA,0.58,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.024,2.4
+202052,"BE","40 - 49",0,"altersklasse_covid19",137708,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"BE","40 - 49",0,"altersklasse_covid19",137708,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"BE","40 - 49",0,"altersklasse_covid19",137708,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"BE","40 - 49",0,"altersklasse_covid19",137708,0,0,0,0,0.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"BE","40 - 49",0,"altersklasse_covid19",137708,0,0,0.01,0,16.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"BE","40 - 49",0,"altersklasse_covid19",137708,0,0,0.04,0,55.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"BE","40 - 49",2,"altersklasse_covid19",137708,2,0,0.05,0,73.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.182,18.2
+202106,"BE","40 - 49",116,"altersklasse_covid19",137708,118,0.08,0.07,0.09,91,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.025,2.5
+202107,"BE","40 - 49",272,"altersklasse_covid19",137708,390,0.2,0.1,0.28,133.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.029,2.9
+202108,"BE","40 - 49",122,"altersklasse_covid19",137708,512,0.09,NA,0.37,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.011,1.1
+202109,"BE","40 - 49",125,"altersklasse_covid19",137708,637,0.09,NA,0.46,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.011,1.1
+202110,"BE","40 - 49",296,"altersklasse_covid19",137708,933,0.21,NA,0.68,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.03,3
+202052,"BE","50 - 59",0,"altersklasse_covid19",156601,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"BE","50 - 59",0,"altersklasse_covid19",156601,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"BE","50 - 59",0,"altersklasse_covid19",156601,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"BE","50 - 59",0,"altersklasse_covid19",156601,0,0,0,0,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"BE","50 - 59",0,"altersklasse_covid19",156601,0,0,0.02,0,33.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"BE","50 - 59",0,"altersklasse_covid19",156601,0,0,0.07,0,105.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"BE","50 - 59",1,"altersklasse_covid19",156601,1,0,0.08,0,130.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.091,9.1
+202106,"BE","50 - 59",232,"altersklasse_covid19",156601,233,0.15,0.1,0.15,154,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.051,5.1
+202107,"BE","50 - 59",507,"altersklasse_covid19",156601,740,0.32,0.15,0.47,230.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.053,5.3
+202108,"BE","50 - 59",171,"altersklasse_covid19",156601,911,0.11,NA,0.58,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.016,1.6
+202109,"BE","50 - 59",167,"altersklasse_covid19",156601,1078,0.11,NA,0.69,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.015,1.5
+202110,"BE","50 - 59",538,"altersklasse_covid19",156601,1616,0.34,NA,1.03,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.054,5.4
+202052,"BE","60 - 69",0,"altersklasse_covid19",125570,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"BE","60 - 69",0,"altersklasse_covid19",125570,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"BE","60 - 69",0,"altersklasse_covid19",125570,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"BE","60 - 69",0,"altersklasse_covid19",125570,0,0,0,0,0.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"BE","60 - 69",0,"altersklasse_covid19",125570,0,0,0.02,0,31.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"BE","60 - 69",0,"altersklasse_covid19",125570,0,0,0.06,0,76.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"BE","60 - 69",3,"altersklasse_covid19",125570,3,0,0.07,0,93.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.273,27.3
+202106,"BE","60 - 69",216,"altersklasse_covid19",125570,219,0.17,0.08,0.17,107.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.047,4.7
+202107,"BE","60 - 69",319,"altersklasse_covid19",125570,538,0.25,0.13,0.43,160.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.033,3.3
+202108,"BE","60 - 69",114,"altersklasse_covid19",125570,652,0.09,NA,0.52,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.011,1.1
+202109,"BE","60 - 69",99,"altersklasse_covid19",125570,751,0.08,NA,0.6,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.009,0.9
+202110,"BE","60 - 69",375,"altersklasse_covid19",125570,1126,0.3,NA,0.9,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.038,3.8
+202052,"BE","70 - 79",0,"altersklasse_covid19",99066,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"BE","70 - 79",0,"altersklasse_covid19",99066,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"BE","70 - 79",0,"altersklasse_covid19",99066,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"BE","70 - 79",0,"altersklasse_covid19",99066,0,0,0,0,0.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"BE","70 - 79",0,"altersklasse_covid19",99066,0,0,0.26,0,261.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"BE","70 - 79",1,"altersklasse_covid19",99066,1,0,0.79,0,782.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",1,100
+202105,"BE","70 - 79",3,"altersklasse_covid19",99066,4,0,1.48,0,1472.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.273,27.3
+202106,"BE","70 - 79",1825,"altersklasse_covid19",99066,1829,1.84,2.18,1.85,2164.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.401,40.1
+202107,"BE","70 - 79",3649,"altersklasse_covid19",99066,5478,3.68,2.65,5.53,2630,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.383,38.3
+202108,"BE","70 - 79",4828,"altersklasse_covid19",99066,10306,4.87,NA,10.4,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.455,45.5
+202109,"BE","70 - 79",4848,"altersklasse_covid19",99066,15154,4.89,NA,15.3,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.437,43.7
+202110,"BE","70 - 79",3256,"altersklasse_covid19",99066,18410,3.29,NA,18.58,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.329,32.9
+202052,"BE","80+",0,"altersklasse_covid19",61530,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"BE","80+",0,"altersklasse_covid19",61530,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"BE","80+",0,"altersklasse_covid19",61530,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"BE","80+",0,"altersklasse_covid19",61530,0,0,0,0,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"BE","80+",0,"altersklasse_covid19",61530,0,0,0.46,0,283.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"BE","80+",0,"altersklasse_covid19",61530,0,0,1.47,0,905.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"BE","80+",1,"altersklasse_covid19",61530,1,0,2.67,0,1642.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.091,9.1
+202106,"BE","80+",1984,"altersklasse_covid19",61530,1985,3.22,3.98,3.23,2452.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.436,43.6
+202107,"BE","80+",4353,"altersklasse_covid19",61530,6338,7.07,5.15,10.3,3172,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.457,45.7
+202108,"BE","80+",5162,"altersklasse_covid19",61530,11500,8.39,NA,18.69,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.486,48.6
+202109,"BE","80+",5669,"altersklasse_covid19",61530,17169,9.21,NA,27.9,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.511,51.1
+202110,"BE","80+",5035,"altersklasse_covid19",61530,22204,8.18,NA,36.09,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.508,50.8
+202052,"FL","0 - 9",0,"altersklasse_covid19",4056,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FL","0 - 9",0,"altersklasse_covid19",4056,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FL","0 - 9",0,"altersklasse_covid19",4056,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FL","0 - 9",0,"altersklasse_covid19",4056,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FL","0 - 9",0,"altersklasse_covid19",4056,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"FL","0 - 9",0,"altersklasse_covid19",4056,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202105,"FL","0 - 9",0,"altersklasse_covid19",4056,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"FL","0 - 9",0,"altersklasse_covid19",4056,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"FL","0 - 9",0,"altersklasse_covid19",4056,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"FL","0 - 9",0,"altersklasse_covid19",4056,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"FL","0 - 9",0,"altersklasse_covid19",4056,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202110,"FL","0 - 9",0,"altersklasse_covid19",4056,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"FL","10 - 19",0,"altersklasse_covid19",3920,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FL","10 - 19",0,"altersklasse_covid19",3920,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FL","10 - 19",0,"altersklasse_covid19",3920,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FL","10 - 19",0,"altersklasse_covid19",3920,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FL","10 - 19",0,"altersklasse_covid19",3920,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"FL","10 - 19",0,"altersklasse_covid19",3920,0,0,0.01,0,0.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202105,"FL","10 - 19",0,"altersklasse_covid19",3920,0,0,0.04,0,1.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"FL","10 - 19",0,"altersklasse_covid19",3920,0,0,0.04,0,1.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"FL","10 - 19",2,"altersklasse_covid19",3920,2,0.05,0.04,0.05,1.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.017,1.7
+202108,"FL","10 - 19",8,"altersklasse_covid19",3920,10,0.2,NA,0.26,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.022,2.2
+202109,"FL","10 - 19",0,"altersklasse_covid19",3920,10,0,NA,0.26,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202110,"FL","10 - 19",0,"altersklasse_covid19",3920,10,0,NA,0.26,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"FL","20 - 29",0,"altersklasse_covid19",4509,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FL","20 - 29",0,"altersklasse_covid19",4509,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FL","20 - 29",0,"altersklasse_covid19",4509,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FL","20 - 29",0,"altersklasse_covid19",4509,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FL","20 - 29",0,"altersklasse_covid19",4509,0,0,0.06,0,2.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"FL","20 - 29",0,"altersklasse_covid19",4509,0,0,0.07,0,3,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202105,"FL","20 - 29",0,"altersklasse_covid19",4509,0,0,0.2,0,8.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"FL","20 - 29",18,"altersklasse_covid19",4509,18,0.4,0.2,0.4,8.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.055,5.5
+202107,"FL","20 - 29",3,"altersklasse_covid19",4509,21,0.07,0.2,0.47,8.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.025,2.5
+202108,"FL","20 - 29",41,"altersklasse_covid19",4509,62,0.91,NA,1.38,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.11,11
+202109,"FL","20 - 29",0,"altersklasse_covid19",4509,62,0,NA,1.38,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202110,"FL","20 - 29",0,"altersklasse_covid19",4509,62,0,NA,1.38,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"FL","30 - 39",0,"altersklasse_covid19",4967,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FL","30 - 39",0,"altersklasse_covid19",4967,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FL","30 - 39",0,"altersklasse_covid19",4967,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FL","30 - 39",0,"altersklasse_covid19",4967,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FL","30 - 39",0,"altersklasse_covid19",4967,0,0,0.07,0,3.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"FL","30 - 39",0,"altersklasse_covid19",4967,0,0,0.09,0,4.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202105,"FL","30 - 39",0,"altersklasse_covid19",4967,0,0,0.25,0,12.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"FL","30 - 39",26,"altersklasse_covid19",4967,26,0.52,0.25,0.52,12.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.08,8
+202107,"FL","30 - 39",7,"altersklasse_covid19",4967,33,0.14,0.25,0.66,12.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.059,5.9
+202108,"FL","30 - 39",54,"altersklasse_covid19",4967,87,1.09,NA,1.75,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.145,14.5
+202109,"FL","30 - 39",0,"altersklasse_covid19",4967,87,0,NA,1.75,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202110,"FL","30 - 39",0,"altersklasse_covid19",4967,87,0,NA,1.75,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"FL","40 - 49",0,"altersklasse_covid19",5499,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FL","40 - 49",0,"altersklasse_covid19",5499,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FL","40 - 49",0,"altersklasse_covid19",5499,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FL","40 - 49",0,"altersklasse_covid19",5499,0,0,0,0,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FL","40 - 49",0,"altersklasse_covid19",5499,0,0,0.08,0,4.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"FL","40 - 49",0,"altersklasse_covid19",5499,0,0,0.14,0,7.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202105,"FL","40 - 49",1,"altersklasse_covid19",5499,1,0.02,0.41,0.02,22.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.2,20
+202106,"FL","40 - 49",28,"altersklasse_covid19",5499,29,0.51,0.41,0.53,22.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.086,8.6
+202107,"FL","40 - 49",26,"altersklasse_covid19",5499,55,0.47,0.41,1,22.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.22,22
+202108,"FL","40 - 49",104,"altersklasse_covid19",5499,159,1.89,NA,2.89,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.28,28
+202109,"FL","40 - 49",0,"altersklasse_covid19",5499,159,0,NA,2.89,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202110,"FL","40 - 49",0,"altersklasse_covid19",5499,159,0,NA,2.89,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"FL","50 - 59",0,"altersklasse_covid19",6072,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FL","50 - 59",0,"altersklasse_covid19",6072,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FL","50 - 59",0,"altersklasse_covid19",6072,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FL","50 - 59",0,"altersklasse_covid19",6072,0,0,0.01,0,0.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FL","50 - 59",0,"altersklasse_covid19",6072,0,0,0.18,0,11,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"FL","50 - 59",0,"altersklasse_covid19",6072,0,0,0.25,0,15.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202105,"FL","50 - 59",3,"altersklasse_covid19",6072,3,0.05,0.51,0.05,30.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.6,60
+202106,"FL","50 - 59",74,"altersklasse_covid19",6072,77,1.22,0.51,1.27,30.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.228,22.8
+202107,"FL","50 - 59",29,"altersklasse_covid19",6072,106,0.48,0.51,1.75,30.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.246,24.6
+202108,"FL","50 - 59",109,"altersklasse_covid19",6072,215,1.8,NA,3.54,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.293,29.3
+202109,"FL","50 - 59",0,"altersklasse_covid19",6072,215,0,NA,3.54,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202110,"FL","50 - 59",1,"altersklasse_covid19",6072,216,0.02,NA,3.56,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",1,100
+202052,"FL","60 - 69",0,"altersklasse_covid19",4811,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FL","60 - 69",0,"altersklasse_covid19",4811,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FL","60 - 69",0,"altersklasse_covid19",4811,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FL","60 - 69",0,"altersklasse_covid19",4811,0,0,0,0,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FL","60 - 69",0,"altersklasse_covid19",4811,0,0,0.11,0,5.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"FL","60 - 69",0,"altersklasse_covid19",4811,0,0,0.15,0,7.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202105,"FL","60 - 69",1,"altersklasse_covid19",4811,1,0.02,0.29,0.02,14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.2,20
+202106,"FL","60 - 69",36,"altersklasse_covid19",4811,37,0.75,0.29,0.77,14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.111,11.1
+202107,"FL","60 - 69",15,"altersklasse_covid19",4811,52,0.31,0.29,1.08,14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.127,12.7
+202108,"FL","60 - 69",46,"altersklasse_covid19",4811,98,0.96,NA,2.04,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.124,12.4
+202109,"FL","60 - 69",0,"altersklasse_covid19",4811,98,0,NA,2.04,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202110,"FL","60 - 69",0,"altersklasse_covid19",4811,98,0,NA,2.04,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"FL","70 - 79",0,"altersklasse_covid19",3385,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FL","70 - 79",0,"altersklasse_covid19",3385,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FL","70 - 79",0,"altersklasse_covid19",3385,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FL","70 - 79",0,"altersklasse_covid19",3385,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FL","70 - 79",0,"altersklasse_covid19",3385,0,0,0.16,0,5.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"FL","70 - 79",0,"altersklasse_covid19",3385,0,0,0.21,0,7.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202105,"FL","70 - 79",0,"altersklasse_covid19",3385,0,0,0.26,0,8.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"FL","70 - 79",39,"altersklasse_covid19",3385,39,1.15,0.26,1.15,8.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.12,12
+202107,"FL","70 - 79",12,"altersklasse_covid19",3385,51,0.35,0.26,1.51,8.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.102,10.2
+202108,"FL","70 - 79",10,"altersklasse_covid19",3385,61,0.3,NA,1.8,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.027,2.7
+202109,"FL","70 - 79",0,"altersklasse_covid19",3385,61,0,NA,1.8,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202110,"FL","70 - 79",0,"altersklasse_covid19",3385,61,0,NA,1.8,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"FL","80+",0,"altersklasse_covid19",1528,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FL","80+",0,"altersklasse_covid19",1528,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FL","80+",0,"altersklasse_covid19",1528,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FL","80+",0,"altersklasse_covid19",1528,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FL","80+",0,"altersklasse_covid19",1528,0,0,0.97,0,14.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"FL","80+",0,"altersklasse_covid19",1528,0,0,1.2,0,18.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202105,"FL","80+",0,"altersklasse_covid19",1528,0,0,1.2,0,18.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"FL","80+",104,"altersklasse_covid19",1528,104,6.81,1.2,6.81,18.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.32,32
+202107,"FL","80+",24,"altersklasse_covid19",1528,128,1.57,1.2,8.38,18.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.203,20.3
+202108,"FL","80+",0,"altersklasse_covid19",1528,128,0,NA,8.38,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"FL","80+",0,"altersklasse_covid19",1528,128,0,NA,8.38,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202110,"FL","80+",0,"altersklasse_covid19",1528,128,0,NA,8.38,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"FR","0 - 9",0,"altersklasse_covid19",35588,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FR","0 - 9",0,"altersklasse_covid19",35588,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FR","0 - 9",0,"altersklasse_covid19",35588,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FR","0 - 9",0,"altersklasse_covid19",35588,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FR","0 - 9",0,"altersklasse_covid19",35588,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"FR","0 - 9",0,"altersklasse_covid19",35588,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"FR","0 - 9",0,"altersklasse_covid19",35588,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"FR","0 - 9",0,"altersklasse_covid19",35588,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"FR","0 - 9",0,"altersklasse_covid19",35588,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"FR","0 - 9",0,"altersklasse_covid19",35588,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"FR","0 - 9",0,"altersklasse_covid19",35588,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"FR","0 - 9",0,"altersklasse_covid19",35588,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"FR","10 - 19",0,"altersklasse_covid19",35792,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FR","10 - 19",0,"altersklasse_covid19",35792,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FR","10 - 19",0,"altersklasse_covid19",35792,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FR","10 - 19",0,"altersklasse_covid19",35792,0,0,0.01,0,3.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FR","10 - 19",0,"altersklasse_covid19",35792,0,0,0.01,0,5.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"FR","10 - 19",8,"altersklasse_covid19",35792,8,0.02,0.02,0.02,6.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.025,2.5
+202105,"FR","10 - 19",18,"altersklasse_covid19",35792,26,0.05,0.02,0.07,7.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.014,1.4
+202106,"FR","10 - 19",12,"altersklasse_covid19",35792,38,0.03,0.03,0.11,9.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.008,0.8
+202107,"FR","10 - 19",8,"altersklasse_covid19",35792,46,0.02,0.03,0.13,9.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202108,"FR","10 - 19",6,"altersklasse_covid19",35792,52,0.02,NA,0.15,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.002,0.2
+202109,"FR","10 - 19",13,"altersklasse_covid19",35792,65,0.04,NA,0.18,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.004,0.4
+202110,"FR","10 - 19",2,"altersklasse_covid19",35792,67,0.01,NA,0.19,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.002,0.2
+202052,"FR","20 - 29",0,"altersklasse_covid19",42682,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FR","20 - 29",0,"altersklasse_covid19",42682,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FR","20 - 29",0,"altersklasse_covid19",42682,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FR","20 - 29",0,"altersklasse_covid19",42682,0,0,0.03,0,10.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FR","20 - 29",0,"altersklasse_covid19",42682,0,0,0.06,0,24.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"FR","20 - 29",22,"altersklasse_covid19",42682,22,0.05,0.08,0.05,35.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.069,6.9
+202105,"FR","20 - 29",54,"altersklasse_covid19",42682,76,0.13,0.1,0.18,43.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.043,4.3
+202106,"FR","20 - 29",97,"altersklasse_covid19",42682,173,0.23,0.12,0.41,50.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.066,6.6
+202107,"FR","20 - 29",75,"altersklasse_covid19",42682,248,0.18,0.12,0.58,52.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.028,2.8
+202108,"FR","20 - 29",57,"altersklasse_covid19",42682,305,0.13,NA,0.71,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.021,2.1
+202109,"FR","20 - 29",46,"altersklasse_covid19",42682,351,0.11,NA,0.82,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.015,1.5
+202110,"FR","20 - 29",18,"altersklasse_covid19",42682,369,0.04,NA,0.86,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.017,1.7
+202052,"FR","30 - 39",0,"altersklasse_covid19",44690,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FR","30 - 39",0,"altersklasse_covid19",44690,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FR","30 - 39",0,"altersklasse_covid19",44690,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FR","30 - 39",0,"altersklasse_covid19",44690,0,0,0.04,0,16,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FR","30 - 39",1,"altersklasse_covid19",44690,1,0,0.08,0,36.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.25,25
+202104,"FR","30 - 39",28,"altersklasse_covid19",44690,29,0.06,0.11,0.06,49.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.088,8.8
+202105,"FR","30 - 39",83,"altersklasse_covid19",44690,112,0.19,0.13,0.25,60,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.066,6.6
+202106,"FR","30 - 39",143,"altersklasse_covid19",44690,255,0.32,0.17,0.57,74.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.098,9.8
+202107,"FR","30 - 39",94,"altersklasse_covid19",44690,349,0.21,0.17,0.78,76.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.035,3.5
+202108,"FR","30 - 39",71,"altersklasse_covid19",44690,420,0.16,NA,0.94,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.026,2.6
+202109,"FR","30 - 39",99,"altersklasse_covid19",44690,519,0.22,NA,1.16,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.032,3.2
+202110,"FR","30 - 39",20,"altersklasse_covid19",44690,539,0.04,NA,1.21,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.018,1.8
+202052,"FR","40 - 49",0,"altersklasse_covid19",45232,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FR","40 - 49",0,"altersklasse_covid19",45232,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FR","40 - 49",0,"altersklasse_covid19",45232,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FR","40 - 49",0,"altersklasse_covid19",45232,0,0,0.05,0,22.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FR","40 - 49",2,"altersklasse_covid19",45232,2,0,0.12,0,56.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.5,50
+202104,"FR","40 - 49",24,"altersklasse_covid19",45232,26,0.05,0.17,0.06,78.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.075,7.5
+202105,"FR","40 - 49",130,"altersklasse_covid19",45232,156,0.29,0.2,0.34,91.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.104,10.4
+202106,"FR","40 - 49",240,"altersklasse_covid19",45232,396,0.53,0.26,0.88,117.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.164,16.4
+202107,"FR","40 - 49",152,"altersklasse_covid19",45232,548,0.34,0.28,1.21,124.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.056,5.6
+202108,"FR","40 - 49",93,"altersklasse_covid19",45232,641,0.21,NA,1.42,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.034,3.4
+202109,"FR","40 - 49",183,"altersklasse_covid19",45232,824,0.4,NA,1.82,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.058,5.8
+202110,"FR","40 - 49",52,"altersklasse_covid19",45232,876,0.11,NA,1.94,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.048,4.8
+202052,"FR","50 - 59",0,"altersklasse_covid19",48107,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FR","50 - 59",0,"altersklasse_covid19",48107,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FR","50 - 59",0,"altersklasse_covid19",48107,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FR","50 - 59",0,"altersklasse_covid19",48107,0,0,0.06,0,28.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FR","50 - 59",1,"altersklasse_covid19",48107,1,0,0.14,0,65.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.25,25
+202104,"FR","50 - 59",34,"altersklasse_covid19",48107,35,0.07,0.2,0.07,95.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.107,10.7
+202105,"FR","50 - 59",163,"altersklasse_covid19",48107,198,0.34,0.25,0.41,118.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.13,13
+202106,"FR","50 - 59",258,"altersklasse_covid19",48107,456,0.54,0.36,0.95,171,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.176,17.6
+202107,"FR","50 - 59",212,"altersklasse_covid19",48107,668,0.44,0.38,1.39,184.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.079,7.9
+202108,"FR","50 - 59",164,"altersklasse_covid19",48107,832,0.34,NA,1.73,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.06,6
+202109,"FR","50 - 59",365,"altersklasse_covid19",48107,1197,0.76,NA,2.49,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.116,11.6
+202110,"FR","50 - 59",93,"altersklasse_covid19",48107,1290,0.19,NA,2.68,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.086,8.6
+202052,"FR","60 - 69",0,"altersklasse_covid19",33114,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FR","60 - 69",0,"altersklasse_covid19",33114,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FR","60 - 69",0,"altersklasse_covid19",33114,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FR","60 - 69",0,"altersklasse_covid19",33114,0,0,0.06,0,19.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FR","60 - 69",0,"altersklasse_covid19",33114,0,0,0.13,0,43.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"FR","60 - 69",28,"altersklasse_covid19",33114,28,0.08,0.21,0.08,68.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.088,8.8
+202105,"FR","60 - 69",106,"altersklasse_covid19",33114,134,0.32,0.32,0.4,107.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.085,8.5
+202106,"FR","60 - 69",171,"altersklasse_covid19",33114,305,0.52,0.56,0.92,184.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.117,11.7
+202107,"FR","60 - 69",175,"altersklasse_covid19",33114,480,0.53,0.64,1.45,212.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.065,6.5
+202108,"FR","60 - 69",272,"altersklasse_covid19",33114,752,0.82,NA,2.27,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.099,9.9
+202109,"FR","60 - 69",539,"altersklasse_covid19",33114,1291,1.63,NA,3.9,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.172,17.2
+202110,"FR","60 - 69",194,"altersklasse_covid19",33114,1485,0.59,NA,4.48,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.179,17.9
+202052,"FR","70 - 79",0,"altersklasse_covid19",23665,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FR","70 - 79",0,"altersklasse_covid19",23665,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FR","70 - 79",0,"altersklasse_covid19",23665,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FR","70 - 79",0,"altersklasse_covid19",23665,0,0,0.11,0,25.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FR","70 - 79",0,"altersklasse_covid19",23665,0,0,0.22,0,51.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"FR","70 - 79",28,"altersklasse_covid19",23665,28,0.12,0.84,0.12,198.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.088,8.8
+202105,"FR","70 - 79",150,"altersklasse_covid19",23665,178,0.63,1.51,0.75,356.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.12,12
+202106,"FR","70 - 79",183,"altersklasse_covid19",23665,361,0.77,2.12,1.53,501.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.125,12.5
+202107,"FR","70 - 79",1030,"altersklasse_covid19",23665,1391,4.35,2.38,5.88,562.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.381,38.1
+202108,"FR","70 - 79",1104,"altersklasse_covid19",23665,2495,4.67,NA,10.54,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.401,40.1
+202109,"FR","70 - 79",1014,"altersklasse_covid19",23665,3509,4.28,NA,14.83,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.324,32.4
+202110,"FR","70 - 79",430,"altersklasse_covid19",23665,3939,1.82,NA,16.64,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.396,39.6
+202052,"FR","80+",0,"altersklasse_covid19",12913,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"FR","80+",0,"altersklasse_covid19",12913,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"FR","80+",0,"altersklasse_covid19",12913,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"FR","80+",0,"altersklasse_covid19",12913,0,0,0.77,0,99,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"FR","80+",0,"altersklasse_covid19",12913,0,0,1.16,0,150.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"FR","80+",146,"altersklasse_covid19",12913,146,1.13,2.22,1.13,286.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.459,45.9
+202105,"FR","80+",547,"altersklasse_covid19",12913,693,4.24,3.31,5.37,427.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.437,43.7
+202106,"FR","80+",358,"altersklasse_covid19",12913,1051,2.77,4.28,8.14,552.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.245,24.5
+202107,"FR","80+",954,"altersklasse_covid19",12913,2005,7.39,4.58,15.53,591.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.353,35.3
+202108,"FR","80+",986,"altersklasse_covid19",12913,2991,7.64,NA,23.16,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.358,35.8
+202109,"FR","80+",875,"altersklasse_covid19",12913,3866,6.78,NA,29.94,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.279,27.9
+202110,"FR","80+",276,"altersklasse_covid19",12913,4142,2.14,NA,32.08,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.254,25.4
+202052,"GE","0 - 9",0,"altersklasse_covid19",52912,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GE","0 - 9",0,"altersklasse_covid19",52912,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GE","0 - 9",0,"altersklasse_covid19",52912,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GE","0 - 9",0,"altersklasse_covid19",52912,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"GE","0 - 9",0,"altersklasse_covid19",52912,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"GE","0 - 9",0,"altersklasse_covid19",52912,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"GE","0 - 9",0,"altersklasse_covid19",52912,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"GE","0 - 9",0,"altersklasse_covid19",52912,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"GE","0 - 9",0,"altersklasse_covid19",52912,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"GE","0 - 9",0,"altersklasse_covid19",52912,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"GE","0 - 9",0,"altersklasse_covid19",52912,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"GE","0 - 9",0,"altersklasse_covid19",52912,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"GE","10 - 19",0,"altersklasse_covid19",53165,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GE","10 - 19",0,"altersklasse_covid19",53165,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GE","10 - 19",0,"altersklasse_covid19",53165,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GE","10 - 19",0,"altersklasse_covid19",53165,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"GE","10 - 19",0,"altersklasse_covid19",53165,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"GE","10 - 19",0,"altersklasse_covid19",53165,0,0,0,0,0.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"GE","10 - 19",0,"altersklasse_covid19",53165,0,0,0,0,0.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"GE","10 - 19",0,"altersklasse_covid19",53165,0,0,0,0,1.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"GE","10 - 19",2,"altersklasse_covid19",53165,2,0,0,0,1.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"GE","10 - 19",3,"altersklasse_covid19",53165,5,0.01,NA,0.01,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.001,0.1
+202109,"GE","10 - 19",4,"altersklasse_covid19",53165,9,0.01,NA,0.02,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.001,0.1
+202110,"GE","10 - 19",1,"altersklasse_covid19",53165,10,0,NA,0.02,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"GE","20 - 29",0,"altersklasse_covid19",65068,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GE","20 - 29",0,"altersklasse_covid19",65068,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GE","20 - 29",0,"altersklasse_covid19",65068,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GE","20 - 29",0,"altersklasse_covid19",65068,0,0,0,0,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"GE","20 - 29",0,"altersklasse_covid19",65068,0,0,0,0,1.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"GE","20 - 29",0,"altersklasse_covid19",65068,0,0,0,0,2.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"GE","20 - 29",1,"altersklasse_covid19",65068,1,0,0.01,0,7,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"GE","20 - 29",7,"altersklasse_covid19",65068,8,0.01,0.02,0.01,10.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.002,0.2
+202107,"GE","20 - 29",9,"altersklasse_covid19",65068,17,0.01,0.02,0.03,12.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.002,0.2
+202108,"GE","20 - 29",32,"altersklasse_covid19",65068,49,0.05,NA,0.08,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.006,0.6
+202109,"GE","20 - 29",24,"altersklasse_covid19",65068,73,0.04,NA,0.11,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.008,0.8
+202110,"GE","20 - 29",15,"altersklasse_covid19",65068,88,0.02,NA,0.14,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.004,0.4
+202052,"GE","30 - 39",0,"altersklasse_covid19",76120,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GE","30 - 39",0,"altersklasse_covid19",76120,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GE","30 - 39",0,"altersklasse_covid19",76120,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GE","30 - 39",0,"altersklasse_covid19",76120,0,0,0,0,1.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"GE","30 - 39",0,"altersklasse_covid19",76120,0,0,0,0,2.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"GE","30 - 39",1,"altersklasse_covid19",76120,1,0,0.01,0,4.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.021,2.1
+202105,"GE","30 - 39",8,"altersklasse_covid19",76120,9,0.01,0.02,0.01,17.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202106,"GE","30 - 39",10,"altersklasse_covid19",76120,19,0.01,0.04,0.02,28,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.002,0.2
+202107,"GE","30 - 39",15,"altersklasse_covid19",76120,34,0.02,0.04,0.04,32.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202108,"GE","30 - 39",87,"altersklasse_covid19",76120,121,0.11,NA,0.16,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.015,1.5
+202109,"GE","30 - 39",75,"altersklasse_covid19",76120,196,0.1,NA,0.26,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.026,2.6
+202110,"GE","30 - 39",34,"altersklasse_covid19",76120,230,0.04,NA,0.3,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.008,0.8
+202052,"GE","40 - 49",0,"altersklasse_covid19",76190,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GE","40 - 49",0,"altersklasse_covid19",76190,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GE","40 - 49",0,"altersklasse_covid19",76190,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GE","40 - 49",0,"altersklasse_covid19",76190,0,0,0,0,2,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"GE","40 - 49",0,"altersklasse_covid19",76190,0,0,0.01,0,3.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"GE","40 - 49",4,"altersklasse_covid19",76190,4,0.01,0.01,0.01,7,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.085,8.5
+202105,"GE","40 - 49",10,"altersklasse_covid19",76190,14,0.01,0.06,0.02,42.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.004,0.4
+202106,"GE","40 - 49",12,"altersklasse_covid19",76190,26,0.02,0.09,0.03,70.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202107,"GE","40 - 49",23,"altersklasse_covid19",76190,49,0.03,0.11,0.06,82.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.005,0.5
+202108,"GE","40 - 49",246,"altersklasse_covid19",76190,295,0.32,NA,0.39,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.044,4.4
+202109,"GE","40 - 49",197,"altersklasse_covid19",76190,492,0.26,NA,0.65,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.068,6.8
+202110,"GE","40 - 49",83,"altersklasse_covid19",76190,575,0.11,NA,0.75,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.02,2
+202052,"GE","50 - 59",0,"altersklasse_covid19",71485,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GE","50 - 59",0,"altersklasse_covid19",71485,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GE","50 - 59",0,"altersklasse_covid19",71485,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GE","50 - 59",0,"altersklasse_covid19",71485,0,0,0,0,1.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"GE","50 - 59",0,"altersklasse_covid19",71485,0,0,0.01,0,3.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"GE","50 - 59",4,"altersklasse_covid19",71485,4,0.01,0.02,0.01,13.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.085,8.5
+202105,"GE","50 - 59",8,"altersklasse_covid19",71485,12,0.01,0.1,0.02,68.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202106,"GE","50 - 59",15,"altersklasse_covid19",71485,27,0.02,0.16,0.04,116,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202107,"GE","50 - 59",68,"altersklasse_covid19",71485,95,0.1,0.19,0.13,137.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.014,1.4
+202108,"GE","50 - 59",387,"altersklasse_covid19",71485,482,0.54,NA,0.67,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.069,6.9
+202109,"GE","50 - 59",330,"altersklasse_covid19",71485,812,0.46,NA,1.14,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.113,11.3
+202110,"GE","50 - 59",153,"altersklasse_covid19",71485,965,0.21,NA,1.35,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.037,3.7
+202052,"GE","60 - 69",0,"altersklasse_covid19",46829,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GE","60 - 69",0,"altersklasse_covid19",46829,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GE","60 - 69",0,"altersklasse_covid19",46829,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GE","60 - 69",0,"altersklasse_covid19",46829,0,0,0.01,0,3,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"GE","60 - 69",0,"altersklasse_covid19",46829,0,0,0.02,0,7.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"GE","60 - 69",1,"altersklasse_covid19",46829,1,0,0.05,0,23.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.021,2.1
+202105,"GE","60 - 69",20,"altersklasse_covid19",46829,21,0.04,0.19,0.04,89.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.008,0.8
+202106,"GE","60 - 69",34,"altersklasse_covid19",46829,55,0.07,0.33,0.12,153.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.008,0.8
+202107,"GE","60 - 69",112,"altersklasse_covid19",46829,167,0.24,0.36,0.36,170.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.024,2.4
+202108,"GE","60 - 69",457,"altersklasse_covid19",46829,624,0.98,NA,1.33,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.081,8.1
+202109,"GE","60 - 69",448,"altersklasse_covid19",46829,1072,0.96,NA,2.29,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.154,15.4
+202110,"GE","60 - 69",123,"altersklasse_covid19",46829,1195,0.26,NA,2.55,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.03,3
+202052,"GE","70 - 79",0,"altersklasse_covid19",36581,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GE","70 - 79",0,"altersklasse_covid19",36581,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GE","70 - 79",0,"altersklasse_covid19",36581,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GE","70 - 79",2,"altersklasse_covid19",36581,2,0.01,0.47,0.01,172,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",1,100
+202103,"GE","70 - 79",0,"altersklasse_covid19",36581,2,0,1.15,0.01,419.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"GE","70 - 79",14,"altersklasse_covid19",36581,16,0.04,1.9,0.04,696,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.298,29.8
+202105,"GE","70 - 79",1188,"altersklasse_covid19",36581,1204,3.25,2.75,3.29,1005.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.47,47
+202106,"GE","70 - 79",1731,"altersklasse_covid19",36581,2935,4.73,3.11,8.02,1137.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.403,40.3
+202107,"GE","70 - 79",1937,"altersklasse_covid19",36581,4872,5.3,3.71,13.32,1357.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.408,40.8
+202108,"GE","70 - 79",2168,"altersklasse_covid19",36581,7040,5.93,NA,19.24,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.384,38.4
+202109,"GE","70 - 79",925,"altersklasse_covid19",36581,7965,2.53,NA,21.77,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.318,31.8
+202110,"GE","70 - 79",1539,"altersklasse_covid19",36581,9504,4.21,NA,25.98,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.375,37.5
+202052,"GE","80+",0,"altersklasse_covid19",25778,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GE","80+",0,"altersklasse_covid19",25778,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GE","80+",0,"altersklasse_covid19",25778,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GE","80+",0,"altersklasse_covid19",25778,0,0,0.73,0,188.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"GE","80+",0,"altersklasse_covid19",25778,0,0,2.11,0,544,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"GE","80+",23,"altersklasse_covid19",25778,23,0.09,3.54,0.09,913.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.489,48.9
+202105,"GE","80+",1295,"altersklasse_covid19",25778,1318,5.02,4.8,5.11,1236.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.512,51.2
+202106,"GE","80+",2490,"altersklasse_covid19",25778,3808,9.66,5.3,14.77,1366.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.579,57.9
+202107,"GE","80+",2587,"altersklasse_covid19",25778,6395,10.04,6.49,24.81,1673.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.544,54.4
+202108,"GE","80+",2259,"altersklasse_covid19",25778,8654,8.76,NA,33.57,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.401,40.1
+202109,"GE","80+",910,"altersklasse_covid19",25778,9564,3.53,NA,37.1,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.312,31.2
+202110,"GE","80+",2152,"altersklasse_covid19",25778,11716,8.35,NA,45.45,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.525,52.5
+202052,"GR","0 - 9",0,"altersklasse_covid19",17435,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GR","0 - 9",0,"altersklasse_covid19",17435,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GR","0 - 9",0,"altersklasse_covid19",17435,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GR","0 - 9",0,"altersklasse_covid19",17435,0,0,0,0,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"GR","0 - 9",0,"altersklasse_covid19",17435,0,0,0,0,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"GR","0 - 9",0,"altersklasse_covid19",17435,0,0,0,0,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"GR","0 - 9",1,"altersklasse_covid19",17435,1,0.01,0,0.01,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.001,0.1
+202106,"GR","0 - 9",0,"altersklasse_covid19",17435,1,0,0,0.01,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"GR","0 - 9",0,"altersklasse_covid19",17435,1,0,0,0.01,0.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"GR","0 - 9",0,"altersklasse_covid19",17435,1,0,NA,0.01,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"GR","0 - 9",0,"altersklasse_covid19",17435,1,0,NA,0.01,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"GR","0 - 9",0,"altersklasse_covid19",17435,1,0,NA,0.01,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"GR","10 - 19",0,"altersklasse_covid19",17946,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GR","10 - 19",0,"altersklasse_covid19",17946,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GR","10 - 19",0,"altersklasse_covid19",17946,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GR","10 - 19",0,"altersklasse_covid19",17946,0,0,0.01,0,2.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"GR","10 - 19",0,"altersklasse_covid19",17946,0,0,0.03,0,6,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"GR","10 - 19",6,"altersklasse_covid19",17946,6,0.03,0.03,0.03,6,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.01,1
+202105,"GR","10 - 19",13,"altersklasse_covid19",17946,19,0.07,0.04,0.11,7.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.008,0.8
+202106,"GR","10 - 19",23,"altersklasse_covid19",17946,42,0.13,0.05,0.23,8.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.012,1.2
+202107,"GR","10 - 19",0,"altersklasse_covid19",17946,42,0,0.06,0.23,10.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"GR","10 - 19",8,"altersklasse_covid19",17946,50,0.04,NA,0.28,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202109,"GR","10 - 19",9,"altersklasse_covid19",17946,59,0.05,NA,0.33,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.014,1.4
+202110,"GR","10 - 19",16,"altersklasse_covid19",17946,75,0.09,NA,0.42,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.007,0.7
+202052,"GR","20 - 29",0,"altersklasse_covid19",22953,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GR","20 - 29",0,"altersklasse_covid19",22953,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GR","20 - 29",0,"altersklasse_covid19",22953,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GR","20 - 29",0,"altersklasse_covid19",22953,0,0,0.05,0,12.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"GR","20 - 29",0,"altersklasse_covid19",22953,0,0,0.12,0,27.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"GR","20 - 29",10,"altersklasse_covid19",22953,10,0.04,0.12,0.04,28.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.016,1.6
+202105,"GR","20 - 29",76,"altersklasse_covid19",22953,86,0.33,0.15,0.37,34.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.044,4.4
+202106,"GR","20 - 29",109,"altersklasse_covid19",22953,195,0.47,0.17,0.85,39.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.057,5.7
+202107,"GR","20 - 29",3,"altersklasse_covid19",22953,198,0.01,0.21,0.86,49.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.039,3.9
+202108,"GR","20 - 29",43,"altersklasse_covid19",22953,241,0.19,NA,1.05,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.017,1.7
+202109,"GR","20 - 29",33,"altersklasse_covid19",22953,274,0.14,NA,1.19,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.052,5.2
+202110,"GR","20 - 29",74,"altersklasse_covid19",22953,348,0.32,NA,1.52,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.034,3.4
+202052,"GR","30 - 39",0,"altersklasse_covid19",25696,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GR","30 - 39",0,"altersklasse_covid19",25696,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GR","30 - 39",0,"altersklasse_covid19",25696,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GR","30 - 39",0,"altersklasse_covid19",25696,0,0,0.08,0,19.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"GR","30 - 39",1,"altersklasse_covid19",25696,1,0,0.16,0,42.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",1,100
+202104,"GR","30 - 39",23,"altersklasse_covid19",25696,24,0.09,0.17,0.09,43.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.037,3.7
+202105,"GR","30 - 39",115,"altersklasse_covid19",25696,139,0.45,0.2,0.54,51.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.067,6.7
+202106,"GR","30 - 39",156,"altersklasse_covid19",25696,295,0.61,0.23,1.15,57.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.082,8.2
+202107,"GR","30 - 39",7,"altersklasse_covid19",25696,302,0.03,0.27,1.18,68.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.092,9.2
+202108,"GR","30 - 39",57,"altersklasse_covid19",25696,359,0.22,NA,1.4,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.023,2.3
+202109,"GR","30 - 39",45,"altersklasse_covid19",25696,404,0.18,NA,1.57,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.071,7.1
+202110,"GR","30 - 39",79,"altersklasse_covid19",25696,483,0.31,NA,1.88,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.036,3.6
+202052,"GR","40 - 49",0,"altersklasse_covid19",26347,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GR","40 - 49",0,"altersklasse_covid19",26347,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GR","40 - 49",0,"altersklasse_covid19",26347,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GR","40 - 49",0,"altersklasse_covid19",26347,0,0,0.13,0,34,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"GR","40 - 49",0,"altersklasse_covid19",26347,0,0,0.25,0,65,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"GR","40 - 49",34,"altersklasse_covid19",26347,34,0.13,0.25,0.13,65.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.054,5.4
+202105,"GR","40 - 49",204,"altersklasse_covid19",26347,238,0.77,0.29,0.9,76.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.118,11.8
+202106,"GR","40 - 49",217,"altersklasse_covid19",26347,455,0.82,0.32,1.73,85.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.113,11.3
+202107,"GR","40 - 49",4,"altersklasse_covid19",26347,459,0.02,0.39,1.74,103.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.053,5.3
+202108,"GR","40 - 49",77,"altersklasse_covid19",26347,536,0.29,NA,2.03,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.031,3.1
+202109,"GR","40 - 49",63,"altersklasse_covid19",26347,599,0.24,NA,2.27,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.099,9.9
+202110,"GR","40 - 49",125,"altersklasse_covid19",26347,724,0.47,NA,2.75,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.057,5.7
+202052,"GR","50 - 59",0,"altersklasse_covid19",31658,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GR","50 - 59",0,"altersklasse_covid19",31658,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GR","50 - 59",0,"altersklasse_covid19",31658,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GR","50 - 59",0,"altersklasse_covid19",31658,0,0,0.15,0,46.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"GR","50 - 59",0,"altersklasse_covid19",31658,0,0,0.28,0,88.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"GR","50 - 59",64,"altersklasse_covid19",31658,64,0.2,0.28,0.2,90,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.103,10.3
+202105,"GR","50 - 59",259,"altersklasse_covid19",31658,323,0.82,0.36,1.02,115.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.15,15
+202106,"GR","50 - 59",299,"altersklasse_covid19",31658,622,0.94,0.41,1.96,130.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.156,15.6
+202107,"GR","50 - 59",8,"altersklasse_covid19",31658,630,0.03,0.54,1.99,170.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.105,10.5
+202108,"GR","50 - 59",177,"altersklasse_covid19",31658,807,0.56,NA,2.55,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.071,7.1
+202109,"GR","50 - 59",104,"altersklasse_covid19",31658,911,0.33,NA,2.88,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.164,16.4
+202110,"GR","50 - 59",280,"altersklasse_covid19",31658,1191,0.88,NA,3.76,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.129,12.9
+202052,"GR","60 - 69",0,"altersklasse_covid19",25798,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GR","60 - 69",0,"altersklasse_covid19",25798,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GR","60 - 69",0,"altersklasse_covid19",25798,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GR","60 - 69",0,"altersklasse_covid19",25798,0,0,0.12,0,29.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"GR","60 - 69",0,"altersklasse_covid19",25798,0,0,0.23,0,59.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"GR","60 - 69",56,"altersklasse_covid19",25798,56,0.22,0.24,0.22,62,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.09,9
+202105,"GR","60 - 69",152,"altersklasse_covid19",25798,208,0.59,0.37,0.81,94.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.088,8.8
+202106,"GR","60 - 69",207,"altersklasse_covid19",25798,415,0.8,0.41,1.61,104.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.108,10.8
+202107,"GR","60 - 69",19,"altersklasse_covid19",25798,434,0.07,0.53,1.68,137.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.25,25
+202108,"GR","60 - 69",229,"altersklasse_covid19",25798,663,0.89,NA,2.57,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.092,9.2
+202109,"GR","60 - 69",69,"altersklasse_covid19",25798,732,0.27,NA,2.84,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.109,10.9
+202110,"GR","60 - 69",232,"altersklasse_covid19",25798,964,0.9,NA,3.74,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.107,10.7
+202052,"GR","70 - 79",0,"altersklasse_covid19",19606,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GR","70 - 79",0,"altersklasse_covid19",19606,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GR","70 - 79",0,"altersklasse_covid19",19606,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GR","70 - 79",0,"altersklasse_covid19",19606,0,0,0.21,0,41.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"GR","70 - 79",0,"altersklasse_covid19",19606,0,0,0.42,0,82.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"GR","70 - 79",109,"altersklasse_covid19",19606,109,0.56,0.43,0.56,84.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.175,17.5
+202105,"GR","70 - 79",180,"altersklasse_covid19",19606,289,0.92,1.16,1.47,227,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.104,10.4
+202106,"GR","70 - 79",287,"altersklasse_covid19",19606,576,1.46,1.25,2.94,245.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.15,15
+202107,"GR","70 - 79",15,"altersklasse_covid19",19606,591,0.08,1.79,3.01,350.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.197,19.7
+202108,"GR","70 - 79",998,"altersklasse_covid19",19606,1589,5.09,NA,8.1,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.401,40.1
+202109,"GR","70 - 79",132,"altersklasse_covid19",19606,1721,0.67,NA,8.78,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.208,20.8
+202110,"GR","70 - 79",731,"altersklasse_covid19",19606,2452,3.73,NA,12.51,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.336,33.6
+202052,"GR","80+",0,"altersklasse_covid19",11582,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"GR","80+",0,"altersklasse_covid19",11582,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"GR","80+",0,"altersklasse_covid19",11582,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"GR","80+",0,"altersklasse_covid19",11582,0,0,1.3,0,150.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"GR","80+",0,"altersklasse_covid19",11582,0,0,2.05,0,237.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"GR","80+",322,"altersklasse_covid19",11582,322,2.78,2.08,2.78,240.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.516,51.6
+202105,"GR","80+",729,"altersklasse_covid19",11582,1051,6.29,3.19,9.07,369.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.422,42.2
+202106,"GR","80+",614,"altersklasse_covid19",11582,1665,5.3,3.41,14.38,395.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.321,32.1
+202107,"GR","80+",20,"altersklasse_covid19",11582,1685,0.17,4.2,14.55,486.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.263,26.3
+202108,"GR","80+",902,"altersklasse_covid19",11582,2587,7.79,NA,22.34,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.362,36.2
+202109,"GR","80+",180,"altersklasse_covid19",11582,2767,1.55,NA,23.89,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.283,28.3
+202110,"GR","80+",641,"altersklasse_covid19",11582,3408,5.53,NA,29.42,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.294,29.4
+202052,"SH","0 - 9",0,"altersklasse_covid19",7782,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SH","0 - 9",0,"altersklasse_covid19",7782,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SH","0 - 9",0,"altersklasse_covid19",7782,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"SH","0 - 9",0,"altersklasse_covid19",7782,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"SH","0 - 9",0,"altersklasse_covid19",7782,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"SH","0 - 9",0,"altersklasse_covid19",7782,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"SH","0 - 9",0,"altersklasse_covid19",7782,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"SH","0 - 9",0,"altersklasse_covid19",7782,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"SH","0 - 9",0,"altersklasse_covid19",7782,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"SH","0 - 9",0,"altersklasse_covid19",7782,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"SH","0 - 9",0,"altersklasse_covid19",7782,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"SH","0 - 9",0,"altersklasse_covid19",7782,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"SH","10 - 19",0,"altersklasse_covid19",7621,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SH","10 - 19",0,"altersklasse_covid19",7621,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SH","10 - 19",0,"altersklasse_covid19",7621,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"SH","10 - 19",0,"altersklasse_covid19",7621,0,0,0.01,0,0.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"SH","10 - 19",0,"altersklasse_covid19",7621,0,0,0.02,0,1.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"SH","10 - 19",4,"altersklasse_covid19",7621,4,0.05,0.05,0.05,3.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.024,2.4
+202105,"SH","10 - 19",0,"altersklasse_covid19",7621,4,0,0.05,0.05,3.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"SH","10 - 19",9,"altersklasse_covid19",7621,13,0.12,0.06,0.17,4.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.007,0.7
+202107,"SH","10 - 19",12,"altersklasse_covid19",7621,25,0.16,0.07,0.33,5.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.007,0.7
+202108,"SH","10 - 19",0,"altersklasse_covid19",7621,25,0,NA,0.33,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"SH","10 - 19",8,"altersklasse_covid19",7621,33,0.1,NA,0.43,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.006,0.6
+202110,"SH","10 - 19",6,"altersklasse_covid19",7621,39,0.08,NA,0.51,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.009,0.9
+202052,"SH","20 - 29",0,"altersklasse_covid19",9517,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SH","20 - 29",0,"altersklasse_covid19",9517,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SH","20 - 29",0,"altersklasse_covid19",9517,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"SH","20 - 29",0,"altersklasse_covid19",9517,0,0,0.04,0,4.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"SH","20 - 29",3,"altersklasse_covid19",9517,3,0.03,0.08,0.03,7.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.031,3.1
+202104,"SH","20 - 29",24,"altersklasse_covid19",9517,27,0.25,0.19,0.28,18,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.141,14.1
+202105,"SH","20 - 29",3,"altersklasse_covid19",9517,30,0.03,0.19,0.32,18.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.086,8.6
+202106,"SH","20 - 29",24,"altersklasse_covid19",9517,54,0.25,0.24,0.57,22.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.02,2
+202107,"SH","20 - 29",72,"altersklasse_covid19",9517,126,0.76,0.29,1.32,27.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.041,4.1
+202108,"SH","20 - 29",1,"altersklasse_covid19",9517,127,0.01,NA,1.33,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202109,"SH","20 - 29",33,"altersklasse_covid19",9517,160,0.35,NA,1.68,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.024,2.4
+202110,"SH","20 - 29",38,"altersklasse_covid19",9517,198,0.4,NA,2.08,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.058,5.8
+202052,"SH","30 - 39",0,"altersklasse_covid19",10984,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SH","30 - 39",0,"altersklasse_covid19",10984,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SH","30 - 39",0,"altersklasse_covid19",10984,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"SH","30 - 39",0,"altersklasse_covid19",10984,0,0,0.04,0,4.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"SH","30 - 39",11,"altersklasse_covid19",10984,11,0.1,0.11,0.1,11.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.115,11.5
+202104,"SH","30 - 39",21,"altersklasse_covid19",10984,32,0.19,0.25,0.29,27.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.124,12.4
+202105,"SH","30 - 39",2,"altersklasse_covid19",10984,34,0.02,0.26,0.31,28,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.057,5.7
+202106,"SH","30 - 39",49,"altersklasse_covid19",10984,83,0.45,0.33,0.76,36.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.041,4.1
+202107,"SH","30 - 39",110,"altersklasse_covid19",10984,193,1,0.37,1.76,40.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.063,6.3
+202108,"SH","30 - 39",3,"altersklasse_covid19",10984,196,0.03,NA,1.78,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.009,0.9
+202109,"SH","30 - 39",60,"altersklasse_covid19",10984,256,0.55,NA,2.33,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.043,4.3
+202110,"SH","30 - 39",38,"altersklasse_covid19",10984,294,0.35,NA,2.68,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.058,5.8
+202052,"SH","40 - 49",0,"altersklasse_covid19",10434,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SH","40 - 49",0,"altersklasse_covid19",10434,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SH","40 - 49",0,"altersklasse_covid19",10434,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"SH","40 - 49",0,"altersklasse_covid19",10434,0,0,0.08,0,8.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"SH","40 - 49",18,"altersklasse_covid19",10434,18,0.17,0.17,0.17,18.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.188,18.8
+202104,"SH","40 - 49",40,"altersklasse_covid19",10434,58,0.38,0.4,0.56,42.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.235,23.5
+202105,"SH","40 - 49",2,"altersklasse_covid19",10434,60,0.02,0.42,0.58,43.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.057,5.7
+202106,"SH","40 - 49",67,"altersklasse_covid19",10434,127,0.64,0.55,1.22,57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.056,5.6
+202107,"SH","40 - 49",168,"altersklasse_covid19",10434,295,1.61,0.59,2.83,61.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.096,9.6
+202108,"SH","40 - 49",11,"altersklasse_covid19",10434,306,0.11,NA,2.93,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.034,3.4
+202109,"SH","40 - 49",93,"altersklasse_covid19",10434,399,0.89,NA,3.82,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.067,6.7
+202110,"SH","40 - 49",50,"altersklasse_covid19",10434,449,0.48,NA,4.3,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.076,7.6
+202052,"SH","50 - 59",0,"altersklasse_covid19",12774,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SH","50 - 59",0,"altersklasse_covid19",12774,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SH","50 - 59",0,"altersklasse_covid19",12774,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"SH","50 - 59",0,"altersklasse_covid19",12774,0,0,0.09,0,10.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"SH","50 - 59",25,"altersklasse_covid19",12774,25,0.2,0.23,0.2,28.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.26,26
+202104,"SH","50 - 59",46,"altersklasse_covid19",12774,71,0.36,0.53,0.56,67.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.271,27.1
+202105,"SH","50 - 59",5,"altersklasse_covid19",12774,76,0.04,0.55,0.59,70.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.143,14.3
+202106,"SH","50 - 59",126,"altersklasse_covid19",12774,202,0.99,0.77,1.58,97.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.105,10.5
+202107,"SH","50 - 59",268,"altersklasse_covid19",12774,470,2.1,0.88,3.68,111.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.153,15.3
+202108,"SH","50 - 59",22,"altersklasse_covid19",12774,492,0.17,NA,3.85,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.068,6.8
+202109,"SH","50 - 59",191,"altersklasse_covid19",12774,683,1.5,NA,5.35,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.138,13.8
+202110,"SH","50 - 59",125,"altersklasse_covid19",12774,808,0.98,NA,6.33,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.191,19.1
+202052,"SH","60 - 69",0,"altersklasse_covid19",10288,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SH","60 - 69",0,"altersklasse_covid19",10288,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SH","60 - 69",0,"altersklasse_covid19",10288,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"SH","60 - 69",0,"altersklasse_covid19",10288,0,0,0.09,0,9.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"SH","60 - 69",25,"altersklasse_covid19",10288,25,0.24,0.22,0.24,22.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.26,26
+202104,"SH","60 - 69",30,"altersklasse_covid19",10288,55,0.29,0.46,0.53,47.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.176,17.6
+202105,"SH","60 - 69",10,"altersklasse_covid19",10288,65,0.1,0.51,0.63,52.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.286,28.6
+202106,"SH","60 - 69",95,"altersklasse_covid19",10288,160,0.92,0.77,1.56,79,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.079,7.9
+202107,"SH","60 - 69",174,"altersklasse_covid19",10288,334,1.69,0.88,3.25,90.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.1,10
+202108,"SH","60 - 69",32,"altersklasse_covid19",10288,366,0.31,NA,3.56,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.099,9.9
+202109,"SH","60 - 69",187,"altersklasse_covid19",10288,553,1.82,NA,5.38,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.136,13.6
+202110,"SH","60 - 69",107,"altersklasse_covid19",10288,660,1.04,NA,6.42,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.164,16.4
+202052,"SH","70 - 79",0,"altersklasse_covid19",7758,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SH","70 - 79",0,"altersklasse_covid19",7758,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SH","70 - 79",0,"altersklasse_covid19",7758,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"SH","70 - 79",0,"altersklasse_covid19",7758,0,0,0.05,0,3.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"SH","70 - 79",14,"altersklasse_covid19",7758,14,0.18,0.58,0.18,45,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.146,14.6
+202104,"SH","70 - 79",4,"altersklasse_covid19",7758,18,0.05,1.41,0.23,109.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.024,2.4
+202105,"SH","70 - 79",7,"altersklasse_covid19",7758,25,0.09,1.59,0.32,123.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.2,20
+202106,"SH","70 - 79",290,"altersklasse_covid19",7758,315,3.74,2.3,4.06,178.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.241,24.1
+202107,"SH","70 - 79",453,"altersklasse_covid19",7758,768,5.84,2.48,9.9,192.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.259,25.9
+202108,"SH","70 - 79",97,"altersklasse_covid19",7758,865,1.25,NA,11.15,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.3,30
+202109,"SH","70 - 79",382,"altersklasse_covid19",7758,1247,4.92,NA,16.07,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.277,27.7
+202110,"SH","70 - 79",113,"altersklasse_covid19",7758,1360,1.46,NA,17.53,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.173,17.3
+202052,"SH","80+",0,"altersklasse_covid19",5190,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SH","80+",0,"altersklasse_covid19",5190,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SH","80+",0,"altersklasse_covid19",5190,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"SH","80+",1,"altersklasse_covid19",5190,1,0.02,0.02,0.02,1.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",1,100
+202103,"SH","80+",0,"altersklasse_covid19",5190,1,0,1.51,0.02,78.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"SH","80+",1,"altersklasse_covid19",5190,2,0.02,2.86,0.04,148.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.006,0.6
+202105,"SH","80+",6,"altersklasse_covid19",5190,8,0.12,3.29,0.15,170.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.171,17.1
+202106,"SH","80+",541,"altersklasse_covid19",5190,549,10.42,4.46,10.58,231.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.45,45
+202107,"SH","80+",490,"altersklasse_covid19",5190,1039,9.44,4.95,20.02,256.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.28,28
+202108,"SH","80+",157,"altersklasse_covid19",5190,1196,3.03,NA,23.04,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.486,48.6
+202109,"SH","80+",426,"altersklasse_covid19",5190,1622,8.21,NA,31.25,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.309,30.9
+202110,"SH","80+",177,"altersklasse_covid19",5190,1799,3.41,NA,34.66,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.271,27.1
+202052,"SO","0 - 9",0,"altersklasse_covid19",26649,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SO","0 - 9",0,"altersklasse_covid19",26649,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SO","0 - 9",0,"altersklasse_covid19",26649,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202102,"SO","0 - 9",0,"altersklasse_covid19",26649,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"SO","0 - 9",0,"altersklasse_covid19",26649,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"SO","0 - 9",0,"altersklasse_covid19",26649,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"SO","0 - 9",0,"altersklasse_covid19",26649,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"SO","0 - 9",0,"altersklasse_covid19",26649,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"SO","0 - 9",0,"altersklasse_covid19",26649,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"SO","0 - 9",0,"altersklasse_covid19",26649,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"SO","0 - 9",0,"altersklasse_covid19",26649,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"SO","0 - 9",0,"altersklasse_covid19",26649,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"SO","10 - 19",0,"altersklasse_covid19",25703,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SO","10 - 19",0,"altersklasse_covid19",25703,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SO","10 - 19",0,"altersklasse_covid19",25703,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202102,"SO","10 - 19",0,"altersklasse_covid19",25703,0,0,0.02,0,4.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"SO","10 - 19",1,"altersklasse_covid19",25703,1,0,0.02,0,5.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.008,0.8
+202104,"SO","10 - 19",5,"altersklasse_covid19",25703,6,0.02,0.03,0.02,7.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.008,0.8
+202105,"SO","10 - 19",28,"altersklasse_covid19",25703,34,0.11,0.04,0.13,10,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.009,0.9
+202106,"SO","10 - 19",2,"altersklasse_covid19",25703,36,0.01,0.04,0.14,10,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.001,0.1
+202107,"SO","10 - 19",19,"altersklasse_covid19",25703,55,0.07,0.04,0.21,10,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.004,0.4
+202108,"SO","10 - 19",15,"altersklasse_covid19",25703,70,0.06,NA,0.27,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.005,0.5
+202109,"SO","10 - 19",0,"altersklasse_covid19",25703,70,0,NA,0.27,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"SO","10 - 19",1,"altersklasse_covid19",25703,71,0,NA,0.28,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.001,0.1
+202052,"SO","20 - 29",0,"altersklasse_covid19",32516,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SO","20 - 29",0,"altersklasse_covid19",32516,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SO","20 - 29",0,"altersklasse_covid19",32516,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202102,"SO","20 - 29",0,"altersklasse_covid19",32516,0,0,0.05,0,15.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"SO","20 - 29",1,"altersklasse_covid19",32516,1,0,0.06,0,18.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.008,0.8
+202104,"SO","20 - 29",7,"altersklasse_covid19",32516,8,0.02,0.09,0.02,28.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.012,1.2
+202105,"SO","20 - 29",102,"altersklasse_covid19",32516,110,0.31,0.11,0.34,35.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.034,3.4
+202106,"SO","20 - 29",18,"altersklasse_covid19",32516,128,0.06,0.12,0.39,38.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.01,1
+202107,"SO","20 - 29",74,"altersklasse_covid19",32516,202,0.23,0.12,0.62,39.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.015,1.5
+202108,"SO","20 - 29",48,"altersklasse_covid19",32516,250,0.15,NA,0.77,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.016,1.6
+202109,"SO","20 - 29",18,"altersklasse_covid19",32516,268,0.06,NA,0.82,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.025,2.5
+202110,"SO","20 - 29",7,"altersklasse_covid19",32516,275,0.02,NA,0.85,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.004,0.4
+202052,"SO","30 - 39",0,"altersklasse_covid19",37255,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SO","30 - 39",0,"altersklasse_covid19",37255,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SO","30 - 39",0,"altersklasse_covid19",37255,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202102,"SO","30 - 39",0,"altersklasse_covid19",37255,0,0,0.05,0,18.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"SO","30 - 39",6,"altersklasse_covid19",37255,6,0.02,0.06,0.02,22.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.048,4.8
+202104,"SO","30 - 39",20,"altersklasse_covid19",37255,26,0.05,0.1,0.07,38,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.033,3.3
+202105,"SO","30 - 39",106,"altersklasse_covid19",37255,132,0.28,0.14,0.35,50.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.035,3.5
+202106,"SO","30 - 39",25,"altersklasse_covid19",37255,157,0.07,0.15,0.42,54.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.014,1.4
+202107,"SO","30 - 39",109,"altersklasse_covid19",37255,266,0.29,0.15,0.71,55,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.023,2.3
+202108,"SO","30 - 39",88,"altersklasse_covid19",37255,354,0.24,NA,0.95,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.029,2.9
+202109,"SO","30 - 39",26,"altersklasse_covid19",37255,380,0.07,NA,1.02,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.037,3.7
+202110,"SO","30 - 39",11,"altersklasse_covid19",37255,391,0.03,NA,1.05,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.007,0.7
+202052,"SO","40 - 49",0,"altersklasse_covid19",35831,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SO","40 - 49",0,"altersklasse_covid19",35831,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SO","40 - 49",0,"altersklasse_covid19",35831,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202102,"SO","40 - 49",0,"altersklasse_covid19",35831,0,0,0.09,0,30.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"SO","40 - 49",10,"altersklasse_covid19",35831,10,0.03,0.1,0.03,36.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.079,7.9
+202104,"SO","40 - 49",29,"altersklasse_covid19",35831,39,0.08,0.18,0.11,65,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.048,4.8
+202105,"SO","40 - 49",174,"altersklasse_covid19",35831,213,0.49,0.24,0.59,83.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.058,5.8
+202106,"SO","40 - 49",43,"altersklasse_covid19",35831,256,0.12,0.25,0.71,90.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.024,2.4
+202107,"SO","40 - 49",199,"altersklasse_covid19",35831,455,0.56,0.26,1.27,91.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.042,4.2
+202108,"SO","40 - 49",131,"altersklasse_covid19",35831,586,0.37,NA,1.64,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.043,4.3
+202109,"SO","40 - 49",45,"altersklasse_covid19",35831,631,0.13,NA,1.76,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.063,6.3
+202110,"SO","40 - 49",20,"altersklasse_covid19",35831,651,0.06,NA,1.82,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.012,1.2
+202052,"SO","50 - 59",0,"altersklasse_covid19",43861,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SO","50 - 59",0,"altersklasse_covid19",43861,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SO","50 - 59",1,"altersklasse_covid19",43861,1,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.5,50
+202102,"SO","50 - 59",0,"altersklasse_covid19",43861,1,0,0.15,0,63.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"SO","50 - 59",38,"altersklasse_covid19",43861,39,0.09,0.17,0.09,75.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.302,30.2
+202104,"SO","50 - 59",60,"altersklasse_covid19",43861,99,0.14,0.33,0.23,145.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.1,10
+202105,"SO","50 - 59",348,"altersklasse_covid19",43861,447,0.79,0.41,1.02,181.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.115,11.5
+202106,"SO","50 - 59",84,"altersklasse_covid19",43861,531,0.19,0.45,1.21,196.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.047,4.7
+202107,"SO","50 - 59",485,"altersklasse_covid19",43861,1016,1.11,0.46,2.32,199.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.101,10.1
+202108,"SO","50 - 59",255,"altersklasse_covid19",43861,1271,0.58,NA,2.9,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.083,8.3
+202109,"SO","50 - 59",105,"altersklasse_covid19",43861,1376,0.24,NA,3.14,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.147,14.7
+202110,"SO","50 - 59",62,"altersklasse_covid19",43861,1438,0.14,NA,3.28,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.037,3.7
+202052,"SO","60 - 69",0,"altersklasse_covid19",34155,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SO","60 - 69",0,"altersklasse_covid19",34155,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SO","60 - 69",0,"altersklasse_covid19",34155,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202102,"SO","60 - 69",0,"altersklasse_covid19",34155,0,0,0.16,0,53.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"SO","60 - 69",15,"altersklasse_covid19",34155,15,0.04,0.23,0.04,80.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.119,11.9
+202104,"SO","60 - 69",58,"altersklasse_covid19",34155,73,0.17,0.47,0.21,159.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.096,9.6
+202105,"SO","60 - 69",300,"altersklasse_covid19",34155,373,0.88,0.6,1.09,206.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.099,9.9
+202106,"SO","60 - 69",189,"altersklasse_covid19",34155,562,0.55,0.67,1.65,228.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.106,10.6
+202107,"SO","60 - 69",552,"altersklasse_covid19",34155,1114,1.62,0.72,3.26,244.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.115,11.5
+202108,"SO","60 - 69",332,"altersklasse_covid19",34155,1446,0.97,NA,4.23,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.109,10.9
+202109,"SO","60 - 69",156,"altersklasse_covid19",34155,1602,0.46,NA,4.69,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.219,21.9
+202110,"SO","60 - 69",125,"altersklasse_covid19",34155,1727,0.37,NA,5.06,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.075,7.5
+202052,"SO","70 - 79",0,"altersklasse_covid19",24048,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SO","70 - 79",0,"altersklasse_covid19",24048,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SO","70 - 79",1,"altersklasse_covid19",24048,1,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.5,50
+202102,"SO","70 - 79",0,"altersklasse_covid19",24048,1,0,0.56,0,134.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"SO","70 - 79",13,"altersklasse_covid19",24048,14,0.05,1,0.06,241.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.103,10.3
+202104,"SO","70 - 79",194,"altersklasse_covid19",24048,208,0.81,1.95,0.86,469.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.322,32.2
+202105,"SO","70 - 79",732,"altersklasse_covid19",24048,940,3.04,2.62,3.91,631.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.242,24.2
+202106,"SO","70 - 79",753,"altersklasse_covid19",24048,1693,3.13,2.75,7.04,661.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.421,42.1
+202107,"SO","70 - 79",1593,"altersklasse_covid19",24048,3286,6.62,3.17,13.66,762,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.332,33.2
+202108,"SO","70 - 79",1133,"altersklasse_covid19",24048,4419,4.71,NA,18.38,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.371,37.1
+202109,"SO","70 - 79",212,"altersklasse_covid19",24048,4631,0.88,NA,19.26,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.298,29.8
+202110,"SO","70 - 79",717,"altersklasse_covid19",24048,5348,2.98,NA,22.24,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.432,43.2
+202052,"SO","80+",0,"altersklasse_covid19",15229,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"SO","80+",0,"altersklasse_covid19",15229,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"SO","80+",0,"altersklasse_covid19",15229,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202102,"SO","80+",0,"altersklasse_covid19",15229,0,0,1.41,0,215.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"SO","80+",42,"altersklasse_covid19",15229,42,0.28,2.05,0.28,311.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.333,33.3
+202104,"SO","80+",229,"altersklasse_covid19",15229,271,1.5,3.7,1.78,563.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.38,38
+202105,"SO","80+",1235,"altersklasse_covid19",15229,1506,8.11,4.69,9.89,713.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.408,40.8
+202106,"SO","80+",676,"altersklasse_covid19",15229,2182,4.44,4.83,14.33,735.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.378,37.8
+202107,"SO","80+",1762,"altersklasse_covid19",15229,3944,11.57,5.46,25.9,831.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.368,36.8
+202108,"SO","80+",1053,"altersklasse_covid19",15229,4997,6.91,NA,32.81,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.345,34.5
+202109,"SO","80+",150,"altersklasse_covid19",15229,5147,0.98,NA,33.8,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.211,21.1
+202110,"SO","80+",718,"altersklasse_covid19",15229,5865,4.71,NA,38.51,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.432,43.2
+202052,"UR","0 - 9",0,"altersklasse_covid19",3563,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"UR","0 - 9",0,"altersklasse_covid19",3563,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"UR","0 - 9",0,"altersklasse_covid19",3563,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"UR","0 - 9",0,"altersklasse_covid19",3563,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"UR","0 - 9",0,"altersklasse_covid19",3563,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"UR","0 - 9",0,"altersklasse_covid19",3563,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"UR","0 - 9",0,"altersklasse_covid19",3563,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"UR","0 - 9",0,"altersklasse_covid19",3563,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"UR","0 - 9",0,"altersklasse_covid19",3563,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"UR","0 - 9",0,"altersklasse_covid19",3563,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"UR","0 - 9",0,"altersklasse_covid19",3563,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"UR","0 - 9",0,"altersklasse_covid19",3563,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"UR","10 - 19",0,"altersklasse_covid19",3794,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"UR","10 - 19",0,"altersklasse_covid19",3794,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"UR","10 - 19",0,"altersklasse_covid19",3794,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"UR","10 - 19",0,"altersklasse_covid19",3794,0,0,0.02,0,0.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"UR","10 - 19",0,"altersklasse_covid19",3794,0,0,0.02,0,0.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"UR","10 - 19",3,"altersklasse_covid19",3794,3,0.08,0.02,0.08,0.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.008,0.8
+202105,"UR","10 - 19",1,"altersklasse_covid19",3794,4,0.03,0.02,0.11,0.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.002,0.2
+202106,"UR","10 - 19",0,"altersklasse_covid19",3794,4,0,0.02,0.11,0.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"UR","10 - 19",1,"altersklasse_covid19",3794,5,0.03,0.03,0.13,1,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202108,"UR","10 - 19",1,"altersklasse_covid19",3794,6,0.03,NA,0.16,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202109,"UR","10 - 19",0,"altersklasse_covid19",3794,6,0,NA,0.16,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"UR","10 - 19",1,"altersklasse_covid19",3794,7,0.03,NA,0.18,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.002,0.2
+202052,"UR","20 - 29",0,"altersklasse_covid19",4458,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"UR","20 - 29",0,"altersklasse_covid19",4458,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"UR","20 - 29",0,"altersklasse_covid19",4458,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"UR","20 - 29",0,"altersklasse_covid19",4458,0,0,0.03,0,1.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"UR","20 - 29",0,"altersklasse_covid19",4458,0,0,0.03,0,1.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"UR","20 - 29",1,"altersklasse_covid19",4458,1,0.02,0.05,0.02,2.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202105,"UR","20 - 29",7,"altersklasse_covid19",4458,8,0.16,0.07,0.18,3,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.017,1.7
+202106,"UR","20 - 29",2,"altersklasse_covid19",4458,10,0.04,0.08,0.22,3.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.006,0.6
+202107,"UR","20 - 29",7,"altersklasse_covid19",4458,17,0.16,0.13,0.38,5.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.021,2.1
+202108,"UR","20 - 29",4,"altersklasse_covid19",4458,21,0.09,NA,0.47,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.011,1.1
+202109,"UR","20 - 29",3,"altersklasse_covid19",4458,24,0.07,NA,0.54,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.012,1.2
+202110,"UR","20 - 29",16,"altersklasse_covid19",4458,40,0.36,NA,0.9,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.039,3.9
+202052,"UR","30 - 39",0,"altersklasse_covid19",4490,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"UR","30 - 39",0,"altersklasse_covid19",4490,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"UR","30 - 39",0,"altersklasse_covid19",4490,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"UR","30 - 39",0,"altersklasse_covid19",4490,0,0,0.02,0,1,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"UR","30 - 39",0,"altersklasse_covid19",4490,0,0,0.04,0,1.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"UR","30 - 39",4,"altersklasse_covid19",4490,4,0.09,0.05,0.09,2.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.011,1.1
+202105,"UR","30 - 39",3,"altersklasse_covid19",4490,7,0.07,0.07,0.16,3.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.007,0.7
+202106,"UR","30 - 39",4,"altersklasse_covid19",4490,11,0.09,0.08,0.24,3.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.011,1.1
+202107,"UR","30 - 39",6,"altersklasse_covid19",4490,17,0.13,0.11,0.38,5,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.018,1.8
+202108,"UR","30 - 39",6,"altersklasse_covid19",4490,23,0.13,NA,0.51,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.017,1.7
+202109,"UR","30 - 39",3,"altersklasse_covid19",4490,26,0.07,NA,0.58,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.012,1.2
+202110,"UR","30 - 39",9,"altersklasse_covid19",4490,35,0.2,NA,0.78,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.022,2.2
+202052,"UR","40 - 49",0,"altersklasse_covid19",4775,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"UR","40 - 49",0,"altersklasse_covid19",4775,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"UR","40 - 49",0,"altersklasse_covid19",4775,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"UR","40 - 49",0,"altersklasse_covid19",4775,0,0,0.07,0,3.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"UR","40 - 49",0,"altersklasse_covid19",4775,0,0,0.09,0,4.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"UR","40 - 49",9,"altersklasse_covid19",4775,9,0.19,0.13,0.19,6.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.025,2.5
+202105,"UR","40 - 49",15,"altersklasse_covid19",4775,24,0.31,0.16,0.5,7.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.036,3.6
+202106,"UR","40 - 49",6,"altersklasse_covid19",4775,30,0.13,0.18,0.63,8.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.017,1.7
+202107,"UR","40 - 49",14,"altersklasse_covid19",4775,44,0.29,0.23,0.92,11.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.041,4.1
+202108,"UR","40 - 49",9,"altersklasse_covid19",4775,53,0.19,NA,1.11,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.025,2.5
+202109,"UR","40 - 49",6,"altersklasse_covid19",4775,59,0.13,NA,1.24,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.024,2.4
+202110,"UR","40 - 49",19,"altersklasse_covid19",4775,78,0.4,NA,1.63,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.047,4.7
+202052,"UR","50 - 59",0,"altersklasse_covid19",5504,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"UR","50 - 59",0,"altersklasse_covid19",5504,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"UR","50 - 59",0,"altersklasse_covid19",5504,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"UR","50 - 59",0,"altersklasse_covid19",5504,0,0,0.13,0,7,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"UR","50 - 59",0,"altersklasse_covid19",5504,0,0,0.16,0,8.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"UR","50 - 59",26,"altersklasse_covid19",5504,26,0.47,0.22,0.47,12,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.071,7.1
+202105,"UR","50 - 59",23,"altersklasse_covid19",5504,49,0.42,0.28,0.89,15.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.055,5.5
+202106,"UR","50 - 59",12,"altersklasse_covid19",5504,61,0.22,0.29,1.11,16.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.033,3.3
+202107,"UR","50 - 59",23,"altersklasse_covid19",5504,84,0.42,0.42,1.53,23.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.068,6.8
+202108,"UR","50 - 59",23,"altersklasse_covid19",5504,107,0.42,NA,1.94,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.065,6.5
+202109,"UR","50 - 59",6,"altersklasse_covid19",5504,113,0.11,NA,2.05,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.024,2.4
+202110,"UR","50 - 59",50,"altersklasse_covid19",5504,163,0.91,NA,2.96,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.123,12.3
+202052,"UR","60 - 69",0,"altersklasse_covid19",4670,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"UR","60 - 69",0,"altersklasse_covid19",4670,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"UR","60 - 69",0,"altersklasse_covid19",4670,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"UR","60 - 69",0,"altersklasse_covid19",4670,0,0,0.16,0,7.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"UR","60 - 69",0,"altersklasse_covid19",4670,0,0,0.23,0,10.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"UR","60 - 69",29,"altersklasse_covid19",4670,29,0.62,0.34,0.62,16,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.079,7.9
+202105,"UR","60 - 69",24,"altersklasse_covid19",4670,53,0.51,0.51,1.13,24,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.057,5.7
+202106,"UR","60 - 69",21,"altersklasse_covid19",4670,74,0.45,0.57,1.58,26.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.058,5.8
+202107,"UR","60 - 69",38,"altersklasse_covid19",4670,112,0.81,0.73,2.4,34.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.112,11.2
+202108,"UR","60 - 69",56,"altersklasse_covid19",4670,168,1.2,NA,3.6,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.159,15.9
+202109,"UR","60 - 69",19,"altersklasse_covid19",4670,187,0.41,NA,4,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.075,7.5
+202110,"UR","60 - 69",52,"altersklasse_covid19",4670,239,1.11,NA,5.12,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.128,12.8
+202052,"UR","70 - 79",0,"altersklasse_covid19",3418,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"UR","70 - 79",0,"altersklasse_covid19",3418,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"UR","70 - 79",0,"altersklasse_covid19",3418,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"UR","70 - 79",0,"altersklasse_covid19",3418,0,0,0.93,0,31.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"UR","70 - 79",0,"altersklasse_covid19",3418,0,0,1.63,0,55.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"UR","70 - 79",68,"altersklasse_covid19",3418,68,1.99,2.34,1.99,80,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.186,18.6
+202105,"UR","70 - 79",154,"altersklasse_covid19",3418,222,4.51,2.93,6.5,100.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.367,36.7
+202106,"UR","70 - 79",167,"altersklasse_covid19",3418,389,4.89,3.57,11.38,121.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.461,46.1
+202107,"UR","70 - 79",171,"altersklasse_covid19",3418,560,5,4.13,16.38,141.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.503,50.3
+202108,"UR","70 - 79",142,"altersklasse_covid19",3418,702,4.15,NA,20.54,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.402,40.2
+202109,"UR","70 - 79",151,"altersklasse_covid19",3418,853,4.42,NA,24.96,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.592,59.2
+202110,"UR","70 - 79",135,"altersklasse_covid19",3418,988,3.95,NA,28.91,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.332,33.2
+202052,"UR","80+",0,"altersklasse_covid19",2031,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"UR","80+",0,"altersklasse_covid19",2031,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"UR","80+",0,"altersklasse_covid19",2031,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"UR","80+",0,"altersklasse_covid19",2031,0,0,2.95,0,59.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"UR","80+",0,"altersklasse_covid19",2031,0,0,4,0,81.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"UR","80+",226,"altersklasse_covid19",2031,226,11.13,4.57,11.13,92.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.617,61.7
+202105,"UR","80+",193,"altersklasse_covid19",2031,419,9.5,5.35,20.63,108.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.46,46
+202106,"UR","80+",150,"altersklasse_covid19",2031,569,7.39,5.82,28.02,118.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.414,41.4
+202107,"UR","80+",80,"altersklasse_covid19",2031,649,3.94,6.7,31.95,136.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.235,23.5
+202108,"UR","80+",112,"altersklasse_covid19",2031,761,5.51,NA,37.47,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.317,31.7
+202109,"UR","80+",67,"altersklasse_covid19",2031,828,3.3,NA,40.77,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.263,26.3
+202110,"UR","80+",125,"altersklasse_covid19",2031,953,6.15,NA,46.92,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.307,30.7
+202052,"VD","0 - 9",0,"altersklasse_covid19",86781,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"VD","0 - 9",0,"altersklasse_covid19",86781,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"VD","0 - 9",0,"altersklasse_covid19",86781,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"VD","0 - 9",0,"altersklasse_covid19",86781,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"VD","0 - 9",0,"altersklasse_covid19",86781,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"VD","0 - 9",0,"altersklasse_covid19",86781,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"VD","0 - 9",0,"altersklasse_covid19",86781,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"VD","0 - 9",0,"altersklasse_covid19",86781,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"VD","0 - 9",0,"altersklasse_covid19",86781,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"VD","0 - 9",0,"altersklasse_covid19",86781,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"VD","0 - 9",0,"altersklasse_covid19",86781,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"VD","0 - 9",0,"altersklasse_covid19",86781,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"VD","10 - 19",0,"altersklasse_covid19",89543,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"VD","10 - 19",0,"altersklasse_covid19",89543,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"VD","10 - 19",0,"altersklasse_covid19",89543,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"VD","10 - 19",0,"altersklasse_covid19",89543,0,0,0,0,2.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"VD","10 - 19",0,"altersklasse_covid19",89543,0,0,0.01,0,7.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"VD","10 - 19",0,"altersklasse_covid19",89543,0,0,0.01,0,9.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"VD","10 - 19",17,"altersklasse_covid19",89543,17,0.02,0.02,0.02,14.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.011,1.1
+202106,"VD","10 - 19",37,"altersklasse_covid19",89543,54,0.04,0.02,0.06,18.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.005,0.5
+202107,"VD","10 - 19",10,"altersklasse_covid19",89543,64,0.01,0.02,0.07,21,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.002,0.2
+202108,"VD","10 - 19",38,"altersklasse_covid19",89543,102,0.04,NA,0.11,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.004,0.4
+202109,"VD","10 - 19",29,"altersklasse_covid19",89543,131,0.03,NA,0.15,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.007,0.7
+202110,"VD","10 - 19",16,"altersklasse_covid19",89543,147,0.02,NA,0.16,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.008,0.8
+202052,"VD","20 - 29",0,"altersklasse_covid19",105425,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"VD","20 - 29",0,"altersklasse_covid19",105425,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"VD","20 - 29",0,"altersklasse_covid19",105425,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"VD","20 - 29",0,"altersklasse_covid19",105425,0,0,0.01,0,16.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"VD","20 - 29",0,"altersklasse_covid19",105425,0,0,0.06,0,63.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"VD","20 - 29",4,"altersklasse_covid19",105425,4,0,0.08,0,86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.043,4.3
+202105,"VD","20 - 29",109,"altersklasse_covid19",105425,113,0.1,0.13,0.11,141.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.071,7.1
+202106,"VD","20 - 29",332,"altersklasse_covid19",105425,445,0.31,0.18,0.42,191.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.045,4.5
+202107,"VD","20 - 29",157,"altersklasse_covid19",105425,602,0.15,0.21,0.57,220.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.024,2.4
+202108,"VD","20 - 29",386,"altersklasse_covid19",105425,988,0.37,NA,0.94,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.04,4
+202109,"VD","20 - 29",354,"altersklasse_covid19",105425,1342,0.34,NA,1.27,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.087,8.7
+202110,"VD","20 - 29",204,"altersklasse_covid19",105425,1546,0.19,NA,1.47,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.097,9.7
+202052,"VD","30 - 39",0,"altersklasse_covid19",116644,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"VD","30 - 39",0,"altersklasse_covid19",116644,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"VD","30 - 39",0,"altersklasse_covid19",116644,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"VD","30 - 39",0,"altersklasse_covid19",116644,0,0,0.01,0,17.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"VD","30 - 39",0,"altersklasse_covid19",116644,0,0,0.07,0,86.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"VD","30 - 39",5,"altersklasse_covid19",116644,5,0,0.11,0,132.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.054,5.4
+202105,"VD","30 - 39",117,"altersklasse_covid19",116644,122,0.1,0.2,0.1,229.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.076,7.6
+202106,"VD","30 - 39",482,"altersklasse_covid19",116644,604,0.41,0.26,0.52,305.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.065,6.5
+202107,"VD","30 - 39",326,"altersklasse_covid19",116644,930,0.28,0.29,0.8,341.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.049,4.9
+202108,"VD","30 - 39",679,"altersklasse_covid19",116644,1609,0.58,NA,1.38,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.071,7.1
+202109,"VD","30 - 39",528,"altersklasse_covid19",116644,2137,0.45,NA,1.83,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.13,13
+202110,"VD","30 - 39",255,"altersklasse_covid19",116644,2392,0.22,NA,2.05,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.121,12.1
+202052,"VD","40 - 49",0,"altersklasse_covid19",117016,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"VD","40 - 49",0,"altersklasse_covid19",117016,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"VD","40 - 49",0,"altersklasse_covid19",117016,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"VD","40 - 49",0,"altersklasse_covid19",117016,0,0,0.02,0,24.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"VD","40 - 49",0,"altersklasse_covid19",117016,0,0,0.1,0,121,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"VD","40 - 49",8,"altersklasse_covid19",117016,8,0.01,0.16,0.01,192,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.086,8.6
+202105,"VD","40 - 49",161,"altersklasse_covid19",117016,169,0.14,0.25,0.14,297.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.104,10.4
+202106,"VD","40 - 49",678,"altersklasse_covid19",117016,847,0.58,0.33,0.72,383.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.092,9.2
+202107,"VD","40 - 49",497,"altersklasse_covid19",117016,1344,0.42,0.36,1.15,427.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.075,7.5
+202108,"VD","40 - 49",740,"altersklasse_covid19",117016,2084,0.63,NA,1.78,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.078,7.8
+202109,"VD","40 - 49",598,"altersklasse_covid19",117016,2682,0.51,NA,2.29,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.147,14.7
+202110,"VD","40 - 49",309,"altersklasse_covid19",117016,2991,0.26,NA,2.56,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.146,14.6
+202052,"VD","50 - 59",0,"altersklasse_covid19",113315,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"VD","50 - 59",0,"altersklasse_covid19",113315,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"VD","50 - 59",0,"altersklasse_covid19",113315,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"VD","50 - 59",0,"altersklasse_covid19",113315,0,0,0.03,0,35,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"VD","50 - 59",0,"altersklasse_covid19",113315,0,0,0.15,0,171.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"VD","50 - 59",13,"altersklasse_covid19",113315,13,0.01,0.23,0.01,263,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.14,14
+202105,"VD","50 - 59",232,"altersklasse_covid19",113315,245,0.2,0.37,0.22,418.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.15,15
+202106,"VD","50 - 59",955,"altersklasse_covid19",113315,1200,0.84,0.46,1.06,523.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.13,13
+202107,"VD","50 - 59",641,"altersklasse_covid19",113315,1841,0.57,0.51,1.62,578.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.097,9.7
+202108,"VD","50 - 59",1089,"altersklasse_covid19",113315,2930,0.96,NA,2.59,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.114,11.4
+202109,"VD","50 - 59",736,"altersklasse_covid19",113315,3666,0.65,NA,3.24,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.181,18.1
+202110,"VD","50 - 59",382,"altersklasse_covid19",113315,4048,0.34,NA,3.57,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.181,18.1
+202052,"VD","60 - 69",0,"altersklasse_covid19",77560,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"VD","60 - 69",0,"altersklasse_covid19",77560,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"VD","60 - 69",0,"altersklasse_covid19",77560,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"VD","60 - 69",0,"altersklasse_covid19",77560,0,0,0.03,0,22.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"VD","60 - 69",0,"altersklasse_covid19",77560,0,0,0.17,0,128.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"VD","60 - 69",7,"altersklasse_covid19",77560,7,0.01,0.31,0.01,237.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.075,7.5
+202105,"VD","60 - 69",152,"altersklasse_covid19",77560,159,0.2,0.51,0.21,395.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.098,9.8
+202106,"VD","60 - 69",740,"altersklasse_covid19",77560,899,0.95,0.59,1.16,461.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.1,10
+202107,"VD","60 - 69",766,"altersklasse_covid19",77560,1665,0.99,0.64,2.15,497.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.116,11.6
+202108,"VD","60 - 69",1103,"altersklasse_covid19",77560,2768,1.42,NA,3.57,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.116,11.6
+202109,"VD","60 - 69",461,"altersklasse_covid19",77560,3229,0.59,NA,4.16,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.113,11.3
+202110,"VD","60 - 69",256,"altersklasse_covid19",77560,3485,0.33,NA,4.49,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.121,12.1
+202052,"VD","70 - 79",0,"altersklasse_covid19",60455,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"VD","70 - 79",0,"altersklasse_covid19",60455,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"VD","70 - 79",0,"altersklasse_covid19",60455,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"VD","70 - 79",0,"altersklasse_covid19",60455,0,0,0.06,0,34.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"VD","70 - 79",0,"altersklasse_covid19",60455,0,0,0.49,0,293.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"VD","70 - 79",10,"altersklasse_covid19",60455,10,0.02,1.04,0.02,627.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.108,10.8
+202105,"VD","70 - 79",232,"altersklasse_covid19",60455,242,0.38,1.75,0.4,1055.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.15,15
+202106,"VD","70 - 79",1811,"altersklasse_covid19",60455,2053,3,1.91,3.4,1154.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.246,24.6
+202107,"VD","70 - 79",2342,"altersklasse_covid19",60455,4395,3.87,1.99,7.27,1203.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.354,35.4
+202108,"VD","70 - 79",2996,"altersklasse_covid19",60455,7391,4.96,NA,12.23,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.314,31.4
+202109,"VD","70 - 79",689,"altersklasse_covid19",60455,8080,1.14,NA,13.37,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.169,16.9
+202110,"VD","70 - 79",343,"altersklasse_covid19",60455,8423,0.57,NA,13.93,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.162,16.2
+202052,"VD","80+",0,"altersklasse_covid19",38359,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"VD","80+",0,"altersklasse_covid19",38359,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202101,"VD","80+",0,"altersklasse_covid19",38359,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"VD","80+",0,"altersklasse_covid19",38359,0,0,0.21,0,81.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202103,"VD","80+",0,"altersklasse_covid19",38359,0,0,1.08,0,414.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202104,"VD","80+",46,"altersklasse_covid19",38359,46,0.12,1.78,0.12,683.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.495,49.5
+202105,"VD","80+",526,"altersklasse_covid19",38359,572,1.37,2.72,1.49,1042.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.34,34
+202106,"VD","80+",2332,"altersklasse_covid19",38359,2904,6.08,2.97,7.57,1139.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.317,31.7
+202107,"VD","80+",1878,"altersklasse_covid19",38359,4782,4.9,3.1,12.47,1189,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.284,28.4
+202108,"VD","80+",2517,"altersklasse_covid19",38359,7299,6.56,NA,19.03,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.264,26.4
+202109,"VD","80+",677,"altersklasse_covid19",38359,7976,1.76,NA,20.79,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.166,16.6
+202110,"VD","80+",347,"altersklasse_covid19",38359,8323,0.9,NA,21.7,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.164,16.4
+202052,"ZG","0 - 9",0,"altersklasse_covid19",13206,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"ZG","0 - 9",0,"altersklasse_covid19",13206,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"ZG","0 - 9",0,"altersklasse_covid19",13206,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"ZG","0 - 9",0,"altersklasse_covid19",13206,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"ZG","0 - 9",0,"altersklasse_covid19",13206,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"ZG","0 - 9",0,"altersklasse_covid19",13206,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"ZG","0 - 9",0,"altersklasse_covid19",13206,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202106,"ZG","0 - 9",0,"altersklasse_covid19",13206,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"ZG","0 - 9",0,"altersklasse_covid19",13206,0,0,0,0,0,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202108,"ZG","0 - 9",0,"altersklasse_covid19",13206,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202109,"ZG","0 - 9",0,"altersklasse_covid19",13206,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202110,"ZG","0 - 9",0,"altersklasse_covid19",13206,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202052,"ZG","10 - 19",0,"altersklasse_covid19",12695,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"ZG","10 - 19",0,"altersklasse_covid19",12695,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"ZG","10 - 19",0,"altersklasse_covid19",12695,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"ZG","10 - 19",0,"altersklasse_covid19",12695,0,0,0,0,0.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202103,"ZG","10 - 19",1,"altersklasse_covid19",12695,1,0.01,0,0.01,0.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.007,0.7
+202104,"ZG","10 - 19",0,"altersklasse_covid19",12695,1,0,0.01,0.01,1.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"ZG","10 - 19",1,"altersklasse_covid19",12695,2,0.01,0.02,0.02,1.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.002,0.2
+202106,"ZG","10 - 19",0,"altersklasse_covid19",12695,2,0,0.02,0.02,2,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202107,"ZG","10 - 19",9,"altersklasse_covid19",12695,11,0.07,0.02,0.09,2,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.002,0.2
+202108,"ZG","10 - 19",2,"altersklasse_covid19",12695,13,0.02,NA,0.1,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.002,0.2
+202109,"ZG","10 - 19",1,"altersklasse_covid19",12695,14,0.01,NA,0.11,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202110,"ZG","10 - 19",1,"altersklasse_covid19",12695,15,0.01,NA,0.12,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.006,0.6
+202052,"ZG","20 - 29",0,"altersklasse_covid19",13426,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"ZG","20 - 29",1,"altersklasse_covid19",13426,1,0.01,NA,0.01,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.333,33.3
+202101,"ZG","20 - 29",0,"altersklasse_covid19",13426,1,0,NA,0.01,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"ZG","20 - 29",25,"altersklasse_covid19",13426,26,0.19,0.07,0.19,9.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.12,12
+202103,"ZG","20 - 29",34,"altersklasse_covid19",13426,60,0.25,0.07,0.45,9.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.234,23.4
+202104,"ZG","20 - 29",1,"altersklasse_covid19",13426,61,0.01,0.13,0.45,17.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.143,14.3
+202105,"ZG","20 - 29",5,"altersklasse_covid19",13426,66,0.04,0.15,0.49,20.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.009,0.9
+202106,"ZG","20 - 29",3,"altersklasse_covid19",13426,69,0.02,0.13,0.51,17.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.003,0.3
+202107,"ZG","20 - 29",53,"altersklasse_covid19",13426,122,0.39,0.1,0.91,13.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.013,1.3
+202108,"ZG","20 - 29",22,"altersklasse_covid19",13426,144,0.16,NA,1.07,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.021,2.1
+202109,"ZG","20 - 29",7,"altersklasse_covid19",13426,151,0.05,NA,1.12,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.019,1.9
+202110,"ZG","20 - 29",6,"altersklasse_covid19",13426,157,0.04,NA,1.17,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.035,3.5
+202052,"ZG","30 - 39",0,"altersklasse_covid19",18383,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"ZG","30 - 39",0,"altersklasse_covid19",18383,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"ZG","30 - 39",0,"altersklasse_covid19",18383,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"ZG","30 - 39",20,"altersklasse_covid19",18383,20,0.11,0.04,0.11,6.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.096,9.6
+202103,"ZG","30 - 39",21,"altersklasse_covid19",18383,41,0.11,0.04,0.22,7.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.145,14.5
+202104,"ZG","30 - 39",1,"altersklasse_covid19",18383,42,0.01,0.11,0.23,20.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.143,14.3
+202105,"ZG","30 - 39",4,"altersklasse_covid19",18383,46,0.02,0.13,0.25,24,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.007,0.7
+202106,"ZG","30 - 39",5,"altersklasse_covid19",18383,51,0.03,0.13,0.28,23.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.005,0.5
+202107,"ZG","30 - 39",92,"altersklasse_covid19",18383,143,0.5,0.12,0.78,20.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.023,2.3
+202108,"ZG","30 - 39",25,"altersklasse_covid19",18383,168,0.14,NA,0.91,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.024,2.4
+202109,"ZG","30 - 39",16,"altersklasse_covid19",18383,184,0.09,NA,1,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.043,4.3
+202110,"ZG","30 - 39",3,"altersklasse_covid19",18383,187,0.02,NA,1.02,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.017,1.7
+202052,"ZG","40 - 49",0,"altersklasse_covid19",19414,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"ZG","40 - 49",0,"altersklasse_covid19",19414,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"ZG","40 - 49",0,"altersklasse_covid19",19414,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"ZG","40 - 49",53,"altersklasse_covid19",19414,53,0.27,0.08,0.27,15.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.255,25.5
+202103,"ZG","40 - 49",33,"altersklasse_covid19",19414,86,0.17,0.09,0.44,17,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.228,22.8
+202104,"ZG","40 - 49",3,"altersklasse_covid19",19414,89,0.02,0.19,0.46,36.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.429,42.9
+202105,"ZG","40 - 49",18,"altersklasse_covid19",19414,107,0.09,0.22,0.55,43.29,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.031,3.1
+202106,"ZG","40 - 49",12,"altersklasse_covid19",19414,119,0.06,0.2,0.61,39.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.012,1.2
+202107,"ZG","40 - 49",134,"altersklasse_covid19",19414,253,0.69,0.19,1.3,36.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.034,3.4
+202108,"ZG","40 - 49",50,"altersklasse_covid19",19414,303,0.26,NA,1.56,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.048,4.8
+202109,"ZG","40 - 49",28,"altersklasse_covid19",19414,331,0.14,NA,1.7,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.076,7.6
+202110,"ZG","40 - 49",8,"altersklasse_covid19",19414,339,0.04,NA,1.75,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.047,4.7
+202052,"ZG","50 - 59",0,"altersklasse_covid19",20806,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"ZG","50 - 59",2,"altersklasse_covid19",20806,2,0.01,NA,0.01,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.667,66.7
+202101,"ZG","50 - 59",0,"altersklasse_covid19",20806,2,0,NA,0.01,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"ZG","50 - 59",60,"altersklasse_covid19",20806,62,0.29,0.1,0.3,20.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.288,28.8
+202103,"ZG","50 - 59",42,"altersklasse_covid19",20806,104,0.2,0.12,0.5,24.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.29,29
+202104,"ZG","50 - 59",0,"altersklasse_covid19",20806,104,0,0.31,0.5,64.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"ZG","50 - 59",41,"altersklasse_covid19",20806,145,0.2,0.36,0.7,75.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.071,7.1
+202106,"ZG","50 - 59",24,"altersklasse_covid19",20806,169,0.12,0.35,0.81,71.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.023,2.3
+202107,"ZG","50 - 59",285,"altersklasse_covid19",20806,454,1.37,0.33,2.18,69.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.073,7.3
+202108,"ZG","50 - 59",77,"altersklasse_covid19",20806,531,0.37,NA,2.55,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.073,7.3
+202109,"ZG","50 - 59",34,"altersklasse_covid19",20806,565,0.16,NA,2.72,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.092,9.2
+202110,"ZG","50 - 59",23,"altersklasse_covid19",20806,588,0.11,NA,2.83,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.134,13.4
+202052,"ZG","60 - 69",0,"altersklasse_covid19",13758,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"ZG","60 - 69",0,"altersklasse_covid19",13758,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"ZG","60 - 69",0,"altersklasse_covid19",13758,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"ZG","60 - 69",22,"altersklasse_covid19",13758,22,0.16,0.08,0.16,11.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.106,10.6
+202103,"ZG","60 - 69",12,"altersklasse_covid19",13758,34,0.09,0.1,0.25,13.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.083,8.3
+202104,"ZG","60 - 69",2,"altersklasse_covid19",13758,36,0.01,0.42,0.26,58,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.286,28.6
+202105,"ZG","60 - 69",42,"altersklasse_covid19",13758,78,0.31,0.51,0.57,69.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.073,7.3
+202106,"ZG","60 - 69",18,"altersklasse_covid19",13758,96,0.13,0.53,0.7,73.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.017,1.7
+202107,"ZG","60 - 69",310,"altersklasse_covid19",13758,406,2.25,0.54,2.95,75,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.079,7.9
+202108,"ZG","60 - 69",82,"altersklasse_covid19",13758,488,0.6,NA,3.55,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.078,7.8
+202109,"ZG","60 - 69",46,"altersklasse_covid19",13758,534,0.33,NA,3.88,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.125,12.5
+202110,"ZG","60 - 69",25,"altersklasse_covid19",13758,559,0.18,NA,4.06,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.145,14.5
+202052,"ZG","70 - 79",0,"altersklasse_covid19",10107,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"ZG","70 - 79",0,"altersklasse_covid19",10107,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"ZG","70 - 79",0,"altersklasse_covid19",10107,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"ZG","70 - 79",3,"altersklasse_covid19",10107,3,0.03,0.26,0.03,26.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.014,1.4
+202103,"ZG","70 - 79",2,"altersklasse_covid19",10107,5,0.02,0.88,0.05,88.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.014,1.4
+202104,"ZG","70 - 79",0,"altersklasse_covid19",10107,5,0,3.02,0.05,305.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"ZG","70 - 79",180,"altersklasse_covid19",10107,185,1.78,3.6,1.83,364.14,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.311,31.1
+202106,"ZG","70 - 79",437,"altersklasse_covid19",10107,622,4.32,3.76,6.15,380.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.423,42.3
+202107,"ZG","70 - 79",1514,"altersklasse_covid19",10107,2136,14.98,3.86,21.13,389.71,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.385,38.5
+202108,"ZG","70 - 79",413,"altersklasse_covid19",10107,2549,4.09,NA,25.22,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.393,39.3
+202109,"ZG","70 - 79",117,"altersklasse_covid19",10107,2666,1.16,NA,26.38,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.317,31.7
+202110,"ZG","70 - 79",67,"altersklasse_covid19",10107,2733,0.66,NA,27.04,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.39,39
+202052,"ZG","80+",0,"altersklasse_covid19",5847,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202053,"ZG","80+",0,"altersklasse_covid19",5847,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202101,"ZG","80+",0,"altersklasse_covid19",5847,0,0,NA,0,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",NA,NA
+202102,"ZG","80+",25,"altersklasse_covid19",5847,25,0.43,0.76,0.43,44.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.12,12
+202103,"ZG","80+",0,"altersklasse_covid19",5847,25,0,2.07,0.43,120.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202104,"ZG","80+",0,"altersklasse_covid19",5847,25,0,5.81,0.43,339.57,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0,0
+202105,"ZG","80+",287,"altersklasse_covid19",5847,312,4.91,6.74,5.34,393.86,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.497,49.7
+202106,"ZG","80+",534,"altersklasse_covid19",5847,846,9.13,6.97,14.47,407.43,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.517,51.7
+202107,"ZG","80+",1531,"altersklasse_covid19",5847,2377,26.18,7.06,40.65,413,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.39,39
+202108,"ZG","80+",380,"altersklasse_covid19",5847,2757,6.5,NA,47.15,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.362,36.2
+202109,"ZG","80+",120,"altersklasse_covid19",5847,2877,2.05,NA,49.2,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.325,32.5
+202110,"ZG","80+",39,"altersklasse_covid19",5847,2916,0.67,NA,49.87,NA,"COVID19FullyVaccPersons","2021-03-16_11-15-36","detailed",0.227,22.7
