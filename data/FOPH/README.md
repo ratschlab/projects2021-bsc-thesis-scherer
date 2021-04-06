@@ -47,6 +47,17 @@ Please note that the data schema can change in the future and be released in a n
 
 ### Releases
 
+### v.0.4.4
+**Released**: ` 25.03.2021`
+**Description**:
+- added `granularity` value `partial` to  `VaccinationWeeklyIncomingData` model
+
+### v.0.4.3
+**Released**: ` 19.03.2021`
+**Description**:
+- added data context history API, see documentation below for details
+- added new properties `anteil_pos`, `lower_ci_day` and `upper_ci_day` to the `VirusVariantsDailyIncomingData` model
+
 ### v.0.4.2
 **Released**: ` 26.02.2021`
 **Description**:
@@ -127,13 +138,16 @@ Please note that the data schema can change in the future and be released in a n
 
 **Description**: Initial version
 
-## Download Automation
+## Data Context API
 
+### Current Data Context
 The current data context can be queried at a static location and provides information about the source date of the current data and source file locations.
 
 ```
 GET https://www.covid19.admin.ch/api/data/context
 ```
+
+### Data Model
 `sourceDate` contains the overall source date of the data. Multiple publications per day are possible with the same `sourceDate`. Check the `dataVersion` to decide if you need to update your data.
 
 `dataVersion` contains the current data version. Download links may be generated directly using the `dataVersion` but using the pre-generated urls in the `sources` field (see documentation below) is recommended.
@@ -225,5 +239,48 @@ GET https://www.covid19.admin.ch/api/data/context
       }
     }
   }
+}
+```
+
+### Data Context History
+
+The data context history can be queried at a static location and provides a list of previously published data contexts.
+
+```
+GET https://www.covid19.admin.ch/api/data/context/history
+```
+Multiple publications per day are possible due to delays or data corrections etc. By default only the latest data context per day is returned from the API. Query `https://www.covid19.admin.ch/api/data/context/history/full` for all previously published data contexts (multiple per day returned).
+
+### Data Model
+`current` Url pointing to the current data context.
+
+`documentation` Url of this documentation
+
+`dataContexts` List of the individual data context history items
+
+### Data Model (individual data context history item)
+`date` Day of the publication, formatted as YYYY-MM-DD (e.g. 2021-03-18)
+
+`latest` Multiple publications per day are possible due to delays or data corrections etc. This property indicates if the current data context is the latest one published for this day.
+
+`published` Date and time of publication formatted as ISO 8601 string (e.g. 2021-03-18T13:30:35+01:00)
+
+`dataVersion` Data version of thsi dataContext (see documentation above for details)
+
+`dataContextUrl` Url pointing to the full data context object.
+
+```
+{
+    "current": "https://www.covid19.admin.ch/api/data/context",
+    "documentation": "https://www.covid19.admin.ch/api/data/documentation#data-context-history",
+    "dataContexts: [
+        {
+            "date": "2021-03-18",
+            "published": "2021-03-18T13:30:35+01:00",
+            "latest": true,
+            "dataVersion": "20210318-dec0fnrh",
+            "dataContextUrl": "https://www.covid19.admin.ch/api/data/20210318-dec0fnrh/context"
+        }
+    ]
 }
 ```

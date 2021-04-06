@@ -1338,9 +1338,10 @@
           "title": "geoRegion"
         },
         "granularity": {
-          "description": "Granularity of the reported data.\n\nsummary - cumulative data of current totals reported biweekly by cantons\ndetailed - singular data of vaccine events through automated reporting including demographic information",
+          "description": "Granularity of the reported data.\n\nsummary - cumulative data of current totals reported biweekly by cantons\ndetailed - singular data of vaccine events through automated reporting including demographic information\npartial - incomplete detailed data for CH + CHFL aggregations including only geoRegions with granularity detailed (records do not include all values)",
           "enum": [
             "detailed",
+            "partial",
             "summary"
           ],
           "title": "granularity",
@@ -1422,8 +1423,13 @@
     "VirusVariantsDailyIncomingData": {
       "description": "Identified virus variants and sequencing results.",
       "properties": {
+        "anteil_pos": {
+          "description": "Estimated percentage of positive test results for this day. Only applies to variant_type 'voc_known' and 'voc_digitally_reported'.",
+          "title": "anteil_pos",
+          "type": "number"
+        },
         "anteil_pos_mean7d": {
-          "description": "Rolling 7 day average of the percentage of positive test results for this day. Only applies to variant_type 'voc_known' and 'voc_digitally_reported'.",
+          "description": "Rolling 7 day average of the estimated percentage of positive test results for this day. Only applies to variant_type 'voc_known' and 'voc_digitally_reported'.",
           "title": "anteil_pos_mean7d",
           "type": "number"
         },
@@ -1459,6 +1465,11 @@
         "geoRegion": {
           "$ref": "https://covid19.admin.ch#/definitions/GeoUnit",
           "title": "geoRegion"
+        },
+        "lower_ci_day": {
+          "description": "The daily 95 % binomial proportion confidence interval of the anteil_pos was estimated with the Clopper and Pearson (1934) method. lower_ci_day represents the lower daily boundary. Only applies to variant_type 'voc_known' and 'voc_digitally_reported'.",
+          "title": "lower_ci_day",
+          "type": "number"
         },
         "sumTotal": {
           "description": "Sum of the 'entries' value since the beginning of the timeframe_all timeframe.",
@@ -1517,6 +1528,11 @@
           ],
           "title": "type",
           "type": "string"
+        },
+        "upper_ci_day": {
+          "description": "The daily 95 % binomial proportion confidence interval of the anteil_pos was estimated with the Clopper and Pearson (1934) method. upper_ci_day represents the upper daily boundary. Only applies to variant_type 'voc_known' and 'voc_digitally_reported'.",
+          "title": "upper_ci_day",
+          "type": "number"
         },
         "variant_type": {
           "$ref": "https://covid19.admin.ch#/definitions/VirusVariantType",
@@ -1661,5 +1677,5 @@
     }
   },
   "title": "COVID-19 Dashboard Source Data",
-  "version": "0.4.1"
+  "version": "0.4.4"
 }
