@@ -1,0 +1,25 @@
+modelClass,task,week,model rmse 1,model rmse 2,isMultiWeek,alpha,l1_ratio,modelId,modelIdNumber
+ElasticNet,case_inz_entries_7dayAverage,0,6.368347459517392,5.29269655184886,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,case_inz_entries_7dayAverage,1,17.060880247872394,10.448994150999743,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,case_inz_entries_7dayAverage,2,26.740243107258514,11.811877521906013,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,case_inz_entries_7dayAverage,3,30.41442462378189,12.089586056572255,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,hosp_inz_entries_7dayAverage,0,0.3199696536400399,0.2996538465442231,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,hosp_inz_entries_7dayAverage,1,0.5362483269999255,0.6848113273307181,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,hosp_inz_entries_7dayAverage,2,0.6418249180987113,0.8169658389118876,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,hosp_inz_entries_7dayAverage,3,0.7682094442949813,0.8632680880512943,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,death_inz_entries_7dayAverage,0,0.14044298337747327,0.13811510860130624,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,death_inz_entries_7dayAverage,1,0.21985661251034475,0.2737355523748981,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,death_inz_entries_7dayAverage,2,0.2607163541640435,0.4177019591273237,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,death_inz_entries_7dayAverage,3,0.24058253652002815,0.4997934496222522,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,testPositvity_7dayAverage,0,0.01480019094364971,0.04095003563309309,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,testPositvity_7dayAverage,1,0.02557890852251282,0.04774942239470426,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,testPositvity_7dayAverage,2,0.02915003031517667,0.05058896239522368,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,testPositvity_7dayAverage,3,0.02302623690148327,0.048055524096511225,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,transit_stations_percent_change_from_baseline_7dayAverage,0,7.269551186807057,5.111285623161838,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,transit_stations_percent_change_from_baseline_7dayAverage,1,9.817995772859506,7.947213054934558,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,transit_stations_percent_change_from_baseline_7dayAverage,2,8.397117704788961,8.852971186260245,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,transit_stations_percent_change_from_baseline_7dayAverage,3,11.772180995121651,8.784710246792619,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,workplaces_percent_change_from_baseline_7dayAverage,0,9.372407233087392,4.13721212341461,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,workplaces_percent_change_from_baseline_7dayAverage,1,12.193840329365793,4.530342617870165,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,workplaces_percent_change_from_baseline_7dayAverage,2,9.843726817289554,4.868952070696194,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn
+ElasticNet,workplaces_percent_change_from_baseline_7dayAverage,3,6.560873135315581,5.459090400504786,True,0.001,0.1,modelClass=ElasticNet/isMultiWeek=True/alpha=0.001/l1_ratio=0.1,45_sklearn

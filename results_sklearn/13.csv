@@ -1,0 +1,25 @@
+modelClass,task,week,model rmse 1,model rmse 2,isMultiWeek,alpha,modelId,modelIdNumber
+Lasso,case_inz_entries_7dayAverage,0,4.48162957978214,7.037467449845576,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,case_inz_entries_7dayAverage,1,9.158405329354075,12.472877136929691,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,case_inz_entries_7dayAverage,2,14.061758432833523,13.24533999995891,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,case_inz_entries_7dayAverage,3,19.357067368546712,11.553586212628867,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,hosp_inz_entries_7dayAverage,0,0.5263943269977451,0.5786817246194651,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,hosp_inz_entries_7dayAverage,1,0.5486662963533249,0.9049404217954746,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,hosp_inz_entries_7dayAverage,2,0.519835059844443,0.968590139179143,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,hosp_inz_entries_7dayAverage,3,0.5412818245444723,0.9623941087764029,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,death_inz_entries_7dayAverage,0,0.2779643473522689,0.5377242021891356,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,death_inz_entries_7dayAverage,1,0.251510083651899,0.5732612318678223,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,death_inz_entries_7dayAverage,2,0.24399579745487057,0.678606938805009,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,death_inz_entries_7dayAverage,3,0.2452448720200623,0.6535504939750344,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,testPositvity_7dayAverage,0,0.021841765655832995,0.09951964885522802,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,testPositvity_7dayAverage,1,0.023018830126898815,0.09665968547957589,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,testPositvity_7dayAverage,2,0.02635363584773561,0.09382148496997543,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,testPositvity_7dayAverage,3,0.03039514820883331,0.08473391131151875,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,transit_stations_percent_change_from_baseline_7dayAverage,0,6.647915469624796,5.215212008050841,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,transit_stations_percent_change_from_baseline_7dayAverage,1,7.229695909799403,7.5328356790968405,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,transit_stations_percent_change_from_baseline_7dayAverage,2,8.271787017135031,8.467105446874564,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,transit_stations_percent_change_from_baseline_7dayAverage,3,7.676260461464576,8.630202323629247,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,workplaces_percent_change_from_baseline_7dayAverage,0,6.453978271394805,5.223647051456734,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,workplaces_percent_change_from_baseline_7dayAverage,1,5.719377266368113,5.632980967484164,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,workplaces_percent_change_from_baseline_7dayAverage,2,7.0363844735199494,5.840471189786841,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn
+Lasso,workplaces_percent_change_from_baseline_7dayAverage,3,6.647810257798668,5.936387557534462,True,0.1,modelClass=Lasso/isMultiWeek=True/alpha=0.1,13_sklearn

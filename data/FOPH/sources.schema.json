@@ -2,45 +2,197 @@
   "$id": "https://covid19.admin.ch",
   "$schema": "http://json-schema.org/draft-07/schema#",
   "definitions": {
+    "AdditionalGeoRegion14dPeriodIncomingData": {
+      "description": "Covid cases data for additional geographical units aggregated as 14d periods.\n\nAvailable geographical unit types (geoRegion_type property):\n\nCH - aggregation for switzerland (reference)\nBAE - labor market regions\nBZRK - districts",
+      "properties": {
+        "geoRegion": {
+          "description": "Identification code for the geographical unit. Content is dependant on the 'geoRegion_type':\n\nCH: country code CH\nKTN: 2 letter canton codes (AG, BE, ZH etc.)\nGR: NUTS-2 codes (CH01-CH07)\nGBAE: BFS-OFS identifier (GBAE01-GBAE16)\nBAE: BFS-OFS identifier (BAE01011-BAE16110)\nBZRK: BFS-OFS identifier (BZRK0101-BZRK2603)",
+          "title": "geoRegion",
+          "type": "string"
+        },
+        "geoRegion_type": {
+          "description": "Types (level) of additional geographical units (geoRegion).\n\nCH - aggregation for switzerland (reference)\nBAE - labor market regions\nBZRK - districts",
+          "enum": ["BAE", "BZRK", "CH"],
+          "title": "geoRegion_type",
+          "type": "string"
+        },
+        "geoVersion": {
+          "description": "Release Date of the Swiss official commune register version used to aggregate the data.",
+          "title": "geoVersion",
+          "type": "string"
+        },
+        "inzCategoryNormalized": {
+          "$ref": "https://covid19.admin.ch#/definitions/IncomingInzSumPeriodCat",
+          "title": "inzCategoryNormalized"
+        },
+        "period_end_date": {
+          "description": "End date of the period. Formatted as ISO-Date 2020-10-12",
+          "title": "period_end_date",
+          "type": "string"
+        },
+        "period_start_date": {
+          "description": "Start date of the period. Formatted as ISO-Date 2020-10-12",
+          "title": "period_start_date",
+          "type": "string"
+        },
+        "pop": { "description": "Population number for the given geoRegion.", "title": "pop", "type": "number" },
+        "type": {
+          "description": "COVID19Cases - Refers to persons that have at least one positive PCR/Antigen result for COVID-19.",
+          "enum": ["COVID19Cases"],
+          "title": "type",
+          "type": "string"
+        },
+        "version": {
+          "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
+          "title": "version",
+          "type": "string"
+        }
+      },
+      "title": "AdditionalGeoRegion14dPeriodIncomingData",
+      "type": "object"
+    },
+    "AdditionalGeoRegionBaseIncomingData": {
+      "properties": {
+        "geoRegion": {
+          "description": "Identification code for the geographical unit. Content is dependant on the 'geoRegion_type':\n\nCH: country code CH\nKTN: 2 letter canton codes (AG, BE, ZH etc.)\nGR: NUTS-2 codes (CH01-CH07)\nGBAE: BFS-OFS identifier (GBAE01-GBAE16)\nBAE: BFS-OFS identifier (BAE01011-BAE16110)\nBZRK: BFS-OFS identifier (BZRK0101-BZRK2603)",
+          "title": "geoRegion",
+          "type": "string"
+        },
+        "geoVersion": {
+          "description": "Release Date of the Swiss official commune register version used to aggregate the data.",
+          "title": "geoVersion",
+          "type": "string"
+        },
+        "inzCategoryNormalized": {
+          "$ref": "https://covid19.admin.ch#/definitions/IncomingInzSumPeriodCat",
+          "title": "inzCategoryNormalized"
+        },
+        "pop": { "description": "Population number for the given geoRegion.", "title": "pop", "type": "number" },
+        "type": {
+          "description": "COVID19Cases - Refers to persons that have at least one positive PCR/Antigen result for COVID-19.",
+          "enum": ["COVID19Cases"],
+          "title": "type",
+          "type": "string"
+        },
+        "version": {
+          "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
+          "title": "version",
+          "type": "string"
+        }
+      },
+      "title": "AdditionalGeoRegionBaseIncomingData",
+      "type": "object"
+    },
+    "AdditionalGeoRegionDailyIncomingData": {
+      "description": "Covid cases data for additional geographical units aggregated as daily data.\n\nAvailable geographical unit types (geoRegion_type property):\n\nCH - aggregation for switzerland (reference)\nKTN - cantons\nGR - greater regions\nGBAE - greater labor market regions",
+      "properties": {
+        "date": {
+          "description": "Date of the provided data. Formatted as ISO-Date 2020-10-12",
+          "title": "date",
+          "type": "string"
+        },
+        "geoRegion": {
+          "description": "Identification code for the geographical unit. Content is dependant on the 'geoRegion_type':\n\nCH: country code CH\nKTN: 2 letter canton codes (AG, BE, ZH etc.)\nGR: NUTS-2 codes (CH01-CH07)\nGBAE: BFS-OFS identifier (GBAE01-GBAE16)\nBAE: BFS-OFS identifier (BAE01011-BAE16110)\nBZRK: BFS-OFS identifier (BZRK0101-BZRK2603)",
+          "title": "geoRegion",
+          "type": "string"
+        },
+        "geoRegion_type": {
+          "description": "Types (level) of additional geographical units.\n\nCH - aggregation for switzerland (reference)\nKTN - cantons\nGR - greater regions\nGBAE - greater labor market regions",
+          "enum": ["CH", "GBAE", "GR", "KTN"],
+          "title": "geoRegion_type",
+          "type": "string"
+        },
+        "geoVersion": {
+          "description": "Release Date of the Swiss official commune register version used to aggregate the data.",
+          "title": "geoVersion",
+          "type": "string"
+        },
+        "inzCategoryNormalized": {
+          "$ref": "https://covid19.admin.ch#/definitions/IncomingInzSumPeriodCat",
+          "title": "inzCategoryNormalized"
+        },
+        "pop": { "description": "Population number for the given geoRegion.", "title": "pop", "type": "number" },
+        "type": {
+          "description": "COVID19Cases - Refers to persons that have at least one positive PCR/Antigen result for COVID-19.",
+          "enum": ["COVID19Cases"],
+          "title": "type",
+          "type": "string"
+        },
+        "version": {
+          "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
+          "title": "version",
+          "type": "string"
+        }
+      },
+      "title": "AdditionalGeoRegionDailyIncomingData",
+      "type": "object"
+    },
+    "AdditionalGeoRegionType": {
+      "description": "Types (level) of additional geoRegion data provided.\n\nCH - aggregation for switzerland (reference)\nKTN - cantons\nGR - greater regions\nGBAE - greater labor market regions\nBAE - labor market regions\nBZRK - districts",
+      "enum": ["BAE", "BZRK", "CH", "GBAE", "GR", "KTN"],
+      "type": "string"
+    },
+    "AggregatedGeoUnitIncomingData": {
+      "properties": {
+        "date": {
+          "description": "Date of the provided data. Formatted as ISO-Date 2020-10-12\nOnly available for datum_unit 'day'",
+          "title": "date",
+          "type": "string"
+        },
+        "date_unit": { "enum": ["day", "period"], "title": "date_unit", "type": "string" },
+        "geoRegion": { "description": "Municipality code", "title": "geoRegion", "type": "string" },
+        "inzsumPeriodCat": {
+          "description": "Incidence range category for time period. Formatted as \"120-240\"",
+          "title": "inzsumPeriodCat",
+          "type": "string"
+        },
+        "inzsumPeriod_14dInzNormCat": {
+          "description": "Incidence range category normalized for 14 days. Formatted as \"120-240\"",
+          "title": "inzsumPeriod_14dInzNormCat",
+          "type": "string"
+        },
+        "inzsumPeriod_14dInzNorm_INTERN": { "title": "inzsumPeriod_14dInzNorm_INTERN", "type": "number" },
+        "inzsumPeriod_INTERN": { "title": "inzsumPeriod_INTERN", "type": "number" },
+        "period_end_date": {
+          "description": "Start date of the period. Formatted as ISO-Date 2020-10-12\nOnly available for datum_unit 'Period'",
+          "title": "period_end_date",
+          "type": "string"
+        },
+        "period_start_date": {
+          "description": "Start date of the period. Formatted as ISO-Date 2020-10-12\nOnly available for datum_unit 'Period'",
+          "title": "period_start_date",
+          "type": "string"
+        },
+        "pop": { "description": "Population number for the given geoRegion.", "title": "pop", "type": "number" },
+        "type": { "enum": ["COVID19Cases"], "title": "type", "type": "string" },
+        "type_variant": { "enum": ["subnational"], "title": "type_variant", "type": "string" },
+        "version": {
+          "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
+          "title": "version",
+          "type": "string"
+        }
+      },
+      "title": "AggregatedGeoUnitIncomingData",
+      "type": "object"
+    },
     "ContactTracingDataType": {
       "description": "COVID19CT_Entry - Additionally in quarantine: People who have entered Switzerland from high-risk countries\n\nCOVID19CT_Qua - In quarantine: People who have had contact with infected people\n\nCOVID19CT_Iso - In isolation: People who have tested positive for the coronavirus\n\nCOVID19CT_reporting_cantons - Number of cantons providing data.",
-      "enum": [
-        "COVID19CT_Entry",
-        "COVID19CT_Iso",
-        "COVID19CT_Qua",
-        "COVID19CT_reporting_cantons"
-      ],
+      "enum": ["COVID19CT_Entry", "COVID19CT_Iso", "COVID19CT_Qua", "COVID19CT_reporting_cantons"],
       "title": "ContactTracingDataType",
       "type": "string"
     },
     "ContactTracingIncomingData": {
       "description": "Contact Tracing Data.\n\nNo timeline data, only the current values per geoRegion.",
       "properties": {
-        "date_unit": {
-          "enum": [
-            "day"
-          ],
-          "title": "date_unit",
-          "type": "string"
-        },
+        "date_unit": { "enum": ["day"], "title": "date_unit", "type": "string" },
         "datum": {
           "description": "Date of the most recent collected data.\n\nFormatted as ISO-Date 2020-10-12",
           "title": "datum",
           "type": "string"
         },
-        "entries": {
-          "description": "Absolute value of occurrences.",
-          "title": "entries",
-          "type": "number"
-        },
-        "geoRegion": {
-          "$ref": "https://covid19.admin.ch#/definitions/GeoUnit",
-          "title": "geoRegion"
-        },
-        "type": {
-          "$ref": "https://covid19.admin.ch#/definitions/ContactTracingDataType",
-          "title": "type"
-        },
+        "entries": { "description": "Absolute value of occurrences.", "title": "entries", "type": "number" },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/GeoUnit", "title": "geoRegion" },
+        "type": { "$ref": "https://covid19.admin.ch#/definitions/ContactTracingDataType", "title": "type" },
         "version": {
           "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
           "title": "version",
@@ -49,6 +201,50 @@
       },
       "title": "ContactTracingIncomingData",
       "type": "object"
+    },
+    "CovidCertificatesDailyIncomingData": {
+      "description": "Issued COVID certificates data.\n\nThe data for each type of certificate is published individually as well as the sum of all issued certificates. Check the 'type_variant' property for details.\n\nOnly data for (geoRegion) CH is available.",
+      "properties": {
+        "date": {
+          "description": "Date of the provided data.\n\nFormatted as ISO-Date 2020-10-12",
+          "title": "date",
+          "type": "string"
+        },
+        "entries": {
+          "description": "Number of issued COVID certificates for this day.",
+          "title": "entries",
+          "type": "number"
+        },
+        "geoRegion": { "enum": ["CH"], "title": "geoRegion", "type": "string" },
+        "sumTotal": {
+          "description": "Total number of issued COVID certificates since the start of data recording.",
+          "title": "sumTotal",
+          "type": "number"
+        },
+        "type": {
+          "description": "Issued COVID 19 certificates.",
+          "enum": ["COVID19Certificates"],
+          "title": "type",
+          "type": "string"
+        },
+        "type_variant": {
+          "$ref": "https://covid19.admin.ch#/definitions/CovidCertificatesTypeVariants",
+          "title": "type_variant"
+        },
+        "version": {
+          "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
+          "title": "version",
+          "type": "string"
+        }
+      },
+      "title": "CovidCertificatesDailyIncomingData",
+      "type": "object"
+    },
+    "CovidCertificatesTypeVariants": {
+      "description": "vaccinated - Issued COVID certificates for vaccinated persons.\nrecovered - Issued COVID certificates for persons that have recovered from COVID-19.\ntested - Issued COVID certificates for persons with a negative test result.\nall - Sum of all COVID certificates issued.",
+      "enum": ["all", "recovered", "tested", "vaccinated"],
+      "title": "CovidCertificatesTypeVariants",
+      "type": "string"
     },
     "DailyIncomingData": {
       "description": "DailyIncomingData",
@@ -86,6 +282,13 @@
           "maximum": 100,
           "minimum": 0,
           "title": "anteil_pos_phase2b",
+          "type": "number"
+        },
+        "anteil_pos_phase3": {
+          "description": "Average percentage of positive tests for the phase 3 timeframe. Only applies to records with type \"COVID19Test\"",
+          "maximum": 100,
+          "minimum": 0,
+          "title": "anteil_pos_phase3",
           "type": "number"
         },
         "datum": {
@@ -128,15 +331,8 @@
           "title": "entries_pos",
           "type": "number"
         },
-        "geoRegion": {
-          "$ref": "https://covid19.admin.ch#/definitions/GeoUnit",
-          "title": "geoRegion"
-        },
-        "inz_entries": {
-          "description": "Incidence value for this day.",
-          "title": "inz_entries",
-          "type": "number"
-        },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/GeoUnit", "title": "geoRegion" },
+        "inz_entries": { "description": "Incidence value for this day.", "title": "inz_entries", "type": "number" },
         "inzdelta7d": {
           "description": "Difference between the \"inz_entries\" value of this record compared to the value 7 days before.",
           "title": "inzdelta7d",
@@ -172,6 +368,11 @@
           "title": "inzsumTotal_Phase2b",
           "type": "number"
         },
+        "inzsumTotal_Phase3": {
+          "description": "Sum of the \"inz_entries\" values since the beginning of the phase 3 timeframe.\n\nStarts at 0 for the first day of the timeframe. Only available on records marked as belonging to the timeframe (timeframe_phase3=true).",
+          "title": "inzsumTotal_Phase3",
+          "type": "number"
+        },
         "inzsumTotal_last14d": {
           "description": "Sum of the \"inz_entries\" values since the beginning of the latest 14 days timeframe.\n\nStarts at 0 for the first day of the timeframe. Only available on records marked as belonging to the timeframe (timeframe_14d=true).",
           "title": "inzsumTotal_last14d",
@@ -194,11 +395,7 @@
         },
         "nachweismethode": {
           "description": "Test type used. Only applies to records with type \"Covid19Test\".",
-          "enum": [
-            "Antigen_Schnelltest",
-            "PCR",
-            "all"
-          ],
+          "enum": ["Antigen_Schnelltest", "PCR", "all"],
           "title": "nachweismethode",
           "type": "string"
         },
@@ -210,6 +407,11 @@
         "offset_Phase2b": {
           "description": "Sum of the \"entries\" values up until the start of the phase 2b timeframe.",
           "title": "offset_Phase2b",
+          "type": "number"
+        },
+        "offset_Phase3": {
+          "description": "Sum of the \"entries\" values up until the start of the phase 3 timeframe.",
+          "title": "offset_Phase3",
           "type": "number"
         },
         "offset_last14d": {
@@ -227,11 +429,7 @@
           "title": "offset_last7d",
           "type": "number"
         },
-        "pop": {
-          "description": "Population number for the given geoRegion.",
-          "title": "pop",
-          "type": "number"
-        },
+        "pop": { "description": "Population number for the given geoRegion.", "title": "pop", "type": "number" },
         "pos_anteil": {
           "description": "Percentage of positive tests. Only applies to records with type \"COVID19Test\"",
           "maximum": 100,
@@ -267,6 +465,11 @@
         "sumTotal_Phase2b": {
           "description": "Sum of the \"entries\" values since the beginning of the phase 2b timeframe.\n\nStarts at 0 for the first day of the timeframe. Only available on records marked as belonging to the timeframe (timeframe_phase2b=true).",
           "title": "sumTotal_Phase2b",
+          "type": "number"
+        },
+        "sumTotal_Phase3": {
+          "description": "Sum of the \"entries\" values since the beginning of the phase 3 timeframe.\n\nStarts at 0 for the first day of the timeframe. Only available on records marked as belonging to the timeframe (timeframe_phase3=true).",
+          "title": "sumTotal_Phase3",
           "type": "number"
         },
         "sumTotal_last14d": {
@@ -319,10 +522,12 @@
           "title": "timeframe_phase2b",
           "type": "boolean"
         },
-        "type": {
-          "$ref": "https://covid19.admin.ch#/definitions/IncomingDataType",
-          "title": "type"
+        "timeframe_phase3": {
+          "description": "Indicator if the record belongs to the phase 3 timeframe. Starts at 15.02.2020 (Iso-Week 2021-09).",
+          "title": "timeframe_phase3",
+          "type": "boolean"
         },
+        "type": { "$ref": "https://covid19.admin.ch#/definitions/IncomingDataType", "title": "type" },
         "version": {
           "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
           "title": "version",
@@ -335,38 +540,12 @@
     "DailyReportIncomingData": {
       "description": "Optional extra text for the daily report.",
       "properties": {
-        "content.de": {
-          "description": "Text german.",
-          "title": "content.de",
-          "type": "string"
-        },
-        "content.en": {
-          "description": "Text english",
-          "title": "content.en",
-          "type": "string"
-        },
-        "content.fr": {
-          "description": "Text french.",
-          "title": "content.fr",
-          "type": "string"
-        },
-        "content.it": {
-          "description": "Text italian.",
-          "title": "content.it",
-          "type": "string"
-        },
-        "content.rm": {
-          "description": "Text romansh.",
-          "title": "content.rm",
-          "type": "string"
-        },
-        "type": {
-          "enum": [
-            "COVID19EvalTextDaily"
-          ],
-          "title": "type",
-          "type": "string"
-        },
+        "content.de": { "description": "Text german.", "title": "content.de", "type": "string" },
+        "content.en": { "description": "Text english", "title": "content.en", "type": "string" },
+        "content.fr": { "description": "Text french.", "title": "content.fr", "type": "string" },
+        "content.it": { "description": "Text italian.", "title": "content.it", "type": "string" },
+        "content.rm": { "description": "Text romansh.", "title": "content.rm", "type": "string" },
+        "type": { "enum": ["COVID19EvalTextDaily"], "title": "type", "type": "string" },
         "version": {
           "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
           "title": "version",
@@ -386,6 +565,13 @@
         "BL",
         "BS",
         "CH",
+        "CH01",
+        "CH02",
+        "CH03",
+        "CH04",
+        "CH05",
+        "CH06",
+        "CH07",
         "CHFL",
         "FL",
         "FR",
@@ -590,10 +776,7 @@
           "title": "date",
           "type": "string"
         },
-        "geoRegion": {
-          "$ref": "https://covid19.admin.ch#/definitions/GeoUnit",
-          "title": "geoRegion"
-        },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/GeoUnit", "title": "geoRegion" },
         "timeframe_14d": {
           "description": "Indicator if the record belongs to the latest 14 days timeframe. Current day is usually excluded.",
           "title": "timeframe_14d",
@@ -624,16 +807,15 @@
           "title": "timeframe_phase2b",
           "type": "boolean"
         },
-        "type": {
-          "$ref": "https://covid19.admin.ch#/definitions/IncomingDataType",
-          "title": "type"
+        "timeframe_phase3": {
+          "description": "Indicator if the record belongs to the phase 3 timeframe. Starts at 15.02.2020 (Iso-Week 2021-09).",
+          "title": "timeframe_phase3",
+          "type": "boolean"
         },
+        "type": { "$ref": "https://covid19.admin.ch#/definitions/IncomingDataType", "title": "type" },
         "type_variant": {
           "description": "Type variant to indicate how the reported data is handled for days where a hospital does not report any new data.\n\nfp7d The latest reported data is considered valid for 7 days and the latest values are forward propagated for 7 days on each record.\n\nnfp Reported date is only valid for the current day, no forward propagation is done. Each record reflects the data reported for that specific day.",
-          "enum": [
-            "fp7d",
-            "nfp"
-          ],
+          "enum": ["fp7d", "nfp"],
           "title": "type_variant",
           "type": "string"
         },
@@ -648,31 +830,66 @@
     },
     "IncomingAgeRange": {
       "description": "Age range brackets (10 year steps) used for data breakdown by age.",
-      "enum": [
-        "0 - 9",
-        "10 - 19",
-        "20 - 29",
-        "30 - 39",
-        "40 - 49",
-        "50 - 59",
-        "60 - 69",
-        "70 - 79",
-        "80+"
-      ],
+      "enum": ["0 - 9", "10 - 19", "20 - 29", "30 - 39", "40 - 49", "50 - 59", "60 - 69", "70 - 79", "80+"],
       "title": "IncomingAgeRange",
       "type": "string"
     },
     "IncomingDataType": {
       "description": "COVID19Cases - Refers to persons that have at least one positive PCR/Antigen result for COVID-19. The number of cases differs from the number of new declarations announced daily due to the reporting delay.\n\nCOVID19Death - Refers to persons that have at least one positive PCR/Antigen result for COVID-19 for which we have received a declaration of death.\n\nCOVID19Hosp - Refers to persons that have at least one positive PCR result for COVID-19 for which we have received a clinical declaration stating that the person was hospitalized (at least one night stay). Hospitalizations without date of hospital entry will not occur in this table.\n\nCOVID19Test - Refers to PCR/Antigen tests for COVID-19 with a positive or a negative result.\n\nCOVID19HospCapacity - Refers to hospital (ICU/Total) capacity and occupancy information.",
-      "enum": [
-        "COVID19Cases",
-        "COVID19Death",
-        "COVID19Hosp",
-        "COVID19HospCapacity",
-        "COVID19Re",
-        "COVID19Test"
-      ],
+      "enum": ["COVID19Cases", "COVID19Death", "COVID19Hosp", "COVID19HospCapacity", "COVID19Re", "COVID19Test"],
       "title": "IncomingDataType",
+      "type": "string"
+    },
+    "IncomingInzSumPeriodCat": {
+      "description": "Incidence values for the specified period (1 day or 2 weeks) normalized to 14 days (divided by the respective time interval for which it was calculated and multiplied by 14 days) and grouped into categories afterwards to ensure data privacy (especially for smaller geographical units) and comparability.",
+      "enum": ["0-59", "120-239", "1920+", "240-479", "480-959", "60-119", "960-1919"],
+      "title": "IncomingInzSumPeriodCat",
+      "type": "string"
+    },
+    "IncomingVaccinationIndicationType": {
+      "description": "Indication (reason) for the vaccination. If multiple indications are present, only the indication with the highest priority is chosen: 'age' > 'chronic_disease' > 'med_prof' > 'contact_vuln' > 'contact_comm' > 'other'\n\nage - Age\nchronic_disease - Chronic disease\nmed_prof - Healthcare worker with patient contact/carer for people at especially high risk\ncontact_vuln - Close contact with people at especially high risk\ncontact_comm - Lives/works in communal facility with an elevated risk of infection and outbreak\nother - All other not further specified indications (rest of the population).\n\nall - sum of all specific indications ('age', 'chronic_disease', 'med_prof', 'contact_vuln', 'contact_comm', 'other')\nrisk_groups - sum of all risks groups (includes indications types 'age', 'chronic_disease', 'med_prof', 'contact_vuln' & 'contact_comm')\nnot_vaccinated - remaining unvaccinated part of the population (only applies to type=\"COVID19FullyVaccPersons\"), reduced data available compared to other vaccination indication types",
+      "enum": [
+        "age",
+        "all",
+        "chronic_disease",
+        "contact_comm",
+        "contact_vuln",
+        "med_prof",
+        "not_vaccinated",
+        "other",
+        "risk_groups"
+      ],
+      "title": "IncomingVaccinationIndicationType",
+      "type": "string"
+    },
+    "IncomingVaccinationLocationType": {
+      "description": "Location of the administered vaccination dose.\n\nhospital - Hospitals\nmedical_practice - Medical practices\nnursing_home - Retirement and care homes\npharmacy - Pharmacies\nvaccination_centre - Vaccination locations\nother - All other not further specified (or unknown) locations.",
+      "enum": ["hospital", "medical_practice", "nursing_home", "other", "pharmacy", "vaccination_centre"],
+      "title": "IncomingVaccinationLocationType",
+      "type": "string"
+    },
+    "IncomingVaccinationSymptomsAgeRange": {
+      "description": "Age range brackets according to standard pharmacovigilance used for data breakdown by age.",
+      "enum": ["0 - 1", "12 - 17", "18 - 44", "2 - 11", "45 - 64", "65 - 74", "75+", "all", "unknown"],
+      "title": "IncomingVaccinationSymptomsAgeRange",
+      "type": "string"
+    },
+    "IncomingVaccinationSymptomsSeverity": {
+      "description": "Severity type of the adverse vaccination reaction.\n\nall - Sum of all severities ('serious', 'not_serious')\nserious - Serious side effects are those that are fatal or life-threatening, require hospitalization or extension of hospitalization, lead to permanent or serious disability or invalidity, or are manifested in a congenital malformation or a birth defect. Serious side effects are also considered to be medically important because they pose an acute risk to the patient or require intervention to prevent a serious outcome.\nnot_serious - All other adverse vaccination reactions",
+      "enum": ["all", "not_serious", "serious"],
+      "title": "IncomingVaccinationSymptomsSeverity",
+      "type": "string"
+    },
+    "IncomingVaccinationSymptomsVaccineType": {
+      "description": "Vaccines that cause adverse vaccination reactions.\n\nmoderna - COVID-19 Vaccine Moderna® (Moderna)\npfizer_biontech - Comirnaty® (Pfizer / BioNTech)\nunknown - Administered vaccine unknown\n\nall - Sum of all specific vaccines ('moderna', 'pfizer_biontech', 'unknown')",
+      "enum": ["all", "moderna", "pfizer_biontech", "unknown"],
+      "title": "IncomingVaccinationSymptomsVaccineType",
+      "type": "string"
+    },
+    "IncomingVaccinationVaccineType": {
+      "description": "Vaccines in use.\n\nmoderna - COVID-19 Vaccine Moderna® (Moderna)\npfizer_biontech - Comirnaty® (Pfizer / BioNTech)",
+      "enum": ["moderna", "pfizer_biontech"],
+      "title": "IncomingVaccinationVaccineType",
       "type": "string"
     },
     "IntGeoUnit": {
@@ -995,11 +1212,7 @@
     },
     "IntGeoUnitLevel": {
       "description": "Level of the IntGeoUnit.\n\nISO2 Two digit ISO 3166-1 country code.\nNUTS-1 NUTS Level 1 region (EU)\nNUTS-2 NUTS Level 2 region (EU)",
-      "enum": [
-        "ISO2",
-        "NUTS-1",
-        "NUTS-2"
-      ],
+      "enum": ["ISO2", "NUTS-1", "NUTS-2"],
       "title": "IntGeoUnitLevel",
       "type": "string"
     },
@@ -1016,19 +1229,9 @@
           "title": "entries",
           "type": "number"
         },
-        "geoLevel": {
-          "$ref": "https://covid19.admin.ch#/definitions/IntGeoUnitLevel",
-          "title": "geoLevel"
-        },
-        "geoRegion": {
-          "$ref": "https://covid19.admin.ch#/definitions/IntGeoUnit",
-          "title": "geoRegion"
-        },
-        "geoRegionName": {
-          "description": "Name of the geoRegion.",
-          "title": "geoRegionName",
-          "type": "string"
-        },
+        "geoLevel": { "$ref": "https://covid19.admin.ch#/definitions/IntGeoUnitLevel", "title": "geoLevel" },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/IntGeoUnit", "title": "geoRegion" },
+        "geoRegionName": { "description": "Name of the geoRegion.", "title": "geoRegionName", "type": "string" },
         "inz_entries": {
           "description": "Incidence value for given date. If entries are not available for every day incidence of the difference between the last reported total and the total 14 days before is calculated.",
           "title": "inz_entries",
@@ -1051,19 +1254,11 @@
         },
         "source": {
           "description": "Data source either OWID (Our World in Data), WHO (World Health Organization) or BAG (Bundesamt für Gesundheit).",
-          "enum": [
-            "BAG",
-            "OWID",
-            "WHO"
-          ],
+          "enum": ["BAG", "OWID", "WHO"],
           "title": "source",
           "type": "string"
         },
-        "sum14d": {
-          "description": "Sum of the \"entries\" for the last 14d.",
-          "title": "sum14d",
-          "type": "number"
-        },
+        "sum14d": { "description": "Sum of the \"entries\" for the last 14d.", "title": "sum14d", "type": "number" },
         "sumTotal": {
           "description": "Sum of the \"entries\" values since the start of data recording.",
           "title": "sumTotal",
@@ -1085,7 +1280,7 @@
           "type": "boolean"
         },
         "timeframe_phase2": {
-          "description": "Indicator if the record belongs to the phase 2 timeframe. Starts at 08.06.2020 (Iso-Week 2020-24).\n.",
+          "description": "Indicator if the record belongs to the phase 2 timeframe. Starts at 08.06.2020 (Iso-Week 2020-24).",
           "title": "timeframe_phase2",
           "type": "boolean"
         },
@@ -1094,11 +1289,14 @@
           "title": "timeframe_phase2b",
           "type": "boolean"
         },
+        "timeframe_phase3": {
+          "description": "Indicator if the record belongs to the phase 3 timeframe. Starts at 15.02.2020 (Iso-Week 2021-09).",
+          "title": "timeframe_phase3",
+          "type": "boolean"
+        },
         "type": {
           "description": "International data types:\n\nCOVID19IntCase - reported cases data",
-          "enum": [
-            "COVID19IntCases"
-          ],
+          "enum": ["COVID19IntCases"],
           "title": "type",
           "type": "string"
         },
@@ -1114,14 +1312,8 @@
     "InternationalQuarantineIncomingData": {
       "description": "International Quarantine Data.\n\nMandatory quarantine requirement when entering Switzerland.\n\nNo timeline data, only the quarantine start and end per geoRegion.",
       "properties": {
-        "geoLevel": {
-          "$ref": "https://covid19.admin.ch#/definitions/IntGeoUnitLevel",
-          "title": "geoLevel"
-        },
-        "geoRegion": {
-          "$ref": "https://covid19.admin.ch#/definitions/IntGeoUnit",
-          "title": "geoRegion"
-        },
+        "geoLevel": { "$ref": "https://covid19.admin.ch#/definitions/IntGeoUnitLevel", "title": "geoLevel" },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/IntGeoUnit", "title": "geoRegion" },
         "quarantineEnd": {
           "description": "Scheduled end date of quarantine. If start is set but no end, the quarantine is valid until revoked.\n\nFormatted as ISO-Date 2020-10-12",
           "title": "quarantineEnd",
@@ -1134,9 +1326,7 @@
         },
         "type": {
           "description": "International Quarantine data type.",
-          "enum": [
-            "COVID19IntQua"
-          ],
+          "enum": ["COVID19IntQua"],
           "title": "type",
           "type": "string"
         },
@@ -1157,10 +1347,7 @@
           "title": "date",
           "type": "string"
         },
-        "geoRegion": {
-          "$ref": "https://covid19.admin.ch#/definitions/GeoUnit",
-          "title": "geoRegion"
-        },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/GeoUnit", "title": "geoRegion" },
         "median_R_highHPD": {
           "description": "upper bound of the 95% confidence interval",
           "title": "median_R_highHPD",
@@ -1211,10 +1398,12 @@
           "title": "timeframe_phase2b",
           "type": "boolean"
         },
-        "type": {
-          "$ref": "https://covid19.admin.ch#/definitions/IncomingDataType",
-          "title": "type"
+        "timeframe_phase3": {
+          "description": "Indicator if the record belongs to the phase 3 timeframe. Starts at 15.02.2020 (Iso-Week 2021-09).",
+          "title": "timeframe_phase3",
+          "type": "boolean"
         },
+        "type": { "$ref": "https://covid19.admin.ch#/definitions/IncomingDataType", "title": "type" },
         "version": {
           "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
           "title": "version",
@@ -1226,37 +1415,58 @@
     },
     "Sex": {
       "description": "Sex\n\nunknown - If no gender information was provided for the associated data.\nmale",
-      "enum": [
-        "female",
-        "male",
-        "unknown"
-      ],
+      "enum": ["female", "male", "unknown"],
       "title": "Sex",
       "type": "string"
     },
-    "VaccinationIncomingData": {
-      "description": "Vaccination data for delivered and administered vaccine doses. Most current total values are provided.\n\nCOVID19VaccDosesDelivered - Number of vaccine doses delivered to the cantons\nCOVID19VaccDosesReceived - Number of vaccine doses received from manufacturers (only available for CHFL)\nCOVID19VaccDosesAdministered - Number of vaccine doses administered\nCOVID19FullyVaccPersons - Number of fully vaccinated persons",
+    "VaccinationContingentIncomingData": {
+      "description": "Allotted contingent of vaccine doses by geoRegion.",
       "properties": {
         "date": {
           "description": "Date of the provided data.\n\nFormatted as ISO-Date 2020-10-12",
           "title": "date",
           "type": "string"
         },
-        "entries": {
-          "description": "Value for the current day.",
-          "title": "entries",
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/GeoUnit", "title": "geoRegion" },
+        "per100PersonsTotal": {
+          "description": "Total value per 100 inhabitants since the start of vaccination.",
+          "title": "per100PersonsTotal",
           "type": "number"
         },
-        "geoRegion": {
-          "$ref": "https://covid19.admin.ch#/definitions/GeoUnit",
-          "title": "geoRegion"
+        "pop": { "description": "Population number for the given geoRegion.", "title": "pop", "type": "number" },
+        "sumTotal": {
+          "description": "Total value since the start of vaccination.",
+          "title": "sumTotal",
+          "type": "number"
         },
+        "type": {
+          "description": "COVID19VaccDosesContingent - Allotted contingent of vaccination doses",
+          "enum": ["COVID19VaccDosesContingent"],
+          "title": "type",
+          "type": "string"
+        },
+        "version": {
+          "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
+          "title": "version",
+          "type": "string"
+        }
+      },
+      "title": "VaccinationContingentIncomingData",
+      "type": "object"
+    },
+    "VaccinationIncomingData": {
+      "description": "Vaccination data for delivered and administered vaccine doses. Most current total values are provided.\n\nCOVID19VaccDosesDelivered - Number of vaccine doses delivered to the cantons\nCOVID19VaccDosesReceived - Number of vaccine doses received from manufacturers (only available for CHFL)\nCOVID19VaccDosesAdministered - Number of vaccine doses administered\nCOVID19FullyVaccPersons - Number of fully vaccinated persons\nCOVID19AtLeastOneDosePersons - Number of persons that have received at least one dose\nCOVID19PartiallyVaccPersons - Number of persons that are partially vaccinated (difference between COVID19AtLeastOneDosePersons and COVID19FullyVaccPersons)",
+      "properties": {
+        "date": {
+          "description": "Date of the provided data.\n\nFormatted as ISO-Date 2020-10-12",
+          "title": "date",
+          "type": "string"
+        },
+        "entries": { "description": "Value for the current day.", "title": "entries", "type": "number" },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/GeoUnit", "title": "geoRegion" },
         "granularity": {
           "description": "Granularity of the reported data.\n\nsummary - cumulative data of current totals reported biweekly by cantons\ndetailed - singular data of vaccine events through automated reporting including demographic information",
-          "enum": [
-            "detailed",
-            "summary"
-          ],
+          "enum": ["detailed", "summary"],
           "title": "granularity",
           "type": "string"
         },
@@ -1280,20 +1490,18 @@
           "title": "per100Persons_mean7d",
           "type": "number"
         },
-        "pop": {
-          "description": "Population number for the given geoRegion.",
-          "title": "pop",
-          "type": "number"
-        },
+        "pop": { "description": "Population number for the given geoRegion.", "title": "pop", "type": "number" },
         "sumTotal": {
           "description": "Total value since the start of vaccination.",
           "title": "sumTotal",
           "type": "number"
         },
         "type": {
-          "description": "COVID19VaccDosesDelivered - Number of vaccine doses delivered to the cantons\nCOVID19VaccDosesReceived - Number of vaccine doses received from manufacturers (only available for CHFL)\nCOVID19VaccDosesAdministered - Number of vaccine doses administered\nCOVID19FullyVaccPersons - Number of fully vaccinated persons",
+          "description": "COVID19VaccDosesDelivered - Number of vaccine doses delivered to the cantons\nCOVID19VaccDosesReceived - Number of vaccine doses received from manufacturers (only available for CHFL)\nCOVID19VaccDosesAdministered - Number of vaccine doses administered\nCOVID19FullyVaccPersons - Number of fully vaccinated persons\nCOVID19AtLeastOneDosePersons - Number of persons that have received at least one dose\nCOVID19PartiallyVaccPersons - Number of persons that are partially vaccinated (difference between COVID19AtLeastOneDosePersons and COVID19FullyVaccPersons)",
           "enum": [
+            "COVID19AtLeastOneDosePersons",
             "COVID19FullyVaccPersons",
+            "COVID19PartiallyVaccPersons",
             "COVID19VaccDosesAdministered",
             "COVID19VaccDosesDelivered",
             "COVID19VaccDosesReceived"
@@ -1310,17 +1518,122 @@
       "title": "VaccinationIncomingData",
       "type": "object"
     },
+    "VaccinationSymptomsIncomingData": {
+      "description": "Daily data for suspected cases of adverse vaccination reactions based on reports from Swissmedic.",
+      "properties": {
+        "age_group": {
+          "$ref": "https://covid19.admin.ch#/definitions/IncomingVaccinationSymptomsAgeRange",
+          "title": "age_group"
+        },
+        "date": {
+          "description": "Date of the provided data.\n\nFormatted as ISO-Date 2020-10-12",
+          "title": "date",
+          "type": "string"
+        },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/GeoUnit", "title": "geoRegion" },
+        "severity": {
+          "$ref": "https://covid19.admin.ch#/definitions/IncomingVaccinationSymptomsSeverity",
+          "title": "severity"
+        },
+        "sumTotal": {
+          "description": "Total value of suspected cases of adverse vaccination reactions since the start of vaccination.",
+          "title": "sumTotal",
+          "type": "number"
+        },
+        "type": {
+          "description": "COVID19VaccSymptoms - Number of suspected cases of adverse vaccination reactions",
+          "enum": ["COVID19VaccSymptoms"],
+          "title": "type",
+          "type": "string"
+        },
+        "vaccine": {
+          "$ref": "https://covid19.admin.ch#/definitions/IncomingVaccinationSymptomsVaccineType",
+          "title": "vaccine"
+        },
+        "version": {
+          "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
+          "title": "version",
+          "type": "string"
+        }
+      },
+      "title": "VaccinationSymptomsIncomingData",
+      "type": "object"
+    },
+    "VaccinationVaccineIncomingData": {
+      "description": "Daily vaccination data by vaccine (type/manufacturer).",
+      "properties": {
+        "date": {
+          "description": "Date of the provided data.\n\nFormatted as ISO-Date 2020-10-12",
+          "title": "date",
+          "type": "string"
+        },
+        "entries": { "description": "Value for the current day.", "title": "entries", "type": "number" },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/GeoUnit", "title": "geoRegion" },
+        "granularity": {
+          "description": "Granularity of the reported data.\n\ndetailed - singular data of vaccine events through automated reporting including demographic information\nsummary - cumulative data of current totals reported biweekly by cantons",
+          "enum": ["detailed", "summary"],
+          "title": "granularity",
+          "type": "string"
+        },
+        "mean7d": {
+          "description": "Rolling 7 day average (-3 days/ +3 days from the current day) of the \"entries\" values.",
+          "title": "mean7d",
+          "type": "number"
+        },
+        "per100Persons": {
+          "description": "Value per 100 inhabitants for the current day.",
+          "title": "per100Persons",
+          "type": "number"
+        },
+        "per100PersonsTotal": {
+          "description": "Total value per 100 inhabitants since the start of vaccination.",
+          "title": "per100PersonsTotal",
+          "type": "number"
+        },
+        "per100Persons_mean7d": {
+          "description": "Rolling 7 day average (-3 days/ +3 days from the current day) of the \"per100Persons\" values.",
+          "title": "per100Persons_mean7d",
+          "type": "number"
+        },
+        "pop": { "description": "Population number for the given geoRegion.", "title": "pop", "type": "number" },
+        "sumTotal": {
+          "description": "Total value since the start of vaccination.",
+          "title": "sumTotal",
+          "type": "number"
+        },
+        "type": {
+          "description": "COVID19VaccDosesAdministered - Number of vaccine doses administered\nCOVID19FullyVaccPersons - Number of fully vaccinated persons",
+          "enum": ["COVID19FullyVaccPersons", "COVID19VaccDosesAdministered"],
+          "title": "type",
+          "type": "string"
+        },
+        "type_variant": {
+          "description": "Indicator for which extra dimension/bracket the data has been broken down for in addition to geoRegion.\n\nvaccine - breakdown of vacc doses and fully vaccinated people by the vaccine (type)",
+          "enum": ["vaccine"],
+          "title": "type_variant",
+          "type": "string"
+        },
+        "vaccine": {
+          "$ref": "https://covid19.admin.ch#/definitions/IncomingVaccinationVaccineType",
+          "title": "vaccine"
+        },
+        "version": {
+          "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
+          "title": "version",
+          "type": "string"
+        }
+      },
+      "title": "VaccinationVaccineIncomingData",
+      "type": "object"
+    },
     "VaccinationWeeklyIncomingData": {
-      "description": "Iso-Week aggregated vaccination records broken down by geoRegion and sex/age brackets for vaccination data.\n\nCOVID19VaccDosesAdministered - Number of vaccine doses administered\nCOVID19FullyVaccPersons - Number of fully vaccinated persons",
+      "description": "Iso-Week aggregated vaccination records broken down by geoRegion and sex/age brackets for vaccination data.\n\nCOVID19VaccDosesAdministered - Number of vaccine doses administered\nCOVID19FullyVaccPersons - Number of fully vaccinated persons\nCOVID19AtLeastOneDosePersons - Number of persons that have received at least one dose\nCOVID19PartiallyVaccPersons - Number of persons that are partially vaccinated (difference between COVID19AtLeastOneDosePersons and COVID19FullyVaccPersons)",
       "properties": {
         "altersklasse_covid19": {
           "$ref": "https://covid19.admin.ch#/definitions/IncomingAgeRange",
           "title": "altersklasse_covid19"
         },
-        "date": {
-          "title": "date",
-          "type": "number"
-        },
+        "date": { "title": "date", "type": "number" },
         "entries": {
           "description": "Absolute number of occurrences for this iso-week.",
           "title": "entries",
@@ -1333,17 +1646,10 @@
           "title": "freq",
           "type": "number"
         },
-        "geoRegion": {
-          "$ref": "https://covid19.admin.ch#/definitions/GeoUnit",
-          "title": "geoRegion"
-        },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/GeoUnit", "title": "geoRegion" },
         "granularity": {
           "description": "Granularity of the reported data.\n\nsummary - cumulative data of current totals reported biweekly by cantons\ndetailed - singular data of vaccine events through automated reporting including demographic information\npartial - incomplete detailed data for CH + CHFL aggregations including only geoRegions with granularity detailed (records do not include all values)",
-          "enum": [
-            "detailed",
-            "partial",
-            "summary"
-          ],
+          "enum": ["detailed", "partial", "summary"],
           "title": "granularity",
           "type": "string"
         },
@@ -1369,19 +1675,18 @@
           "title": "prct",
           "type": "number"
         },
-        "sex": {
-          "$ref": "https://covid19.admin.ch#/definitions/Sex",
-          "title": "sex"
-        },
+        "sex": { "$ref": "https://covid19.admin.ch#/definitions/Sex", "title": "sex" },
         "sumTotal": {
           "description": "Sum of the \"entries\" values since the start of data recording.",
           "title": "sumTotal",
           "type": "number"
         },
         "type": {
-          "description": "COVID19VaccDosesAdministered - Number of vaccine doses administered\nCOVID19FullyVaccPersons - Number of fully vaccinated persons",
+          "description": "COVID19VaccDosesAdministered - Number of vaccine doses administered\nCOVID19FullyVaccPersons - Number of fully vaccinated persons\nCOVID19AtLeastOneDosePersons - Number of persons that have received at least one dose\nCOVID19PartiallyVaccPersons - Number of persons that are partially vaccinated (difference between COVID19AtLeastOneDosePersons and COVID19FullyVaccPersons)",
           "enum": [
+            "COVID19AtLeastOneDosePersons",
             "COVID19FullyVaccPersons",
+            "COVID19PartiallyVaccPersons",
             "COVID19VaccDosesAdministered"
           ],
           "title": "type",
@@ -1389,10 +1694,7 @@
         },
         "type_variant": {
           "description": "Indicator for which extra dimension/bracket the data has been broken down for in addition to geoRegion.\n\nsex = breakdown by sex\naltersklasse_covid19 = breakdown by age",
-          "enum": [
-            "altersklasse_covid19",
-            "sex"
-          ],
+          "enum": ["altersklasse_covid19", "sex"],
           "title": "type_variant",
           "type": "string"
         },
@@ -1405,12 +1707,193 @@
       "title": "VaccinationWeeklyIncomingData",
       "type": "object"
     },
+    "VaccinationWeeklyIndicationIncomingData": {
+      "description": "Weekly vaccination data by indication (reason).",
+      "properties": {
+        "date": { "title": "date", "type": "number" },
+        "entries": {
+          "description": "Absolute number of occurrences for this iso-week.",
+          "title": "entries",
+          "type": "number"
+        },
+        "freq": {
+          "description": "Percentage of the current vaccinaton indication bracket in comparison to all brackets for this ISO-week (based off 'entries' value).",
+          "maximum": 1,
+          "minimum": 0,
+          "title": "freq",
+          "type": "number"
+        },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/GeoUnit", "title": "geoRegion" },
+        "granularity": {
+          "description": "Granularity of the reported data.\n\ndetailed - singular data of vaccine events through automated reporting including demographic information\npartial - incomplete detailed data for CH + CHFL aggregations including only geoRegions with granularity detailed (records do not include all values)",
+          "enum": ["detailed", "partial"],
+          "title": "granularity",
+          "type": "string"
+        },
+        "indication": {
+          "$ref": "https://covid19.admin.ch#/definitions/IncomingVaccinationIndicationType",
+          "title": "indication"
+        },
+        "per100Persons": {
+          "description": "Per 100 persons value for this iso-week.",
+          "title": "per100Persons",
+          "type": "number"
+        },
+        "per100PersonsTotal": {
+          "description": "Sum of the \"per100Persons\" values since the start of data recording.",
+          "title": "per100PersonsTotal",
+          "type": "number"
+        },
+        "pop": {
+          "description": "Population number for the current record (priority_group bracket).",
+          "title": "pop",
+          "type": "number"
+        },
+        "prct": {
+          "description": "Percentage of the current vaccination indication bracket in comparison to all brackets for this ISO-week (based off 'entries' value).",
+          "maximum": 100,
+          "minimum": 0,
+          "title": "prct",
+          "type": "number"
+        },
+        "prctPop": {
+          "description": "Percentage of the current vaccination indication bracket in comparison to the population for this ISO-week (based off 'entries' value).",
+          "maximum": 100,
+          "minimum": 0,
+          "title": "prctPop",
+          "type": "number"
+        },
+        "prctPopSumTotal": {
+          "description": "Percentage of the current vaccination indication bracket in comparison to the population in sum up to this ISO-week (based off the 'sumTotal' value).",
+          "maximum": 100,
+          "minimum": 0,
+          "title": "prctPopSumTotal",
+          "type": "number"
+        },
+        "prctSumTotal": {
+          "description": "Percentage of the current vaccination indication bracket in comparison to all brackets in sum up to this ISO-week (based off the 'sumTotal' value).",
+          "maximum": 100,
+          "minimum": 0,
+          "title": "prctSumTotal",
+          "type": "number"
+        },
+        "sumTotal": {
+          "description": "Sum of the \"entries\" values since the start of data recording.",
+          "title": "sumTotal",
+          "type": "number"
+        },
+        "type": {
+          "description": "COVID19VaccDosesAdministered - Number of vaccine doses administered\nCOVID19FullyVaccPersons - Number of fully vaccinated persons",
+          "enum": ["COVID19FullyVaccPersons", "COVID19VaccDosesAdministered"],
+          "title": "type",
+          "type": "string"
+        },
+        "type_variant": {
+          "description": "Indicator for which extra dimension/bracket the data has been broken down for in addition to geoRegion.\n\nindication - breakdown of vacc doses and fully vaccinated people by the indication (reason) for the vaccination",
+          "enum": ["indication"],
+          "title": "type_variant",
+          "type": "string"
+        },
+        "version": {
+          "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
+          "title": "version",
+          "type": "string"
+        }
+      },
+      "title": "VaccinationWeeklyIndicationIncomingData",
+      "type": "object"
+    },
+    "VaccinationWeeklyLocationIncomingData": {
+      "description": "Weekly vaccination data by location.",
+      "properties": {
+        "date": { "title": "date", "type": "number" },
+        "entries": {
+          "description": "Absolute number of occurrences for this iso-week.",
+          "title": "entries",
+          "type": "number"
+        },
+        "freq": {
+          "description": "Percentage of the current vaccination location bracket in comparison to all brackets for this ISO-week (based off 'entries' value).",
+          "maximum": 1,
+          "minimum": 0,
+          "title": "freq",
+          "type": "number"
+        },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/GeoUnit", "title": "geoRegion" },
+        "granularity": {
+          "description": "Granularity of the reported data.\n\ndetailed - singular data of vaccine events through automated reporting including demographic information\npartial - incomplete detailed data for CH + CHFL aggregations including only geoRegions with granularity detailed (records do not include all values)",
+          "enum": ["detailed", "partial"],
+          "title": "granularity",
+          "type": "string"
+        },
+        "location": {
+          "$ref": "https://covid19.admin.ch#/definitions/IncomingVaccinationLocationType",
+          "title": "location"
+        },
+        "per100Persons": {
+          "description": "Per 100 persons value for this iso-week.",
+          "title": "per100Persons",
+          "type": "number"
+        },
+        "per100PersonsTotal": {
+          "description": "Sum of the \"per100Persons\" values since the start of data recording.",
+          "title": "per100PersonsTotal",
+          "type": "number"
+        },
+        "pop": {
+          "description": "Population number for the current record (priority_group bracket).",
+          "title": "pop",
+          "type": "number"
+        },
+        "prct": {
+          "description": "Percentage of the current vaccination location bracket in comparison to all brackets for this ISO-week (based off 'entries' value).",
+          "maximum": 100,
+          "minimum": 0,
+          "title": "prct",
+          "type": "number"
+        },
+        "prctSumTotal": {
+          "description": "Percentage of the current vaccination location bracket in comparison to all brackets in sum up to this ISO-week (based off the 'sumTotal' value).",
+          "maximum": 100,
+          "minimum": 0,
+          "title": "prctSumTotal",
+          "type": "number"
+        },
+        "sumTotal": {
+          "description": "Sum of the \"entries\" values since the start of data recording.",
+          "title": "sumTotal",
+          "type": "number"
+        },
+        "type": {
+          "description": "COVID19VaccDosesAdministered - Number of vaccine doses administered",
+          "enum": ["COVID19VaccDosesAdministered"],
+          "title": "type",
+          "type": "string"
+        },
+        "type_variant": {
+          "description": "Indicator for which extra dimension/bracket the data has been broken down for in addition to geoRegion.\n\nlocation - breakdown of vacc doses by vaccination location",
+          "enum": ["location"],
+          "title": "type_variant",
+          "type": "string"
+        },
+        "version": {
+          "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
+          "title": "version",
+          "type": "string"
+        }
+      },
+      "title": "VaccinationWeeklyLocationIncomingData",
+      "type": "object"
+    },
     "VirusVariantType": {
-      "description": "Virus variant types.\n\nvoc_pos - All positive tests identified as a variant of concern\nvoc_known -  All sequencing results reported by laboratories including both positive and negative results for all variants of concern. For this variant_type, especially in the beginning of the surveillance, there are only positive but not negative results available. Therefore anteil_pos is not available in this structure.\nvoc_digitally_reported -  All sequencing results reported digitally by laboratories including both positive and negative results for all variants of concern. For this variant_type, the period where a lab has reported only positives but not negatives was excluded. Therefore anteil_pos is available in this structure.\nB.1.1.7 - All cases with a positive test identifying the variant B.1.1.7 (501Y.V1)\nB.1.351 - All cases with a positive test identifying the variant B.1.351 (501Y.V2)\nP.1 -  All cases with a positive test identifying the variant P.1 (501Y.V3)\nS:N501Y - All cases with a positive test identifying the mutation S:N501Y. This does not include variants that have been identified in detail (B.1.1.7, B.1.351 or P.1)\nS:N501Y_E484K - All cases with a positive test identifying the mutation S:N501Y and E484K. This does not include variants that have been identified in detail (B.1.1.7, B.1.351 or P.1) and cases for which only the S:N501Y mutation has been identified.",
+      "description": "Virus variant types.\n\nvoc_pos - All positive tests identified as a variant of concern\nvoc_known -  All sequencing results reported by laboratories including both positive and negative results for all variants of concern. For this variant_type, especially in the beginning of the surveillance, there are only positive but not negative results available. Therefore anteil_pos is not available in this structure.\nvoc_digitally_reported -  All sequencing results reported digitally by laboratories including both positive and negative results for all variants of concern. For this variant_type, the period where a lab has reported only positives but not negatives was excluded. Therefore anteil_pos is available in this structure.\nB.1.1.7 - All cases with a positive test identifying the variant B.1.1.7 (501Y.V1)\nB.1.1.7 & E484K - All cases with a positive test identifying the variant B.1.1.7 and E484K mutation\nB.1.351 - All cases with a positive test identifying the variant B.1.351 (501Y.V2)\nB.1.617 - All cases with a positive test identifying the variant B.1.617\nP.1 - All cases with a positive test identifying the variant P.1 (501Y.V3)\nP.2 - All cases with a positive test identifying the variant P.2\nS:N501Y - All cases with a positive test identifying the mutation S:N501Y. This does not include variants that have been identified in detail (B.1.1.7, B.1.351 or P.1)\nS:N501Y_E484K - All cases with a positive test identifying the mutation S:N501Y and E484K. This does not include variants that have been identified in detail (B.1.1.7, B.1.351 or P.1) and cases for which only the S:N501Y mutation has been identified.",
       "enum": [
         "B.1.1.7",
+        "B.1.1.7 & E484K",
         "B.1.351",
+        "B.1.617",
         "P.1",
+        "P.2",
         "S:N501Y",
         "S:N501Y_E484K",
         "voc_digitally_reported",
@@ -1418,6 +1901,24 @@
         "voc_pos"
       ],
       "title": "VirusVariantType",
+      "type": "string"
+    },
+    "VirusVariantWgsType": {
+      "description": "Virus variant types.\n\nB.1.1.7 - All sequencing results identifying the variant B.1.1.7 (501Y.V1)\nB.1.351 - All sequencing results test identifying the variant B.1.351 (501Y.V2)\nB.1.525 - All sequencing results test identifying the variant B.1.525\nB.1.526 - All sequencing results test identifying the variant B.1.526\nB.1.617.1 - All sequencing results test identifying the variant B.1.617.1\nB.1.617.2 - All sequencing results test identifying the variant B.1.617.2\nP.1 -  All cases with a positive test identifying the variant P.1 (501Y.V3)\nP.2 -  All cases with a positive test identifying the variant P.2\nother_lineages - All other lineages, not specifically monitored.\nall_sequenced - Sum of all sequencing results. Indicates how many samples were analyzed (per day/in total)",
+      "enum": [
+        "B.1.1.7",
+        "B.1.1.7 & E484K",
+        "B.1.351",
+        "B.1.525",
+        "B.1.526",
+        "B.1.617.1",
+        "B.1.617.2",
+        "P.1",
+        "P.2",
+        "all_sequenced",
+        "other_lineages"
+      ],
+      "title": "VirusVariantWgsType",
       "type": "string"
     },
     "VirusVariantsDailyIncomingData": {
@@ -1435,11 +1936,14 @@
         },
         "data_quality": {
           "description": "Indicates if the quality and quantity of the available data lends itself to calculate a reasonable percentage of variants of concern. In general the characterisation of variants before 30.01 was not widely enough established or digitally reported to BAG (i.e. negative results were not reported).",
-          "enum": [
-            "insufficient",
-            "sufficient"
-          ],
+          "enum": ["insufficient", "sufficient"],
           "title": "data_quality",
+          "type": "string"
+        },
+        "data_source": {
+          "description": "Data source for these records.\n\nmsys - Targeted investigation of individual mutations or partial or complete sequencing of the genome reported from diagnostic laboratories via the mandatory declaration system. Data is mainly collected in the context of containment measures and is thus not representative.",
+          "enum": ["msys"],
+          "title": "data_source",
           "type": "string"
         },
         "date": {
@@ -1462,10 +1966,7 @@
           "title": "entries_pos",
           "type": "number"
         },
-        "geoRegion": {
-          "$ref": "https://covid19.admin.ch#/definitions/GeoUnit",
-          "title": "geoRegion"
-        },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/GeoUnit", "title": "geoRegion" },
         "lower_ci_day": {
           "description": "The daily 95 % binomial proportion confidence interval of the anteil_pos was estimated with the Clopper and Pearson (1934) method. lower_ci_day represents the lower daily boundary. Only applies to variant_type 'voc_known' and 'voc_digitally_reported'.",
           "title": "lower_ci_day",
@@ -1484,6 +1985,11 @@
         "sumTotal_Phase2b": {
           "description": "Sum of the 'entries' value since the beginning of the timeframe_phase2b timeframe.",
           "title": "sumTotal_Phase2b",
+          "type": "number"
+        },
+        "sumTotal_Phase3": {
+          "description": "Sum of the 'entries' value since the beginning of the timeframe_phase3 timeframe.",
+          "title": "sumTotal_Phase3",
           "type": "number"
         },
         "sumTotal_last14d": {
@@ -1521,11 +2027,14 @@
           "title": "timeframe_phase2b",
           "type": "boolean"
         },
+        "timeframe_phase3": {
+          "description": "Indicator if the record belongs to the phase 3 timeframe. Starts at 15.02.2020 (Iso-Week 2021-09).",
+          "title": "timeframe_phase3",
+          "type": "boolean"
+        },
         "type": {
           "description": "COVID19VirusVariants - identified virus variants and sequencing results",
-          "enum": [
-            "COVID19VirusVariants"
-          ],
+          "enum": ["COVID19VirusVariants"],
           "title": "type",
           "type": "string"
         },
@@ -1534,10 +2043,7 @@
           "title": "upper_ci_day",
           "type": "number"
         },
-        "variant_type": {
-          "$ref": "https://covid19.admin.ch#/definitions/VirusVariantType",
-          "title": "variant_type"
-        },
+        "variant_type": { "$ref": "https://covid19.admin.ch#/definitions/VirusVariantType", "title": "variant_type" },
         "version": {
           "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
           "title": "version",
@@ -1552,12 +2058,99 @@
       "title": "VirusVariantsDailyIncomingData",
       "type": "object"
     },
+    "VirusVariantsWgsDailyIncomingData": {
+      "description": "Identified virus variants and sequencing results.\n\nTwo different data sources are available ('data_source' property):\n\nmsys - Targeted investigation of individual mutations or partial or complete sequencing of the genome reported from diagnostic laboratories via the mandatory declaration system. Data is mainly collected in the context of containment measures and is thus not representative.\n\nwgs - Identified virus variants and sequencing results from the genomic surveillance program. The genomic surveillance results are based on whole genome sequencing of SARS-CoV-2. A representative sample of all positive cases is sequenced (aim: 2000 samples/week) to have an overview of currently circulating virus variants and to estimate the proportion of individual variants. Not all laboratories participating in the program are technically connected for now, therefore the cantonal data is not representative. Only data for CHFL is published.",
+      "properties": {
+        "classification": {
+          "description": "Classification of the variant_type\n\ndefault - default classification of all virus variants",
+          "enum": ["default"],
+          "title": "classification",
+          "type": "string"
+        },
+        "data_source": {
+          "description": "Data source for these records.\n\nmsys - Targeted investigation of individual mutations or partial or complete sequencing of the genome reported from diagnostic laboratories via the mandatory declaration system. Data is mainly collected in the context of containment measures and is thus not representative.\n\nwgs - Identified virus variants and sequencing results from the genomic surveillance program. The genomic surveillance results are based on whole genome sequencing of SARS-CoV-2. A representative sample of all positive cases is sequenced (aim: 2000 samples/week) to have an overview of currently circulating virus variants and to estimate the proportion of individual variants. Not all laboratories participating in the program are technically connected for now, therefore the cantonal data is not representative. Only data for CHFL is published.",
+          "enum": ["msys", "wgs"],
+          "title": "data_source",
+          "type": "string"
+        },
+        "date": {
+          "description": "Date of the provided data.\n\nFormatted as ISO-Date 2020-10-12",
+          "title": "date",
+          "type": "string"
+        },
+        "entries": {
+          "description": "Absolute number of occurrences for this day.",
+          "title": "entries",
+          "type": "number"
+        },
+        "freq": {
+          "description": "Estimated percentage of the current virus variant for this day (values: 0-1).",
+          "title": "freq",
+          "type": "number"
+        },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/GeoUnit", "title": "geoRegion" },
+        "prct": {
+          "description": "Estimated percentage of the current virus variant for this day (values: 0-100).",
+          "title": "prct",
+          "type": "number"
+        },
+        "prct_lower_ci": {
+          "description": "The daily 95 % binomial proportion confidence interval of the 'prct' value was estimated with the Clopper and Pearson (1934) method. prct_lower_ci represents the lower daily boundary.",
+          "title": "prct_lower_ci",
+          "type": "number"
+        },
+        "prct_mean7d": {
+          "description": "Rolling 7 day average of the estimated percentage of the current virus variant for this day.",
+          "title": "prct_mean7d",
+          "type": "number"
+        },
+        "prct_upper_ci": {
+          "description": "The daily 95 % binomial proportion confidence interval of the 'prct' value was estimated with the Clopper and Pearson (1934) method. prct_upper_ci represents the upper daily boundary.",
+          "title": "prct_upper_ci",
+          "type": "number"
+        },
+        "sumTotal": { "description": "Sum of the 'entries' values.", "title": "sumTotal", "type": "number" },
+        "timeframe_all": {
+          "description": "Indicator if the record belongs to the timeframe for all available data.",
+          "title": "timeframe_all",
+          "type": "boolean"
+        },
+        "type": {
+          "description": "COVID19VirusVariants - identified virus variants and sequencing results",
+          "enum": ["COVID19VirusVariants"],
+          "title": "type",
+          "type": "string"
+        },
+        "variant_type": {
+          "$ref": "https://covid19.admin.ch#/definitions/VirusVariantWgsType",
+          "title": "variant_type"
+        },
+        "version": {
+          "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
+          "title": "version",
+          "type": "string"
+        }
+      },
+      "title": "VirusVariantsWgsDailyIncomingData",
+      "type": "object"
+    },
     "WeeklyIncomingData": {
       "description": "Iso-Week aggregated records broken down by geoRegion and sex/age brackets.",
       "properties": {
         "altersklasse_covid19": {
           "$ref": "https://covid19.admin.ch#/definitions/IncomingAgeRange",
           "title": "altersklasse_covid19"
+        },
+        "anteil_pos": { "description": "Share of positive tests.", "title": "anteil_pos", "type": "number" },
+        "anteil_pos_all": {
+          "description": "Average share of positive tests since the start of data recording. Only applies to records with type \"COVID19Test\"",
+          "title": "anteil_pos_all",
+          "type": "number"
+        },
+        "anteil_pos_diff": {
+          "description": "Difference of \"anteil_pos\" to previous week.",
+          "title": "anteil_pos_diff",
+          "type": "number"
         },
         "datum": {
           "description": "Date of case for cases, date of hospital entry for hospitalisations and the date of death for deaths.\nThe date of case is constructed taking the earliest available of:\nthe date of swab, the date of test, and the date the report arrived at the FOPH.\nGenerally, the date of case corresponds to the date the swab was taken.\n\nFormatted as ISO-Week number 202009",
@@ -1569,16 +2162,25 @@
           "title": "datum_dboardformated",
           "type": "string"
         },
-        "datum_unit": {
-          "enum": [
-            "isoweek"
-          ],
-          "title": "datum_unit",
-          "type": "string"
-        },
+        "datum_unit": { "enum": ["isoweek"], "title": "datum_unit", "type": "string" },
         "entries": {
           "description": "Absolute number of occurrences for this iso-week.",
           "title": "entries",
+          "type": "number"
+        },
+        "entries_diff_abs": {
+          "description": "Difference of the \"entries\" value to the previous week.",
+          "title": "entries_diff_abs",
+          "type": "number"
+        },
+        "entries_diff_inz": {
+          "description": "Difference of the \"inz_entries\" value to the previous week.",
+          "title": "entries_diff_inz",
+          "type": "number"
+        },
+        "entries_diff_pct": {
+          "description": "Difference of the \"entries\" value to the previous week as percentage.",
+          "title": "entries_diff_pct",
           "type": "number"
         },
         "freq": {
@@ -1588,10 +2190,7 @@
           "title": "freq",
           "type": "number"
         },
-        "geoRegion": {
-          "$ref": "https://covid19.admin.ch#/definitions/GeoUnit",
-          "title": "geoRegion"
-        },
+        "geoRegion": { "$ref": "https://covid19.admin.ch#/definitions/GeoUnit", "title": "geoRegion" },
         "inz_entries": {
           "description": "Incidence value for this iso-week.",
           "title": "inz_entries",
@@ -1601,6 +2200,12 @@
           "description": "Sum of the \"inz_entries\" values since the start of data recording.",
           "title": "inzsumTotal",
           "type": "number"
+        },
+        "nachweismethode": {
+          "description": "Test type used. Only applies to records with type \"Covid19Test\".",
+          "enum": ["Antigen_Schnelltest", "PCR", "all"],
+          "title": "nachweismethode",
+          "type": "string"
         },
         "pop": {
           "description": "Population number for the current record (geoRegion and sex/age bracket).",
@@ -1614,10 +2219,12 @@
           "title": "prct",
           "type": "number"
         },
-        "sex": {
-          "$ref": "https://covid19.admin.ch#/definitions/Sex",
-          "title": "sex"
+        "prct_diff": {
+          "description": "Difference of the \"prct\" value to the previous week.",
+          "title": "prct_diff",
+          "type": "number"
         },
+        "sex": { "$ref": "https://covid19.admin.ch#/definitions/Sex", "title": "sex" },
         "sumTotal": {
           "description": "Sum of the \"entries\" values since the start of data recording.",
           "title": "sumTotal",
@@ -1653,16 +2260,15 @@
           "title": "timeframe_phase2b",
           "type": "boolean"
         },
-        "type": {
-          "$ref": "https://covid19.admin.ch#/definitions/IncomingDataType",
-          "title": "type"
+        "timeframe_phase3": {
+          "description": "Indicator if the record belongs to the phase 3 timeframe. Starts at 15.02.2020 (Iso-Week 2021-09).",
+          "title": "timeframe_phase3",
+          "type": "boolean"
         },
+        "type": { "$ref": "https://covid19.admin.ch#/definitions/IncomingDataType", "title": "type" },
         "type_variant": {
           "description": "Indicator for which extra dimension/bracket the data has been broken down for in addition to geoRegion.\n\nsex = breakdown by sex\naltersklasse_covid19 = breakdown by age",
-          "enum": [
-            "altersklasse_covid19",
-            "sex"
-          ],
+          "enum": ["altersklasse_covid19", "sex"],
           "title": "type_variant",
           "type": "string"
         },
@@ -1674,8 +2280,60 @@
       },
       "title": "WeeklyIncomingData",
       "type": "object"
+    },
+    "WeeklyReportIncomingData": {
+      "description": "Weekly report texts by iso-week.",
+      "properties": {
+        "date": {
+          "description": "Iso-Week the text is referring to.\n\nFormatted as ISO-Week number 202110",
+          "title": "date",
+          "type": "number"
+        },
+        "de": { "description": "Text german.", "title": "de", "type": "string" },
+        "en": { "description": "Text english", "title": "en", "type": "string" },
+        "fr": { "description": "Text french.", "title": "fr", "type": "string" },
+        "identifier": {
+          "$ref": "https://covid19.admin.ch#/definitions/WeeklyReportTextIdentifier",
+          "title": "identifier"
+        },
+        "it": { "description": "Text italian.", "title": "it", "type": "string" },
+        "rm": { "description": "Text romansh.", "title": "rm", "type": "string" },
+        "type": { "enum": ["COVID19weeklyReportText"], "title": "type", "type": "string" },
+        "version": {
+          "description": "Timestamp of data processing.\n\nformat YYYY-MM-DD_HH-mm-SS",
+          "title": "version",
+          "type": "string"
+        }
+      },
+      "title": "WeeklyReportIncomingData",
+      "type": "object"
+    },
+    "WeeklyReportTextIdentifier": {
+      "enum": [
+        "cases-demography",
+        "cases-geography",
+        "cases-summary",
+        "deaths-demography",
+        "deaths-geography",
+        "deaths-summary",
+        "hospitalisations-demography",
+        "hospitalisations-geography",
+        "hospitalisations-summary",
+        "overview-cases",
+        "overview-contact_tracing",
+        "overview-deaths",
+        "overview-hospitalisations",
+        "overview-short_description",
+        "overview-tests",
+        "tests-demography",
+        "tests-geography",
+        "tests-share_of_positive_tests",
+        "tests-summary"
+      ],
+      "title": "WeeklyReportTextIdentifier",
+      "type": "string"
     }
   },
   "title": "COVID-19 Dashboard Source Data",
-  "version": "0.4.4"
+  "version": "0.13.0"
 }

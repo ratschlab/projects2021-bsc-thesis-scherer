@@ -17,6 +17,7 @@ Check the `data` folder for the data source files.
 | COVID19Hosp_geoRegion_w.(json/csv) | WeeklyIncomingData | Iso-Week record timelines by geoRegion for hospitalisations. |
 | COVID19Death_geoRegion_w.(json/csv) | WeeklyIncomingData | Iso-Week record timelines by geoRegion for deaths. |
 | COVID19Test_geoRegion_w.(json/csv) | WeeklyIncomingData | Iso-Week record timelines by geoRegion for tests. |
+| COVID19Test_geoRegion_PCR_Antigen_w.(json/csv) | WeeklyIncomingData | Iso-Week record timelines by geoRegion and test type (pcr/antigen) for tests. |
 | COVID19Cases_geoRegion_AKL10_w.(json/csv) | WeeklyIncomingData | Iso-Week record timelines by geoRegion and age brackets for cases. |
 | COVID19Hosp_geoRegion_AKL10_w.(json/csv) | WeeklyIncomingData | Iso-Week record timelines by geoRegion and age brackets for hospitalisations. |
 | COVID19Death_geoRegion_AKL10_w.(json/csv) | WeeklyIncomingData | Iso-Week record timelines by geoRegion and age brackets for deaths. |
@@ -25,6 +26,9 @@ Check the `data` folder for the data source files.
 | COVID19Hosp_geoRegion_sex_w.(json/csv) | WeeklyIncomingData | Iso-Week record timelines by geoRegion and sex for hospitalisations. |
 | COVID19Death_geoRegion_sex_w.(json/csv) | WeeklyIncomingData | Iso-Week record timelines by geoRegion and sex for deaths. |
 | COVID19Test_geoRegion_sex_w.(json/csv) | WeeklyIncomingData | Iso-Week record timelines by geoRegion and sex for tests (all test types). |
+| COVID19Cases_extraGeoRegions_d.(json/csv) | AdditionalGeoRegionDailyIncomingData | Daily record timelines by (additonal) geographical units for cases. Contains data for CH, cantons, greater regions & greater labor market regions. |
+| COVID19Cases_extraGeoRegions_14d.(json/csv) | AdditionalGeoRegion14dPeriodIncomingData | 14d aggregated record timelines by (additional) geographical units for cases. Contains data for CH, labor market regions & districts. |
+| COVID19WeeklyReportText.(json/csv) | WeeklyReportIncomingData | Weekly report texts by Iso-Week. |
 | COVID19EvalTextDaily.(json/csv) | DailyReportIncomingData | Optional extra texts for daily report (PDF). |
 | COVID19QuarantineIsolation_geoRegion_d.(json/csv) | ContactTracingIncomingData | Contact tracing data (current record by geoRegion where available). |
 | COVID19HospCapacity_geoRegion.(json/csv) | HospCapacityDailyIncomingData | Daily hospital capacity data timelines by geoRegion. |
@@ -33,38 +37,132 @@ Check the `data` folder for the data source files.
 | COVID19Re_geoRegion.(json/csv) | ReDailyIncomingData | Daily R<sub>e</sub> value data timelines by geoRegion. |
 | COVID19VaccDosesDelivered.(json/csv) | VaccinationIncomingData | Vaccine doses delivered data by geoRegion. |
 | COVID19VaccDosesAdministered.(json/csv) | VaccinationIncomingData | Vaccine doses administered data by geoRegion. |
-| COVID19FullyVaccPersons.(json/csv) | VaccinationIncomingData | Fully vaccinated persons data by geoRegion. |
+| COVID19VaccDosesAdministered_vaccine.(json/csv) | VaccinationVaccineIncomingData | Vaccine doses administered data by geoRegion and vaccine (type). |
+| COVID19VaccPersons.(json/csv) | VaccinationIncomingData | Vaccinated persons data by geoRegion. |
+| COVID19FullyVaccPersons_vaccine.(json/csv) | VaccinationVaccineIncomingData| Fully vaccinated persons data by geoRegion and vaccine (type). |
 | COVID19VaccDosesAdministered_AKL10_w.(json/csv) | VaccinationWeeklyIncomingData | Iso-Week record timelines by geoRegion and age brackets for vaccine doses administered. |
-| COVID19FullyVaccPersons_AKL10_w.(json/csv) | VaccinationWeeklyIncomingData | Iso-Week record timelines by geoRegion and age brackets for fully vaccinated persons. |
+| COVID19VaccPersons_AKL10_w.(json/csv) | VaccinationWeeklyIncomingData | Iso-Week record timelines by geoRegion and age brackets for vaccinated persons. |
 | COVID19VaccDosesAdministered_sex_w.(json/csv) VaccinationWeeklyIncomingData | Iso-Week record timelines by geoRegion and sex for vaccine doses administered. |
-| COVID19FullyVaccPersons_sex_w.(json/csv) | VaccinationWeeklyIncomingData | Iso-Week record timelines by geoRegion and sex for fully vaccinated persons. |
-| COVID19Variants.(json/csv) | VirusVariantsDailyIncomingData | Virus variant data by geoRegion. |
+| COVID19VaccPersons_sex_w.(json/csv) | VaccinationWeeklyIncomingData | Iso-Week record timelines by geoRegion and sex for vaccinated persons. |
+| COVID19FullyVaccPersons_indication_w.(json/csv) | VaccinationWeeklyIndicationIncomingData | Iso-Week record timelines by geoRegion and vacc indication (reason) for fully vaccinated persons. File will be removed after 15.06.2021. |
+| COVID19VaccDosesAdministered_indication_w.(json/csv) | VaccinationWeeklyIndicationIncomingData | Iso-Week record timelines by geoRegion and vacc indication (reason) for vaccine doses administered. |
+| COVID19VaccDosesAdministered_location_w.(json/csv) | VaccinationWeeklyLocationIncomingData | Iso-Week record timelines by geoRegion and location for vaccine doses administered. |
+| COVID19VaccSymptoms.(json/csv) | VaccinationSymptomsIncomingData | Data for suspected cases of adverse vaccination reactions based on reports from Swissmedic. |
+| COVID19VaccDosesContingent.(json/csv) | VaccinationContingentIncomingData | Allotted vaccination doses contingent data by geoRegion. |
+| *DEPRECATED* COVID19Variants.(json/csv) | VirusVariantsDailyIncomingData | Virus variant data by geoRegion (source MSys). This file will not be updated anymore after 17.06.2021 and will be removed after 30.06.2021 |
+| COVID19Variants_wgs.(json/csv) | VirusVariantsWgsDailyIncomingData |  Virus variant data by geoRegion (source WGS & MSys). |
+| COVID19Certificates.(json/csv) | CovidCertificatesDailyIncomingData | Issued COVID certificates data. |
 
 ## Schema
 Check the `sources.schema.json` file for schema information (only json-schema format for now).
 
 Please note that the data schema can change in the future and be released in a new version. Changes will be tracked here and the current schema version can be read from the data context (see section Download Automation below).
 
+### Upcoming Releases
+
+### v.0.xx.0
+**Planned Release Date**: `TBD - available after all cantons report detailed vaccination information`
+**Description**:
+- once all cantons report detailed vaccination data, the data on vaccinated person (types `COVID19FullyVaccPersons`, `COVID19AtLeastOneDosePersons` and `COVID19PartiallyVaccPersons`) will be updated to be aggregated geographically by the residence of the person and no longer by the location of the administered doses.
+- the following files (aggregation based on location of administered doses) will be DEPRECATED and will not updated anymore: `COVID19VaccPersons.(json/csv)`, `COVID19FullyVaccPersons_vaccine.(json/csv)`, `COVID19FullyVaccPersons_indication_w`, ` COVID19VaccPersons_AKL10_w.(json/csv)` and `COVID19VaccPersons_sex_w.(json/csv)`
+- more information about this upcoming release (exact release date, model changes, new files etc.) will be published here once available.
+
 ### Releases
 
+### v.0.13.0
+**Released**: `21.06.2021`
+**Description**:
+- added new source file for allotted contigent of vaccination doses: `COVID19VaccDosesContingent.(json/csv)`
+- added model `VaccinationContingentIncomingData`
+
+### v.0.12.0
+**Released**: `17.06.2021`
+**Description**:
+- the data for virus variant B.1.617 (Kappa/Delta) will be removed and replaced by individual entries for B.1.617.1 (Kappa) and B.1.617.2 (Delta)
+- udpated model `VirusVariantsWgsDailyIncomingData`
+- the file `COVID19Variants.(json/csv)` has become DEPRECATED and will not be updated anymore after 17.06.2021 and will be removed after 30.06.2021
+- the data for the following variants sourced from MSys (formerly available in the file `COVID19Variants.(json/csv)`) have been added to the `COVID19Variants_wgs.(json/csv)` file: P.1, B.1.617.1  B.1.617.2, B.1.525 (newly reported from 17.06.2021 onward), B.1.351, B.1.1.7 and B.1.1.7 & E484K. Check the `data_source` property to distinguish between the different sources.
+- removed DEPRECATED files from version `v.0.8.0`
+
+### v.0.11.0
+**Released**: `14.06.2021`
+**Description**:
+- added new source files for additional geographical unit (greater regions, labor market regions, greater labor market regions and districts) breakdown for cases data: `COVID19Cases_extraGeoRegions_d.(json/csv)` and `COVID19Cases_extraGeoRegions_14d`
+- added model documentation for `AdditionalGeoRegionDailyIncomingData`
+
+### v.0.10.0
+**Released**: `08.06.2021`
+**Description**:
+- added new source file for covid certificate data: `COVID19Certificates.(json/csv)`
+- added model documentation `CovidCertificatesDailyIncomingData`
+
+### v.0.9.0
+**Released**: `25.05.2021`
+**Description**:
+- added new source files for suspected cases of adverse vaccination reactions based on reports from Swissmedic: `COVID19VaccSymptoms.(json/csv)`
+- added model documentation `VaccinationSymptomsIncomingData`
+
+### v.0.8.0
+**Released**: `18.05.2021`
+**Description**:
+- added new source files for virus variant data from WGS: `COVID19Variants_wgs`
+- added model documentation `VirusVariantsWgsDailyIncomingData`
+- added new source files for vaccinated person data (including fully vaccinated persons, persons with at least one dose and partially vaccinated persons): `COVID19VaccPersons.(json/csv)`, `COVID19VaccPersons_AKL10_w.(json/csv)` and `COVID19VaccPersons_sex_w.(json/csv)`
+- the following files are being DEPRECATED and will be removed after 15.06.2021: `COVID19FullyVaccPersons.(json/csv)`, `COVID19FullyVaccPersons_AKL10_w.(json/csv)` and `COVID19FullyVaccPersons_sex_w.(json/csv)`. The information about fully vaccinated persons is included in the files mentioned above (COVID19VaccPersons*)
+
+### v.0.7.0
+**Released**: `11.05.2021`
+**Description**:
+- added new source files for daily vaccination by vaccine (type) data: `COVID19FullyVaccPersons_vaccine.(json/csv)` and `COVID19VaccDosesAdministered_vaccine.(json/csv)`
+- added model documentation `VaccinationVaccineIncomingData`
+
+### v.0.6.0
+**Released**: `04.05.2021`
+**Description**:
+- added new source files for weekly vaccination by indication (reason) data: `COVID19FullyVaccPersons_indication_w.(json/csv)` and `COVID19VaccDosesAdministered_indication_w.(json/csv)`
+- added model documentation `VaccinationWeeklyIndicationIncomingData`
+- added new source file for weekly vaccination by location data: `COVID19VaccDosesAdministered_location_w.(json/csv)`
+- added model documentation `VaccinationWeeklyLocationIncomingData`
+
+### v.0.5.0
+**Released**: `29.04.2021`
+**Description**:
+- added new source file for weekly report text data: `COVID19WeeklyReportText.(json/csv)`
+- added new source file for weekly test data by test type: `COVID19Test_geoRegion_PCR_Antigen_w.(json/csv)`
+- extended the `WeeklyIncomingData` model with data regarding differences to the previous week & extension for test types
+
+### v.0.4.6
+**Released**: `26.04.2021`
+**Description**:
+  - added property `timeframe_phase3` to `HospCapacityDailyIncomingData` model
+
+### v.0.4.5
+**Released**: `19.04.2021`
+**Description**:
+- added new timeframe phase 3 starting from 15.02
+  - added properties `offset_Phase3`, `sumTotal_Phase3`, `inzsumTotal_Phase3`, `anteil_pos_phase3` and `timeframe_phase3` to `DailyIncomingData` model
+  - added properties `timeframe_phase3` to  `WeeklyIncomingData` model
+  - added properties `sumTotal_Phase3` and `timeframe_phase3` to `VirusVariantsDailyIncomingData` model
+  - added property `timeframe_phase3` to `ReDailyIncomingData` model
+
 ### v.0.4.4
-**Released**: ` 25.03.2021`
+**Released**: `25.03.2021`
 **Description**:
 - added `granularity` value `partial` to  `VaccinationWeeklyIncomingData` model
 
 ### v.0.4.3
-**Released**: ` 19.03.2021`
+**Released**: `19.03.2021`
 **Description**:
 - added data context history API, see documentation below for details
 - added new properties `anteil_pos`, `lower_ci_day` and `upper_ci_day` to the `VirusVariantsDailyIncomingData` model
 
 ### v.0.4.2
-**Released**: ` 26.02.2021`
+**Released**: `26.02.2021`
 **Description**:
 - added new property `mean7d` to the `VaccinationIncomingData` model
 
 ### v.0.4.1
-**Released**: ` 23.02.2021`
+**Released**: `23.02.2021`
 **Description**:
 - added new weekly source files for fully vaccinated persons: `COVID19FullyVaccPerson_AKL10_ws.(json/csv)`, `COVID19FullyVaccPerson_sex_ws.(json/csv)`
 - added new weekly source files for vaccination doses administered: `COVID19VaccDosesAdministered_AKL10_w.(json/csv)`, `COVID19VaccDosesAdministered_sex_w.(json/csv)`

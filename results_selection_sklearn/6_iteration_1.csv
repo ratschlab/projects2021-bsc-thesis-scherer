@@ -1,0 +1,5 @@
+modelClass,task,week,model rmse 1,model rmse 2,isMultiWeek,alpha,tol,iteration,modelId,modelIdNumber
+MultiTaskLasso,case_inz_entries_7dayAverage,0,4.575963660591763,11.467073777426899,True,0.8,False,1,modelClass=MultiTaskLasso/isMultiWeek=True/alpha=0.8/tol=False/task=case_inz_entries_7dayAverage,0
+MultiTaskLasso,case_inz_entries_7dayAverage,1,6.531312641956195,16.134785548357403,True,0.8,False,1,modelClass=MultiTaskLasso/isMultiWeek=True/alpha=0.8/tol=False/task=case_inz_entries_7dayAverage,0
+MultiTaskLasso,case_inz_entries_7dayAverage,2,8.184421464547667,16.620716416565795,True,0.8,False,1,modelClass=MultiTaskLasso/isMultiWeek=True/alpha=0.8/tol=False/task=case_inz_entries_7dayAverage,0
+MultiTaskLasso,case_inz_entries_7dayAverage,3,10.455020115502961,14.867626770638404,True,0.8,False,1,modelClass=MultiTaskLasso/isMultiWeek=True/alpha=0.8/tol=False/task=case_inz_entries_7dayAverage,0
