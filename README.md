@@ -1,4 +1,5 @@
-# projects2021-bsc-thesis-scherer
+# Predicting the development of theCOVID-19 pandemic at thecantonal level in Switzerland withMachine Learning.
+
 This repository contains the code and data for the bachelor thesis of David Scherer.
 
 Some of the results and the models are zipped because Github does not allow files larger than 100MB.
