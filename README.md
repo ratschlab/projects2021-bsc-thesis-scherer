@@ -1,4 +1,4 @@
-# Predicting the development of theCOVID-19 pandemic at thecantonal level in Switzerland withMachine Learning.
+# Predicting the development of the COVID-19 pandemic at the cantonal level in Switzerland with Machine Learning.
 
 This repository contains the code and data for the bachelor thesis of David Scherer.
 
