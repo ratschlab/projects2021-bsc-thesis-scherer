@@ -7,3 +7,6 @@ Some of the results and the models are zipped because Github does not allow file
 The submission scripts are used for commiting the jobs for Leonhard.
 
 The helpers are used for collecting the results from Leonhard.
+
+
+For any question please contact: scherdav@student.ethz.ch
